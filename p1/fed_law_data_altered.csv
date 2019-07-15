@@ -1,0 +1,1309 @@
+CASE,DATE,YEAR,DECADE,EFFECT,STAT NAME,PL #,S-DATE,TIME TO DECISION,CONGRESS,AREA1,LNDMRK,LNDDTL,ATT GEN,CERT,REVERSD,CRS,GVT PRTY,DISSENT,H-CT
+United States v. Yale Todd,2/17/1794,1794,1790,struck down on face,Invalid Pensions Act,2-9,3/19/1792,23,2,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Penhallow v. Doane's Adm'rs,2/24/1795,1795,1790,upheld,Court of Appeals Resolution,,5/24/1780,177,0,Federalism,0.0,0.0,1,0,1.0,0.0,0,0,1
+Hylton v. United States,3/8/1796,1796,1790,upheld,Carriage Tax Act,2-33,6/5/1794,21,3,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. La Vengeance,8/11/1796,1796,1790,upheld,Arms Exportation Act,2-24,5/22/1794,28,3,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,1
+Mossman v. Higginson,8/11/1800,1800,1800,struck down as applied,Judiciary Act of 1789,1-20,9/24/1789,131,1,Federalism,1.0,0.0,0,0,0.0,0.0,0,0,0
+Marbury v. Madison,2/24/1803,1803,1800,struck down on face,Judiciary Act of 1789,1-20,9/24/1789,161,1,Separation of Powers,1.0,0.0,0,0,0.0,1.0,1,0,0
+Stuart v. Laird,3/2/1803,1803,1800,upheld,Repeal Act of 1801,7-6,3/8/1802,12,7,Separation of Powers,1.0,1.0,0,0,0.0,0.0,0,0,1
+United States v. Fisher,2/21/1805,1805,1800,upheld,Effectual Settlement of Accounts Act,4-19,3/3/1797,83,4,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+Ex Parte Bollman,2/20/1807,1807,1800,upheld,Judiciary Act of 1789,1-20,9/24/1789,209,1,Separation of Powers,1.0,0.0,0,0,0.0,0.0,1,1,0
+United States v. Cantril,2/28/1807,1807,1800,struck down on face,Bank Frauds Act,5-48,6/27/1798,104,5,Due Process,0.0,0.0,0,0,0.0,0.0,1,0,0
+"United States v. Schooner Betsey and Charlotte, and her Cargo",3/16/1807,1807,1800,upheld,St. Domingo Trade Suspension Act,9-9,2/28/1806,13,9,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,1
+Hodgson v. Bowerbank,2/1/1809,1809,1800,struck down as applied,Judiciary Act of 1789,1-20,9/24/1789,233,1,Federalism,1.0,0.0,0,0,0.0,0.0,0,0,0
+Cargo of the Brig Aurora v. United States,2/23/1813,1813,1810,upheld,Non-Intercourse Act,,5/1/1810,33,11,Separation of Powers,0.0,0.0,0,0,0.0,0.0,1,0,0
+Martin v. Hunter's Lessee,3/20/1816,1816,1810,upheld,Judiciary Act of 1789,1-20,9/24/1789,330,1,Federalism,1.0,0.0,0,0,0.0,0.0,0,0,1
+McCulloch v. Maryland,3/6/1819,1819,1810,upheld,Incorporation of the Bank of the United States,14-44,4/10/1816,35,14,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+United States v. Smith,2/25/1820,1820,1820,upheld,Protection Against Piracy Act,,3/3/1819,11,15,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,1,0
+Loughborough v. Blake,3/10/1820,1820,1820,upheld,District of Columbia Direct Tax,,2/27/1815,61,13,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Cohens v. Virginia,3/5/1821,1821,1820,upheld,Judiciary Act of 1789,1-20,9/24/1789,390,1,Federalism,1.0,0.0,0,0,0.0,0.0,0,0,1
+Gibbons v. Ogden,3/2/1824,1824,1820,upheld,Licensing Act,2-8,2/18/1793,251,2,Federalism,0.0,0.0,1,0,1.0,0.0,0,0,1
+"Osborn v. President, Directors & Co. of Bank",3/19/1824,1824,1820,upheld,Incorporation of the Bank of the United States,14-44,4/10/1816,95,14,Federalism,1.0,0.0,0,0,0.0,0.0,1,1,0
+Wayman v. Southard,3/1/1825,1825,1820,upheld,Judiciary Act of 1789,1-20,9/24/1789,438,1,Separation of Powers,1.0,0.0,0,0,0.0,0.0,0,0,1
+Bank of the United States v. Halstead,3/2/1825,1825,1820,upheld,Process Act of 1792,2-36,5/8/1792,394,2,Separation of Powers,0.0,0.0,0,0,0.0,0.0,1,0,1
+American Ins. Co. v. 356 Bales of Cotton,3/15/1828,1828,1820,upheld,Florida Territory Act,,3/3/1823,60,17,Separation of Powers,1.0,0.0,0,0,0.0,0.0,0,0,0
+Jackson v. Twentymen,2/6/1829,1829,1820,struck down as applied,Judiciary Act of 1789,1-20,9/24/1789,473,1,Federalism,1.0,0.0,0,0,1.0,0.0,0,0,1
+Foster and Elam v. Neilson,3/9/1829,1829,1820,upheld,Louisiana Territory Act,8-31,3/26/1804,300,8,Economic,1.0,0.0,0,0,0.0,0.0,0,0,0
+Reynolds v. M'Arthur,2/4/1829,1829,1820,struck down as applied,Virginia Military Land Warrants Act,,4/11/1818,130,15,Economic,0.0,0.0,0,0,0.0,0.0,0,0,0
+Parsons v. Bedford,2/9/1830,1830,1830,struck down as applied,Louisiana Court Procedure Act,,5/26/1824,69,18,Due Process,0.0,0.0,0,0,1.0,0.0,0,1,0
+Worcester v. Georgia,3/3/1832,1832,1830,upheld,Indian Trade Act,7-10,3/30/1802,360,7,Federalism,0.0,0.0,0,0,1.0,0.0,0,1,0
+United States v. Percheman,2/14/1833,1833,1830,struck down as applied,Florida Land Titles Law,,5/8/1822,129,17,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Sampeyreac v. United States,3/6/1833,1833,1830,upheld,Louisiana Public Land Act,,5/5/1830,34,21,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Phelps,3/19/1834,1834,1830,struck down as applied,Duties Act of 1799,5-18,3/2/1799,420,5,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,1
+New Orleans v. United States,2/9/1836,1836,1830,struck down as applied,Louisiana Statehood Act,,4/8/1812,286,12,Federalism,1.0,0.0,1,0,1.0,0.0,1,0,0
+United States v. Coombs,1/27/1838,1838,1830,upheld,Act to Punish Certain Crimes,,3/3/1825,154,18,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+Garcia v. Lee,3/12/1838,1838,1830,upheld,Louisiana Territory Act,8-31,3/26/1804,408,8,Separation of Powers,1.0,0.0,0,0,0.0,0.0,0,1,1
+United States v. Gratiot,3/9/1840,1840,1840,upheld,Disposal of Public Land Act,9-36,3/3/1807,396,9,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+Prigg v. Pennsylvania,3/1/1842,1842,1840,upheld,Fugitive Slave Act of 1793,2-7,2/12/1793,589,2,Federalism,1.0,1.0,0,0,1.0,0.0,0,0,1
+Nelson v. Carland,2/7/1843,1843,1840,upheld,Bankruptcy Act of 1841,,8/19/1841,18,27,Economic,1.0,1.0,0,0,0.0,0.0,0,1,1
+Pollard v. Files,3/16/1844,1844,1840,upheld,Act for Relief of William Pollard's Heirs,,7/2/1836,94,24,Economic,0.0,0.0,0,0,1.0,0.0,0,0,0
+Searight v. Stokes,2/4/1845,1845,1840,upheld,4 Stat. 772,,3/3/1835,119,24,Federalism,0.0,0.0,1,0,0.0,0.0,0,2,0
+Pollard v. Hagan,2/18/1845,1845,1840,struck down on face,Act for Relief of William Pollard's Heirs,,7/2/1836,103,24,Federalism,0.0,0.0,0,0,0.0,0.0,0,1,0
+Cary v. Curtis,1/21/1845,1845,1840,upheld,Appropriations Act of 1839,,3/3/1839,70,25,Federalism,0.0,0.0,1,0,0.0,0.0,1,2,0
+Jones v. Van Zandt,3/5/1847,1847,1840,upheld,Fugitive Slave Act of 1793,2-7,2/12/1793,649,2,Federalism,1.0,1.0,0,0,0.0,0.0,0,0,1
+"Waring, et al. v. Clarke",3/2/1847,1847,1840,upheld,Judiciary Act of 1789,1-20,9/24/1789,690,1,Federalism,1.0,0.0,0,0,0.0,0.0,0,3,1
+New Jersey Steam Navigation C. v. Merchants' Bank of Boston,3/7/1848,1848,1840,upheld,Judiciary Act of 1789,1-20,9/24/1789,702,1,Separation of Powers,1.0,0.0,0,0,0.0,0.0,0,1,1
+Sheldon v. Sill,2/21/1850,1850,1850,upheld,Judiciary Act of 1789,1-20,9/24/1793,557,1,Separation of Powers,1.0,0.0,0,0,1.0,0.0,0,0,1
+Benner v. Porter,4/30/1850,1850,1850,struck down as applied,Passenger Act,,2/22/1847,38,29,Separation of Powers,0.0,0.0,0,0,1.0,0.0,0,0,0
+"Lytle, et al. v. Arkansas, et al.",5/17/1850,1850,1850,struck down as applied,4 Stat. 531,,6/15/1832,215,22,Economic,0.0,0.0,0,0,1.0,0.0,0,3,0
+United States v. Marigold,5/13/1850,1850,1850,upheld,Act to Punish Certain Crimes,,3/3/1825,302,18,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+"McNulty v. Batty, et al.",1/7/1851,1851,1850,struck down as applied,Passenger Act,,2/22/1847,47,29,Separation of Powers,0.0,0.0,0,0,0.0,0.0,0,0,0
+Propeller Genesee Chief v. Fitzhugh,2/20/1852,1852,1850,upheld,Act Extending Jurisdiction of the District Courts,,2/26/1845,84,28,Federalism,0.0,0.0,0,0,0.0,0.0,0,1,0
+Veazie v. Moor,3/7/1853,1853,1850,struck down as applied,Licensing Act,2-8,2/18/1793,721,2,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,1
+Haydel v. Dufresne,2/8/1855,1855,1850,upheld,Louisiana Land Claims Act of 1811,,2/15/1811,528,11,Separation of Powers,0.0,0.0,0,0,1.0,0.0,0,0,1
+West v. Cochran,2/6/1855,1855,1850,upheld,Louisiana Land Claims Act of 1807,9-26,3/3/1807,575,9,Economic,0.0,0.0,1,0,0.0,0.0,0,0,1
+United States v. Ritchie,3/10/1855,1855,1850,upheld,California Land Claims Act,,3/3/1851,48,31,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Den ex dem. Murray and Kayser v. Hoboken Land & Improvement Co.,2/19/1856,1856,1850,upheld,Treasury Department Reorganization Act,,5/15/1820,429,16,Due Process,0.0,0.0,0,0,0.0,0.0,0,0,1
+Pennsylvania v. Wheeling & Belmont Bridge Co.,4/21/1856,1856,1850,upheld,Post Office Appropriation of 1852,,8/31/1852,44,32,Separation of Powers,0.0,0.0,0,0,0.0,0.0,0,3,0
+Scott v. Sandford,3/5/1857,1857,1850,struck down on face,Missouri Compromise,,3/6/1820,454,16,Federalism,1.0,1.0,0,0,0.0,1.0,0,2,1
+People's Ferry Co. of Boston v. Beers,5/4/1858,1858,1850,struck down as applied,Judiciary Act of 1789,1-20,9/24/1789,824,1,Federalism,1.0,0.0,0,0,1.0,0.0,0,0,1
+Dynes v. Hoover,2/1/1858,1858,1850,upheld,Government of the Navy Act,6-28,4/23/1800,694,6,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,1,1
+Withers v. Buckley,1/11/1858,1858,1850,struck down as applied,3 Stat. 349,,3/1/1817,490,14,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,1
+Ableman v. Booth,3/7/1859,1859,1850,upheld,Fugitive Slave Act of 1850,,9/18/1850,102,31,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+Kentucky v. Dennison,3/14/1861,1861,1860,struck down as applied,Fugitive Slave Act of 1793,2-7,2/12/1793,817,2,Federalism,1.0,1.0,0,0,0.0,0.0,0,0,1
+Freeborn v. Smith,3/10/1865,1865,1860,upheld,Nevada Courts Act,,2/27/1865,1,38,Due Process,0.0,0.0,0,0,0.0,0.0,0,0,0
+Gordon v. United States,3/10/1865,1865,1860,struck down on face,Court of Claims Amendment Act,,3/3/1863,24,37,Separation of Powers,0.0,0.0,0,0,0.0,1.0,1,2,0
+United States v. Holliday,3/5/1866,1866,1860,upheld,Indian Trade Amendment Act,,2/13/1862,49,37,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Van Allen v. Assessors,3/26/1866,1866,1860,upheld,National Currency Act of 1864,,6/3/1864,21,38,Federalism,0.0,0.0,0,0,1.0,0.0,0,3,0
+Ex Parte Garland,1/14/1867,1867,1860,struck down on face,Attorney Test Oath Act,,1/24/1865,24,38,Due Process,0.0,0.0,1,0,0.0,1.0,1,4,0
+Moses Taylor,2/4/1867,1867,1860,upheld,Judiciary Act of 1789,1-20,9/24/1789,917,1,Federalism,1.0,0.0,0,0,1.0,0.0,0,0,1
+Hadden v. Collector,2/13/1867,1867,1860,upheld,Tariff Act of 1862 (Morrill Tariff),,7/14/1862,55,37,Federalism,1.0,0.0,1,0,0.0,0.0,1,0,0
+License Tax Cases,1/28/1867,1867,1860,upheld,Internal Revenue Act of 1864,,6/30/1864,31,38,Federalism,1.0,0.0,1,0,0.0,0.0,1,0,0
+Reichart v. Felps,3/16/1868,1868,1860,struck down on face,Kaskaskia Land Title Revision Act,,2/20/1812,673,12,Economic,0.0,0.0,0,0,0.0,1.0,0,0,0
+Mayer v. Cooper,3/16/1868,1868,1860,upheld,Habeas Corpus Act of 1863,,3/3/1863,60,37,Separation of Powers,1.0,0.0,0,0,1.0,0.0,0,0,0
+White's Bank v. Smith,3/29/1868,1868,1860,upheld,Recording Act,,7/29/1850,212,31,Federalism,0.0,0.0,0,0,1.0,0.0,0,0,1
+Pacific Insurance Co. v. Soule,2/1/1869,1869,1860,upheld,Internal Revenue Act of 1864,,6/30/1864,56,38,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Ex Parte McCardle,4/12/1869,1869,1860,upheld,Repeal of the Habeas Corpus Act of 1867,,3/27/1868,13,40,Separation of Powers,1.0,1.0,0,0,0.0,0.0,1,0,0
+The Alicia,1/25/1869,1869,1860,struck down on face,Prize Proceedings Act,,6/30/1864,55,38,Separation of Powers,0.0,0.0,1,0,0.0,1.0,1,0,0
+Veazie Bank v. Fenno,12/13/1869,1869,1860,upheld,Internal Revenue Act of 1866,,7/13/1866,36,39,Economic,0.0,0.0,1,0,0.0,0.0,1,2,0
+Hepburn v. Griswold,1/24/1870,1870,1870,struck down as applied,Legal Tender Act,,2/25/1862,95,37,Economic,1.0,1.0,1,0,0.0,1.0,0,3,0
+United States v. Dewitt,2/21/1870,1870,1870,struck down as applied,Internal Revenue Act of 1867,,3/2/1867,35,39,Federalism,0.0,0.0,1,0,0.0,1.0,1,0,0
+Frisbie v. Whitney,3/21/1870,1870,1870,upheld,Soscal Ranch Preemption Act,,3/3/1863,84,37,Economic,0.0,0.0,0,0,1.0,0.0,0,0,0
+Justices v. Murray,3/14/1870,1870,1870,struck down on face,Habeas Corpus Act of 1863,,3/3/1863,84,37,Due Process,1.0,0.0,1,0,1.0,1.0,1,0,0
+Bennett v. Hunter,3/21/1870,1870,1870,struck down as applied,Tax Collection Act of 1862,,6/7/1862,93,37,Economic,0.0,0.0,1,0,0.0,0.0,0,0,0
+Clinton Bridge,12/19/1870,1870,1870,upheld,Clinton Bridge Act,,2/27/1867,46,39,Separation of Powers,0.0,0.0,0,0,0.0,0.0,0,0,0
+Willard v. Presbury,3/7/1870,1870,1870,upheld,District of Columbia Tax Authority Act,,2/23/1865,61,38,Economic,0.0,0.0,0,0,1.0,0.0,0,0,0
+The Daniel Ball,1/23/1871,1871,1870,upheld,Security on Steam Vessels Act,,7/7/1838,390,25,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+Collector v. Day,4/3/1871,1871,1870,struck down as applied,Internal Revenue Act of 1864,,6/30/1864,82,38,Federalism,1.0,1.0,1,0,0.0,0.0,1,1,0
+Miller v. United States,3/3/1871,1871,1870,upheld,Confiscation Acts,,8/6/1861,115,37,Due Process,1.0,1.0,1,0,0.0,0.0,1,3,0
+Stewart v. Kahn,4/10/1871,1871,1870,upheld,Statute of Limitations Act,,6/11/1864,82,38,Due Process,0.0,0.0,0,0,1.0,0.0,0,0,0
+Knox v. Lee,5/1/1871,1871,1870,upheld,Legal Tender Act,,2/25/1862,111,37,Economic,1.0,1.0,1,0,0.0,0.0,0,4,0
+Johnson v. Towsley,12/11/1871,1871,1870,struck down as applied,Distribution and Pre-emption Act,,9/4/1841,363,27,Economic,1.0,0.0,0,0,0.0,0.0,0,1,1
+United States v. Klein,1/29/1872,1872,1870,struck down on face,Appropriations Act of 1870,,7/12/1870,18,41,Separation of Powers,0.0,0.0,1,0,0.0,1.0,1,2,0
+Railway Company v. Whitton's Administrator,2/19/1872,1872,1870,upheld,Removal Act,,3/2/1867,59,39,Separation of Powers,0.0,0.0,0,0,0.0,0.0,0,0,0
+Ex Parte Russell,3/25/1872,1872,1870,upheld,Court of Claims Amendment Act of 1868,,6/25/1868,45,40,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,2,0
+United States v. Singer,12/9/1872,1872,1870,upheld,Internal Tax on Spirits Act,,7/20/1868,53,40,Economic,0.0,0.0,1,0,1.0,0.0,1,0,0
+United States v. Railroad Company,4/7/1873,1873,1870,struck down as applied,Internal Revenue Act of 1864,,6/30/1864,106,38,Federalism,1.0,1.0,1,0,0.0,0.0,1,2,0
+Insurance Company v. Dunn,1/26/1874,1874,1870,upheld,Removal Act,,3/2/1867,82,39,Separation of Powers,0.0,0.0,0,0,1.0,0.0,0,0,0
+Ex Parte Robinson,5/4/1874,1874,1870,upheld,Contempt of Court Act,,3/2/1831,518,21,Separation of Powers,0.0,0.0,0,0,0.0,0.0,1,1,1
+Stockdale v. Insurance Company,5/4/1874,1874,1870,upheld,Tariff Act of 1870,,7/14/1870,46,41,Separation of Powers,1.0,0.0,1,0,1.0,0.0,1,3,0
+Hamilton v. Dillin,1/11/1875,1875,1870,upheld,Force Act of 1861,,7/13/1861,162,37,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Scholey v. Rew,1/25/1875,1875,1870,upheld,Internal Revenue Act of 1864,,6/30/1864,127,38,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Kohl v. United States,3/27/1876,1876,1870,upheld,Act to Purchase a Site,,3/12/1872,48,42,Economic,0.0,0.0,1,0,0.0,0.0,1,1,0
+Gaines v. Fuentes,3/20/1876,1876,1870,upheld,Removal Act,,3/2/1867,108,39,Separation of Powers,0.0,0.0,0,0,1.0,0.0,0,3,0
+Phillips v. Payne,4/17/1876,1876,1870,upheld,Alexandria Retrocession Act,,7/9/1846,357,29,Economic,0.0,0.0,0,0,0.0,0.0,0,0,1
+United States v. Reese,3/27/1876,1876,1870,struck down on face,Enforcement Act of 1870,,5/31/1870,70,41,Federalism,1.0,1.0,1,0,0.0,1.0,1,2,0
+Pace v. Burgess,4/17/1876,1876,1870,upheld,Internal Tax on Spirits Act,,7/20/1868,93,40,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+United States v. Cruikshank,3/27/1876,1876,1870,struck down as applied,Enforcement Act of 1870,,5/31/1870,70,41,Federalism,1.0,1.0,1,0,0.0,0.0,1,1,0
+United States v. Forty-Three Gallons of Whiskey,11/13/1876,1876,1870,upheld,Indian Trade Act of 1864,,3/15/1864,152,38,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+South Carolina v. Georgia,10/23/1876,1876,1870,upheld,Appropriations Act of 1874,,6/23/1874,28,43,Federalism,0.0,0.0,1,0,0.0,0.0,0,0,0
+Beecher v. Wetherby,11/19/1877,1877,1870,struck down as applied,Relief of Stockbridge and Munsee Tribes,,2/6/1871,81,41,Economic,0.0,0.0,0,0,0.0,0.0,0,0,0
+United States v. Fox,1/7/1878,1878,1870,struck down as applied,Bankruptcy Act of 1867,,3/2/1867,130,39,Due Process,1.0,0.0,1,0,0.0,1.0,1,0,0
+Pensacola Telegraph Company v. Western Union Telegraph Company,3/25/1878,1878,1870,upheld,Telegraph Construction Act,,7/24/1866,140,39,Federalism,0.0,0.0,0,0,0.0,0.0,0,2,0
+United States v. Simmons,4/22/1878,1878,1870,struck down as applied,Internal Tax on Spirits Act,,7/20/1868,117,40,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Ex Parte Jackson,5/13/1878,1878,1870,upheld,19 Stat. 90,,7/12/1876,22,44,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,1,1
+Burgess v. Salmon,12/23/1878,1878,1870,struck down as applied,18 Stat. 339,,3/3/1875,45,43,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Mattingly v. District of Columbia,12/16/1878,1878,1870,upheld,District of Columbia Assessments,,6/19/1878,6,45,Separation of Powers,0.0,0.0,0,0,0.0,0.0,1,0,1
+Reynolds v. United States,1/6/1879,1879,1870,upheld,Pacific Railroad Act,,7/1/1862,198,37,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,0,0
+United States v. Hall,1/27/1879,1879,1870,upheld,17 Stat. 575,,3/3/1873,70,42,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+De Treville v. Smalls,1/20/1879,1879,1870,upheld,12 Stat. 422,,6/7/1862,199,37,Economic,0.0,0.0,0,0,0.0,0.0,0,2,0
+United States v. Union Pacific Railroad Company,1/6/1879,1879,1870,upheld,Appropriations Act of 1873,,3/3/1873,70,42,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Sinking-Fund Cases,5/5/1879,1879,1870,upheld,Thurman Act (Pacific Railroads),,5/7/1878,12,45,Economic,0.0,0.0,1,0,0.0,0.0,1,3,1
+Trade-Mark Cases,11/17/1879,1879,1870,struck down on face,Copyright Act,,7/8/1870,112,41,Federalism,1.0,0.0,1,0,0.0,1.0,1,0,0
+Tennessee v. Davis,3/1/1880,1880,1880,upheld,Judiciary Act of 1875,,3/3/1875,60,43,Federalism,0.0,0.0,1,0,0.0,0.0,1,2,0
+Virginia v. Rives,3/1/1880,1880,1880,upheld,Enforcement Act of 1870,,5/31/1870,118,41,Equality,1.0,1.0,1,0,0.0,0.0,0,0,0
+Ex parte Virginia,3/1/1880,1880,1880,upheld,Civil Rights Act of 1875,,3/1/1875,60,43,Equality,1.0,1.0,1,0,0.0,0.0,1,2,0
+Ex parte Siebold,3/8/1880,1880,1880,upheld,Enforcement Act of 1870,,5/31/1870,117,41,Federalism,1.0,1.0,1,0,0.0,0.0,1,2,0
+Ex parte Clarke,3/8/1880,1880,1880,upheld,Enforcement Act of 1871,,2/18/1871,109,43,Due Process,0.0,0.0,1,0,0.0,0.0,1,2,0
+National Bank v. United States,4/5/1880,1880,1880,upheld,15 Stat. 6,,3/26/1867,157,40,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+McElrath v. United States,12/30/1880,1880,1880,upheld,Court of Claims Amendment Act,,3/3/1863,214,37,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Lord v. Steamship Co.,1/10/1881,1881,1880,upheld,Tariff Act of 1851,,3/3/1851,358,31,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,1
+Springer v. United States,1/24/1881,1881,1880,upheld,"Ways and Means - Bonds, Treasury Notes; Direct Taxes in Insurrectionary Districts, Conveyances, etc",,3/3/1865,191,38,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+"The ""Francis Wright""",4/17/1882,1882,1880,upheld,Supreme Court and Circuit Courts,,2/16/1875,86,43,Due Process,0.0,0.0,0,0,0.0,0.0,0,0,0
+Bridge Co. v. United States,5/8/1882,1882,1880,upheld,Post-Office Appropriation Act,,3/3/1871,134,41,Economic,0.0,0.0,1,0,0.0,0.0,1,3,0
+Ex parte Boyd,5/8/1882,1882,1880,upheld,17 Stat. 196,,6/1/1872,119,42,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Kirk v. Lynd,12/4/1882,1882,1880,upheld,Confiscation (of Property) Acts (Civil War),,8/6/1861,256,37,Due Process,1.0,0.0,0,0,0.0,0.0,0,0,0
+Ex parte Curtis,12/18/1882,1882,1880,upheld,"Legislative, Executive, and Judicial Appropriations Act of 1876",,8/15/1876,77,44,Due Process,0.0,0.0,1,0,0.0,0.0,1,1,1
+United States v. Harris,1/22/1883,1883,1880,struck down on face,Civil Rights Act of 1871,,4/20/1871,141,42,Due Process,1.0,1.0,1,0,0.0,1.0,1,0,0
+Wood v. United States,4/16/1883,1883,1880,upheld,General Samuel W. Crawford and Retired Officers,,3/3/1875,98,43,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Close v. Glenwood Cemetery,3/5/1883,1883,1880,upheld,Glenwood Cemetary Act,,2/28/1875,96,44,Economic,0.0,0.0,0,0,0.0,0.0,0,0,1
+In re Devoe Manufacturing Co.,5/7/1883,1883,1880,upheld,Consent of Congress to a Compact of Boundary between New York and New Jersey,,6/28/1834,586,23,Federalism,0.0,0.0,0,0,0.0,0.0,1,0,1
+United States v. Stanley,10/15/1883,1883,1880,struck down as applied,Civil Rights Act of 1875,,3/1/1875,103,43,Equality,1.0,1.0,1,0,0.0,1.0,1,1,0
+Miller v. Mayor of New York,11/26/1883,1883,1880,upheld,Brooklyn Bridge Authorization Act,,3/3/1869,177,40,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,0
+United States v. Jones,12/10/1883,1883,1880,upheld,Improvement of the Wisconsin and Fox Rivers,,7/7/1870,161,41,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Legal Tender Case,3/3/1884,1884,1880,upheld,Currency Act,,5/31/1878,45,45,Federalism,0.0,0.0,0,0,0.0,0.0,0,1,1
+Mitchell v. Clark,3/3/1884,1884,1880,upheld,"Habeas Corpus Act (Civil War), Orders From Superior Officer to be a Defence in Certain Suits",,5/11/1866,214,39,Federalism,0.0,0.0,0,0,1.0,0.0,0,1,0
+Ex parte Yarbrough,3/3/1884,1884,1880,upheld,Civil Rights Act of 1871,,4/20/1871,155,42,Due Process,1.0,1.0,1,0,0.0,0.0,1,0,0
+Bors v. Preston,4/7/1884,1884,1880,upheld,Judiciary Act of 1875,,3/3/1875,109,43,Separation of Powers,0.0,0.0,0,0,1.0,0.0,0,0,0
+Ames v. Kansas,4/21/1884,1884,1880,upheld,Circuit Courts (Removal),,3/3/1875,110,43,Federalism,0.0,0.0,0,0,1.0,0.0,0,0,0
+Burrow-Giles Lithographic Co. v. Sarony,3/17/1884,1884,1880,upheld,Copyright Acts,,6/18/1874,117,43,Economic,0.0,0.0,0,0,0.0,0.0,0,0,0
+Hitz v. National Metropolitan Bank,5/5/1884,1884,1880,upheld,District of Columbia Recording Act,,4/29/1878,72,45,Economic,0.0,0.0,0,0,1.0,0.0,0,0,1
+Edye v. Robertson,12/8/1884,1884,1880,upheld,Immigration Fund Act,,8/3/1882,28,47,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+United States v. Great Fall Manufacturing Co.,12/22/1884,1884,1880,struck down as applied,11 Stat. 263,,4/8/1858,320,35,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+Murphy v. Ramsey,3/23/1885,1885,1880,upheld,Edmunds Act (Polygamy),,3/22/1882,36,47,Equality,1.0,1.0,1,0,1.0,0.0,1,0,0
+The Laura,4/13/1885,1885,1880,upheld,16 Stat. 458,,2/28/1871,178,41,Separation of Powers,0.0,0.0,0,0,0.0,0.0,0,0,0
+Northern Pacific Railway Company v. Traill County,12/7/1885,1885,1880,upheld,Civil Expenses Appropriation Act,,7/15/1870,184,41,Economic,0.0,0.0,0,0,1.0,0.0,0,0,0
+Gibbons v. District of Columbia,1/18/1886,1886,1880,upheld,"District of Columbia, Taxes in the District of Columbia Act, District of Columbia",,3/3/1877,107,44,Federalism,0.0,0.0,0,0,0.0,0.0,1,0,1
+United States v. Perkins,1/25/1886,1886,1880,upheld,14 stat. 92,,7/13/1866,258,39,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Boyd v. United States,2/1/1886,1886,1880,struck down as applied,Anti-Moiety Act (Informers),,6/22/1874,139,43,Due Process,0.0,0.0,1,0,1.0,1.0,1,0,0
+Turpin v. Burgess,4/5/1886,1886,1880,upheld,Internal Taxes on Distilled Spirits and Tobacco Act,,7/20/1868,212,40,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+United States v. Central Pacific Railroad Co.,5/18/1886,1886,1880,upheld,Thurman Act (Pacific Railroads),,5/7/1878,97,45,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Kagama,5/10/1886,1886,1880,upheld,Indian Appropriation Act,,3/3/1885,14,48,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+Hart v. United States,4/26/1886,1886,1880,upheld,"Court of Claims, Appeals",,6/25/1868,214,40,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+United States v. Arjona,3/7/1887,1887,1880,upheld,Counterfeiting Act,,5/16/1884,33,48,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,1
+Baldwin v. Franks,3/7/1887,1887,1880,struck down on face,Civil Rights Act of 1871,,4/20/1871,143,42,Equality,1.0,1.0,0,0,1.0,1.0,1,2,0
+United States v. Louisiana,10/24/1887,1887,1880,upheld,"Amended Tariff (Direct Tax, Income Tax)",,8/5/1861,315,37,Federalism,1.0,0.0,1,0,0.0,0.0,1,0,0
+Great Falls Manufacturing Co. v. Attorney General,2/6/1888,1888,1880,upheld,"Water-Supply, DC",,7/15/1882,67,47,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+California v. Central Pacific Railroad,4/30/1888,1888,1880,upheld,Pacific Railroad Act,,7/1/1862,309,37,Federalism,1.0,1.0,0,0,0.0,0.0,0,0,0
+Callan v. Wilson,5/14/1888,1888,1880,struck down on face,15 Stat. 76,,6/25/1868,239,40,Due Process,0.0,0.0,1,0,1.0,1.0,1,0,0
+In re Coy,5/14/1888,1888,1880,upheld,Conspiracies to Defraud the US Act,,5/17/1879,107,46,Due Process,0.0,0.0,1,0,0.0,0.0,1,1,1
+United States ex rel. Levey v. Stockslager,3/5/1889,1889,1880,upheld,An Act for the Relief of the Heirs of John E. Bouligny,,3/2/1867,264,39,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Botiller v. Dominguez,4/1/1889,1889,1880,upheld,Land Claims in California Act,,3/3/1851,457,31,Federalism,0.0,0.0,0,0,1.0,0.0,0,0,1
+Crenshaw v. United States,3/3/1890,1890,1890,upheld,Naval Appropriation Act,,8/5/1882,91,47,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Cherokee Nation v. Southern Kansas Railway Company,5/19/1890,1890,1890,upheld,Southern Kansas Railway Company (Right of Way) Act,,7/4/1884,71,48,Economic,0.0,0.0,0,0,1.0,0.0,0,0,1
+Late Corporation of the Church of Jesus Christ of Latter-Day Saints v. United States,5/19/1890,1890,1890,upheld,Anti-Polygamy Acts,,3/3/1887,38,49,Economic,1.0,1.0,1,0,0.0,0.0,1,3,1
+Edward Smith v. United States,11/24/1890,1890,1890,upheld,Guano Islands Act,,8/18/1856,411,34,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Auffmordt v. Hedden,12/8/1890,1890,1890,upheld,Tariff Act of 1851,,3/3/1851,717,31,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,1
+Cook v. United States,1/26/1891,1891,1890,upheld,Indian Territory Court Act,,3/1/1889,24,50,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,1
+In re Ross,5/25/1891,1891,1890,upheld,12 Stat. 73,,6/22/1860,371,36,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,1
+In re Rahrer,5/25/1891,1891,1890,upheld,Originial Packages (Intoxicating Liquors) Act,,8/8/1890,10,51,Federalism,0.0,0.0,0,0,1.0,0.0,1,0,0
+In re Garnett,5/25/1891,1891,1890,upheld,Limited Liability Act,,6/19/1886,59,49,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,1
+Counselman v. Hitchcock,1/11/1892,1892,1890,struck down as applied,"Interstate Commerce Act, Interstate Commerce Regulations",,3/2/1889,34,50,Due Process,0.0,0.0,1,0,1.0,0.0,0,0,1
+Nishimura Ekiu v. United States,1/18/1892,1892,1890,upheld,Immigration Act of 1891,,3/3/1891,12,51,Due Process,1.0,1.0,1,0,0.0,0.0,1,1,0
+In re Rapier,2/1/1892,1892,1890,upheld,Anti-Lottery Law,,9/19/1890,16,51,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,0,0
+Horner v. United States,2/29/1892,1892,1890,upheld,Anti-Lottery Law,,9/19/1890,17,51,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,0,0
+Field v. Clark,2/29/1892,1892,1890,upheld,Tariff Act of 1890,,10/1/1890,16,51,Separation of Powers,1.0,1.0,1,0,0.0,0.0,1,2,0
+United States v. Ballin,2/29/1892,1892,1890,upheld,Worsted Cloth Act,,5/9/1890,22,51,Economic,0.0,0.0,1,0,1.0,0.0,1,0,0
+Logan v. United States,4/4/1892,1892,1890,upheld,Enforcement Act of 1870,,5/31/1870,263,41,Due Process,1.0,1.0,1,0,1.0,0.0,1,0,0
+Shoemaker v. United States,1/16/1893,1893,1890,upheld,Rock Creek Park Act,,9/27/1890,28,51,Economic,0.0,0.0,0,0,0.0,0.0,1,0,0
+Monongahela Navigation v. United States,3/27/1893,1893,1890,struck down on face,Rivers and Harbors Appropriations Act of 1888,,8/11/1888,56,50,Economic,0.0,0.0,1,0,1.0,1.0,1,0,1
+Fong Yue Ting v. United States,5/15/1893,1893,1890,upheld,Chinese Exclusion Act of 1892,,5/6/1892,12,52,Due Process,1.0,1.0,1,0,0.0,0.0,1,3,1
+Lees v. United States,12/4/1893,1893,1890,upheld,Alien Contract Labor Act,,2/26/1885,105,48,Due Process,1.0,1.0,1,0,1.0,0.0,1,0,1
+Shively v. Bowlby,3/5/1894,1894,1890,struck down as applied,9 Stat. 496,,9/27/1850,522,31,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,1
+Luxton v. North River Bridge Company,5/14/1894,1894,1890,upheld,North River Bridge Act,,7/11/1890,46,51,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,0
+Interstate Commerce Commission v. Brimson,5/26/1894,1894,1890,upheld,Interstate Commerce Act of 1887,,2/4/1887,88,49,Separation of Powers,1.0,0.0,1,0,1.0,0.0,1,3,1
+United States v. Coe,10/29/1894,1894,1890,upheld,Court of Private Land Claims Act,,3/3/1891,44,51,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+United States v. E.C. Knight,1/21/1895,1895,1890,struck down as applied,Sherman Anti-Trust Act,,7/2/1890,55,51,Federalism,1.0,1.0,1,0,0.0,0.0,1,1,0
+Frisbie v. United States,3/18/1895,1895,1890,upheld,Civil War Pension Act of 1890,,6/27/1890,57,51,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Pollock v. Farmers' Loan & Trust Company,4/8/1895,1895,1890,struck down on face,Tariff Act of 1894,,8/27/1894,7,53,Economic,1.0,1.0,1,0,1.0,1.0,0,2,1
+Lem Moon Sing v. United States,5/27/1895,1895,1890,upheld,Appropriations Act of 1894,,8/18/1894,9,53,Due Process,0.0,0.0,1,0,0.0,0.0,1,1,1
+Pollock v. Farmers' Loan & Trust Company,5/20/1895,1895,1890,struck down on face,Tariff Act of 1894,,8/27/1894,8,53,Economic,1.0,1.0,1,0,1.0,1.0,0,4,1
+Chappell v. United States,1/6/1896,1896,1890,upheld,Condemnation Act (Lands for Public Use),,8/1/1888,89,50,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Gettysburg Electric Railway Company,1/27/1896,1896,1890,upheld,Condemnation Act (Lands for Public Use); Gettysburg Battlefield Land Act,,6/5/1894,20,53,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+Brown v. Walker,3/23/1896,1896,1890,upheld,Compulsory Testimony/Immunity Act (Trusts and Interstate Commerce),,2/11/1893,38,52,Due Process,0.0,0.0,0,0,0.0,0.0,1,4,1
+Wong Wing v. United States,5/18/1896,1896,1890,struck down as applied,Chinese Exclusion Act of 1892,,5/6/1892,49,52,Due Process,1.0,0.0,1,0,1.0,1.0,1,1,1
+United States v. Realty Company,5/25/1896,1896,1890,upheld,Sugar Bounty Act,,3/2/1895,15,53,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+Robertson v. Baldwin,1/25/1897,1897,1890,upheld,Government and Regulation of Seamen in the Merchant Service Act,1-25,7/20/1790,1278,1,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,1,1
+Atlantic & Pacific Railroad Company v. Mingus,2/15/1897,1897,1890,upheld,Forfeiture of Land Grants Act,,7/6/1886,128,49,Economic,0.0,0.0,1,0,0.0,0.0,0,0,1
+In re Kollock,3/1/1897,1897,1890,upheld,Adulterated Butter Act (Oleomargarine),,8/2/1886,127,49,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,1
+In re Chapman,4/19/1897,1897,1890,upheld,Attendance of Witnesses Before Congress Act,,1/24/1857,483,34,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Twin City Bank v. Nebeker,5/10/1897,1897,1890,upheld,National Currency Act of 1864,,6/3/1864,395,38,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Camfield v. United States,5/24/1897,1897,1890,upheld,Unlawful Occupancy of the Public Lands Act,,2/25/1885,147,48,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,1
+Bauman v. Ross,5/10/1897,1897,1890,upheld,Highways in the District of Columbia Act,,3/2/1893,50,52,Economic,0.0,0.0,0,0,1.0,0.0,1,0,1
+Wilson v. Lambert,1/3/1898,1898,1890,upheld,Rock Creek Park Act,,9/27/1890,87,51,Economic,0.0,0.0,1,0,1.0,0.0,1,0,0
+Parsons v. District of Columbia,4/11/1898,1898,1890,upheld,Water Main Assessments in the District of Columbia Act,,8/11/1894,44,53,Due Process,0.0,0.0,0,0,0.0,0.0,1,0,1
+United States v. Joint Traffic Association,10/24/1898,1898,1890,upheld,"Interstate Commerce Act of 1895, Sherman Anti-Trust Act",,2/8/1895,45,53,Economic,1.0,1.0,1,0,1.0,0.0,1,3,1
+Hopkins v. United States,10/24/1898,1898,1890,struck down as applied,Sherman Anti-Trust Act,,7/2/1890,100,51,Economic,1.0,1.0,1,1,1.0,0.0,1,0,0
+United States v. Duell,1/23/1899,1899,1890,upheld,Court of Appeals of District of Columbia Act,,2/9/1893,72,52,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,1
+Nicol v. Ames,4/3/1899,1899,1890,upheld,War Revenue Act,,6/13/1898,10,55,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Capital Traction Co. v. Hof,4/11/1899,1899,1890,upheld,District of Columbia Justices of the Peace Act,,2/19/1895,50,53,Due Process,0.0,0.0,0,0,0.0,0.0,0,1,1
+Stephens v. Cherokee Nation,5/15/1899,1899,1890,upheld,Indian Appropriation Act,,7/1/1898,11,55,Separation of Powers,1.0,1.0,0,0,0.0,0.0,0,2,0
+Kirby v. United States,4/11/1899,1899,1890,struck down on face,Larceny of United States Property Act,,3/3/1875,289,43,Due Process,0.0,0.0,1,0,1.0,1.0,1,2,0
+Jones v. Meehan,10/30/1899,1899,1890,struck down on face,Joint Resolution Authorizing the Secretary of the Interior to Approve a Certain Lease,,8/7/1894,63,53,Economic,0.0,0.0,0,0,0.0,1.0,0,0,1
+Addyston Pipe and Steel Company v. United States,12/4/1899,1899,1890,upheld,Sherman Anti-Trust Act,,7/2/1890,113,51,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Bradfield v. Roberts,12/4/1899,1899,1890,upheld,Providence Hospital Act,,3/3/1897,33,54,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,0,0
+La Abra Silver Mining Company v. United States,12/11/1899,1899,1890,upheld,La Abra Silver Mining Company Act,,12/28/1892,83,52,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,1
+Knowlton v. Moore,5/14/00,1900,1900,upheld,War Revenue Act,,6/13/1898,23,55,Economic,1.0,0.0,1,0,1.0,0.0,1,3,0
+Neely v. Henkel,1/14/01,1901,1900,upheld,Extradition Act,,6/6/00,7,56,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,0
+Rice v. Ames,2/25/01,1901,1900,upheld,United States Commissioners Act,,5/28/1896,57,54,Separation of Powers,0.0,0.0,0,0,0.0,0.0,1,0,0
+Li Sing v. United States,3/18/01,1901,1900,upheld,Chinese Exclusion Act of 1893 (McCreary Act),,11/3/1893,89,53,Due Process,0.0,0.0,1,1,0.0,0.0,1,0,1
+Fairbank v. United States,4/15/01,1901,1900,struck down on face,War Revenue Act,,6/13/1898,35,55,Economic,1.0,0.0,1,0,1.0,1.0,1,4,0
+Wight v. Davidson,4/29/01,1901,1900,upheld,S Street (District of Columbia) Act,,3/3/1899,26,55,Economic,0.0,0.0,0,0,1.0,0.0,0,3,0
+Downes v. Bidwell,5/27/01,1901,1900,upheld,Foraker Act (Puerto Rico Civil Code),,4/12/00,14,56,Economic,1.0,1.0,1,0,0.0,0.0,1,4,0
+Dooley v. United States,12/2/01,1901,1900,upheld,Foraker Act (Puerto Rico Civil Code),,4/12/00,20,56,Economic,1.0,1.0,1,0,0.0,0.0,1,4,0
+Patton v. Brady,3/17/02,1902,1900,upheld,War Revenue Act,,6/13/1898,46,55,Economic,1.0,1.0,1,0,0.0,0.0,0,0,0
+McFaddin v. Evans-Snider-Buel Company,5/19/02,1902,1900,upheld,Indian Territory Mortgages Act,,2/3/1897,64,54,Economic,0.0,0.0,0,0,0.0,0.0,0,0,0
+Felsenheld v. United States,5/19/02,1902,1900,upheld,Tariff Act of 1897 (Dingley Act),,7/24/1897,58,55,Economic,1.0,0.0,1,0,0.0,0.0,1,1,0
+Hanover National Bank v. Moyses,6/2/02,1902,1900,upheld,Bankruptcy Actof 1898,,7/1/1898,47,55,Economic,1.0,1.0,0,0,0.0,0.0,0,0,0
+Cherokee Nation v. Hitchcock,12/1/02,1902,1900,upheld,Curtis Act (Indians in Indian Territory),,6/28/1898,53,55,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Lone Wolf v. Hitchcock,1/5/03,1903,1900,upheld,"Comanche, Kiowa, and Apache Tribes Act (Fort Hall Indian Reservation Act)",,6/6/00,31,56,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Bleistein v. Donaldson Lithographing Company,2/2/03,1903,1900,upheld,Copyright Acts of 1874,,6/18/1874,343,43,Economic,0.0,0.0,0,0,1.0,0.0,0,2,0
+Champion v. Ames (Lottery Case),2/23/03,1903,1900,upheld,Suppression of Lotteries Act,,3/2/1895,96,53,Federalism,0.0,0.0,1,0,0.0,0.0,1,4,1
+Japanese Immigrant Case,4/6/03,1903,1900,upheld,Alien Labor Immigration Act,,3/3/1891,145,51,Due Process,1.0,1.0,1,0,0.0,0.0,1,2,0
+James v. Bowman,5/4/03,1903,1900,struck down on face,Enforcement Act of 1870,,5/31/1870,395,41,Federalism,1.0,1.0,1,0,0.0,1.0,1,2,0
+Patterson v. Bark Eudora,6/1/03,1903,1900,upheld,Merchant Seamen Act,,12/21/1898,53,55,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,0
+Snyder v. Bettman,6/1/03,1903,1900,upheld,War Revenue Act,,6/13/1898,60,55,Federalism,1.0,0.0,1,0,0.0,0.0,1,3,0
+Thomas v. United States,2/23/04,1904,1900,upheld,War Revenue Act,,6/13/1898,69,55,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Spreckels Sugar Refining Company v. McClain,2/23/04,1904,1900,upheld,War Revenue Act,,6/13/1898,69,55,Economic,1.0,0.0,1,0,1.0,0.0,1,2,0
+Cornell v. Coyne,2/23/04,1904,1900,upheld,Filled Cheese Act,,6/6/1896,93,54,Economic,0.0,0.0,1,0,0.0,0.0,1,2,0
+Buttfield v. Stranahan,2/23/04,1904,1900,upheld,Tea Inspection/Importation Act,,3/2/1897,84,54,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Northern Securities Company v. United States,3/14/04,1904,1900,upheld,Sherman Anti-Trust Act,,7/2/1890,164,51,Federalism,1.0,1.0,1,0,0.0,0.0,1,4,0
+United States v. Sing Tuck,4/25/04,1904,1900,upheld,Appropriations Act of 1894,,8/18/1894,104,53,Due Process,0.0,0.0,1,1,1.0,0.0,1,2,0
+Interstate Commerce Commission v. Baird,4/4/04,1904,1900,upheld,Compulsory Testimony/Immunity Act (Trusts and Interstate Commerce),,2/11/1893,134,52,Due Process,0.0,0.0,0,0,1.0,0.0,1,1,1
+United States ex rel. John Turner v. Williams,5/16/04,1904,1900,upheld,Alien Immigration Act of 1903,57-162,3/3/03,15,57,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Binns v. United States,5/31/04,1904,1900,upheld,Carter Act (Alaska Civil Code),,6/6/00,48,56,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Public Clearing House v. Coyne,5/31/04,1904,1900,upheld,Anti-Lottery Law,,9/19/1890,44,51,Due Process,0.0,0.0,1,0,0.0,0.0,1,1,0
+McCray v. United States,5/31/04,1904,1900,upheld,Adulterated Butter Act (Oleomargarine),,8/2/1886,214,49,Economic,0.0,0.0,1,0,0.0,0.0,1,3,1
+Clyatt v. United States,3/13/05,1905,1900,upheld,Anti-Peonage Act,,3/2/1867,456,39,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+In Re Heff,4/10/05,1905,1900,struck down as applied,Intoxicating Drinks to Indians Act,,1/30/1897,98,54,Federalism,0.0,0.0,1,0,0.0,1.0,1,1,0
+Rassmussen v. United States,4/10/05,1905,1900,struck down on face,Carter Act (Alaska Civil Code),,6/6/00,58,56,Due Process,1.0,0.0,1,0,1.0,1.0,1,0,0
+United States v. Ju Toy,5/8/05,1905,1900,upheld,Carey Act (Bureau of Immigration),,8/18/1894,128,53,Due Process,0.0,0.0,1,0,0.0,0.0,1,3,1
+South Carolina v. United States,12/4/05,1905,1900,upheld,Internal Revenue Act of 1879,,3/1/1879,311,45,Economic,0.0,0.0,1,0,0.0,0.0,1,3,1
+Burton v. United States,5/21/06,1906,1900,upheld,Members of Congress Not to Receive Money Act,,6/11/1864,504,38,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,3,0
+Millard v. Roberts,5/21/06,1906,1900,upheld,"District of Columbia, Union Railroad Station",57-122,2/28/03,39,57,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Hodges v. United States,5/28/06,1906,1900,struck down on face,Enforcement Act of 1870,,5/31/1870,432,41,Federalism,1.0,1.0,1,0,0.0,1.0,1,2,0
+Wilson v. Shaw,1/7/07,1907,1900,upheld,Spooner Act,57-183,6/28/02,55,57,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,0
+Union Bridge Company v. United States,2/25/07,1907,1900,upheld,Rivers and Harbors Appropriations Act of 1899,,3/3/1899,96,55,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,2,0
+Wallace v. Adams,2/25/07,1907,1900,upheld,Choctaw-Chickasaw Supplemental Agreement Act,57-228,7/1/02,56,57,Separation of Powers,0.0,0.0,0,0,0.0,0.0,0,0,0
+Martin v. District of Columbia,3/11/07,1907,1900,struck down as applied,Alleys in the District of Columbia; Streets in the District of Columbia,,8/24/1894,150,52,Economic,0.0,0.0,0,0,1.0,0.0,1,0,1
+Ellis v. United States,5/13/07,1907,1900,upheld,Eight-Hour Law,,8/1/1892,201,52,Economic,1.0,1.0,1,0,1.0,0.0,1,3,1
+United States v. Heinszen & Company,5/27/07,1907,1900,upheld,Philippine Tariff Act of 1906,59-381,6/30/06,11,59,Economic,0.0,0.0,1,0,1.0,0.0,1,2,0
+Howard v. Illinois Central Railroad Company and the Yazoo & Mississippi Valley Railroad Company (Employers' Liability Cases),1/6/08,1908,1900,struck down on face,Employers' Liability Act of 1906,59-219,6/11/06,19,59,Federalism,1.0,1.0,1,0,0.0,1.0,0,4,0
+Adair v. United States,1/27/08,1908,1900,struck down on face,Erdman Act,,6/1/1898,116,55,Economic,1.0,0.0,1,0,1.0,1.0,1,2,0
+Dick v. United States,2/24/08,1908,1900,upheld,Indian Country Intoxicants Act,,7/23/1892,175,52,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Bitty,2/24/08,1908,1900,upheld,Criminal Appeals Act,59-224,3/2/07,12,59,Separation of Powers,0.0,0.0,1,0,1.0,0.0,1,0,0
+Armour Packing Co. v. United States,3/16/08,1908,1900,upheld,Elkins Act,57-103,2/19/03,61,57,Economic,1.0,1.0,1,1,0.0,0.0,1,3,0
+In re Wood and Henderson,5/18/08,1908,1900,upheld,Bankruptcy Act of 1898,,7/1/1898,119,55,Due Process,1.0,0.0,0,0,0.0,0.0,0,3,0
+New York Central & Hudson River Railroad Company v. United States,2/23/09,1909,1900,upheld,Elkins Act,57-103,2/19/03,72,57,Due Process,1.0,1.0,1,0,0.0,0.0,1,0,0
+Keller v. United States,4/5/09,1909,1900,struck down as applied,Immigration Act of 1907,59-96,2/20/07,25,59,Federalism,1.0,0.0,1,0,1.0,1.0,1,3,0
+United States v. Evans,4/19/09,1909,1900,struck down on face,District of Columbia Code,,3/3/01,98,56,Separation of Powers,0.0,0.0,1,1,0.0,1.0,1,0,0
+United States ex rel. Attorney General v. Delaware & Hudson Company,5/3/09,1909,1900,upheld,Hepburn Act (Interstate Commerce),59-337,6/29/06,34,59,Federalism,1.0,1.0,1,0,0.0,0.0,1,1,0
+District of Columbia v. Brooke,5/17/09,1909,1900,upheld,District of Columbia Drainage Act,,5/19/1896,156,54,Economic,0.0,0.0,0,0,1.0,0.0,1,0,0
+Oceanic Steam Navigation Company v. Stranahan,6/1/09,1909,1900,upheld,Alien Immigration Act of 1903,57-162,3/3/03,75,57,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+El Paso & Northeastern Railway Company v. Gutierrez,11/15/09,1909,1900,upheld,Employers' Liability Act of 1906,59-219,6/11/06,42,59,Federalism,1.0,0.0,0,0,0.0,0.0,0,0,0
+Alvarez y Sanchez v. United States,2/21/10,1910,1910,upheld,Foraker Act (Puerto Rico Civil Code),,4/12/00,119,56,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Monongahela Bridge Company v. United States,2/21/10,1910,1910,upheld,Rivers and Harbors Appropriations Act of 1899,,3/3/1899,132,55,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,1,0
+Haas v. Henkel,2/21/10,1910,1910,upheld,Judiciary Act of 1789,1-20,9/24/1789,1445,1,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,1
+Franklin v. United States,3/14/10,1910,1910,upheld,Harbor Defenses and Fortifications,,7/7/1898,140,55,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Holmgren v. United States,5/16/10,1910,1910,upheld,Naturalization of Aliens Act,59-338,6/29/06,47,59,Federalism,1.0,0.0,1,1,0.0,0.0,1,0,0
+Atlantic Coast Line Railroad Company v. Riverside Mills,1/3/11,1911,1910,upheld,Hepburn Act (Interstate Commerce) - Carmack Amendment,59-337,6/29/06,54,59,Economic,1.0,0.0,1,0,0.0,0.0,0,0,0
+In re Gregory,1/3/11,1911,1910,upheld,Gift Entreprises in DC,,2/17/1873,454,42,Due Process,0.0,0.0,0,0,0.0,0.0,1,0,0
+Muskrat v. United States,1/23/11,1911,1910,struck down on face,Indian Service Appropriations,59-154,3/1/07,47,59,Separation of Powers,0.0,0.0,0,0,1.0,1.0,1,0,0
+Louisiana & Nashville Railroad Company v. Mottley,2/20/11,1911,1910,upheld,Hepburn Act (Interstate Commerce),59-337,6/29/06,56,59,Federalism,1.0,1.0,0,0,1.0,0.0,0,0,0
+Flint v. Stone Tracy Company,3/13/11,1911,1910,upheld,Corporation Tax Act (Tariff of 1909),61-5,8/5/09,19,61,Economic,1.0,1.0,1,0,0.0,0.0,0,0,0
+United States v. Grimaud,5/3/11,1911,1910,upheld,"Forest Reserve Acts, Lieu Lands Act (Forest Reservations)",,6/4/1897,167,55,Separation of Powers,1.0,0.0,1,0,1.0,0.0,1,0,0
+Light v. United States,5/1/11,1911,1910,upheld,"Forest Reserve Acts, Lieu Lands Act (Forest Reservations)",,6/4/1897,167,55,Federalism,1.0,0.0,0,0,0.0,0.0,1,0,0
+Standard Oil Company of New Jersey v. United States,5/15/11,1911,1910,upheld,Sherman Anti-Trust Act,,7/2/1890,239,51,Economic,1.0,1.0,1,0,0.0,0.0,1,1,0
+Hannibal Bridge Company v. United States,5/15/11,1911,1910,upheld,Rivers and Harbors Appropriations Act of 1899,,3/3/1899,147,55,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Marchie Tiger v. Western Investment Company,5/15/11,1911,1910,upheld,Five Civilized Tribes Act (Curtis Act),59-129,4/26/06,61,59,Economic,0.0,0.0,1,0,1.0,0.0,0,0,0
+Briscoe v. Rudolph,5/29/11,1911,1910,upheld,District of Columbia Act,,2/10/1899,148,55,Economic,0.0,0.0,0,0,0.0,0.0,1,0,0
+Coyle v. Smith,5/29/11,1911,1910,struck down on face,Oklahomo Statehood Enabling Act,59-234,6/16/06,59,59,Federalism,1.0,0.0,0,0,0.0,1.0,0,2,0
+Baltimore & Ohio Railroad Company v. Interstate Commerce Commission,5/29/11,1911,1910,upheld,Hours of Service Act (Railroads),59-274,3/4/07,51,59,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Southern Railway Company v. United States,10/30/11,1911,1910,upheld,Safety Appliance Acts (Railroads),,3/2/1893,224,52,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,1
+Kalem Company v. Harper Brothers,11/13/11,1911,1910,upheld,Copyright Acts of 1891,,3/3/1891,248,51,Economic,1.0,0.0,0,0,0.0,0.0,0,0,0
+"Mondou v. New York, New Haven & Hartford Railroad Company (Second Employers' Liability Cases)",1/15/12,1912,1910,upheld,Employers' Liability Act of 1908 (Railroads),60-100,4/22/08,45,60,Federalism,1.0,1.0,1,0,1.0,0.0,0,0,0
+The Abby Dodge v. United States,2/19/12,1912,1910,upheld,Sponges Act,63-172,6/20/06,68,59,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+Philadelphia Company v. Stimson,3/4/12,1912,1910,upheld,Rivers and Harbors Appropriations Act of 1899,,3/3/1899,156,55,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Interstate Commerce Commission v. Goodrich Transit Company,4/1/12,1912,1910,upheld,Hepburn Act (Interstate Commerce),59-337,6/29/06,69,59,Federalism,1.0,1.0,0,0,1.0,0.0,1,2,0
+Gritts v. Fisher,5/13/12,1912,1910,upheld,Cherokee Agreement Act,57-241,7/1/02,118,57,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Choat v. Trapp,5/13/12,1912,1910,struck down on face,Five Civilized Tribes Restrictions Removal Act,60-130,5/27/08,47,60,Economic,0.0,0.0,0,0,1.0,1.0,0,0,0
+Johannessen v. United States,5/27/12,1912,1910,upheld,Naturalization of Aliens Act,59-338,6/29/06,71,59,Separation of Powers,1.0,0.0,1,0,0.0,0.0,1,0,0
+Zakonaite v. Wolf,12/2/12,1912,1910,upheld,Immigration Act of 1907,59-96,2/20/07,69,59,Due Process,1.0,0.0,1,0,0.0,0.0,0,0,0
+Hoke and Economides v. United States,2/24/13,1913,1910,upheld,White Slave Traffic Act,61-277,6/25/10,32,61,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,0
+Bugajewitz v. Adams,5/12/13,1913,1910,upheld,Immigration Act of 1907,59-96,2/20/07,74,59,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,0
+"Pedersen v. Delaware, L.&W.R. Co.",5/26/13,1913,1910,upheld,Employers' Liability Act of 1908 (Railroads),60-100,4/22/08,61,60,Economic,1.0,1.0,0,0,1.0,0.0,0,3,0
+Swigart v. Baker,5/26/13,1913,1910,upheld,Reclamation Act of 1902,57-161,6/17/02,131,57,Separation of Powers,1.0,1.0,1,0,0.0,0.0,1,0,0
+Lewis Publishing Company v. Morgan,6/10/13,1913,1910,upheld,Post Office Appropriations Act (Parcel Post Acts),62-336,8/24/12,9,62,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Chandler-Dunbar Water Power Company,5/26/13,1913,1910,upheld,35 Stat. 815,60-317,3/3/09,50,60,Economic,0.0,0.0,1,0,1.0,0.0,1,0,0
+Butts v. Merchants & Miners Transportation Association,6/16/13,1913,1910,struck down as applied,Civil Rights Act of 1875,,3/1/1875,460,43,Federalism,1.0,1.0,0,0,0.0,0.0,0,0,0
+United States v. Sandoval,10/20/13,1913,1910,upheld,Intoxicating Drinks to Indians Act; Statehood Acts (AZ and NM),,6/20/10,40,61,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+"Delaware, Lackawana & Western Railroad Co. v. United States",12/1/13,1913,1910,upheld,Hepburn Act (Interstate Commerce),59-337,6/29/06,90,59,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Luria v. United States,10/20/13,1913,1910,upheld,Naturalization of Aliens Act,59-338,6/29/06,88,59,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,0
+Billings v. United States,2/24/14,1914,1910,upheld,Yacht Tax Acts (Tariff Act of 1909),61-5,8/5/09,55,61,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+United States v. Bennett,2/24/14,1914,1910,upheld,Yacht Tax Acts (Tariff Act of 1909),61-5,8/5/09,55,61,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Rainey v. United States,2/24/14,1914,1910,upheld,Yacht Tax Acts (Tariff Act of 1909),61-5,8/5/09,55,61,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Holt v. Henley,3/16/14,1914,1910,struck down as applied,Bankruptcy Act of 1898,61-294,6/25/10,45,61,Economic,0.0,0.0,0,0,1.0,0.0,0,0,0
+Richards v. Washington Terminal Co.,5/4/14,1914,1910,struck down as applied,District of Columbia Act (involving railroads),,2/12/01,159,56,Economic,0.0,0.0,0,0,1.0,0.0,0,1,0
+"Interstate Commerce Commission v. Atchison, Topeka & Santa Fe Railroad Company (Intermountain Rate Cases)",6/22/14,1914,1910,upheld,Commerce Court Act (Mann-Elkins Act),61-218,6/18/10,48,61,Separation of Powers,1.0,1.0,1,1,1.0,0.0,1,0,0
+United States v. Ohio Oil Company,6/22/14,1914,1910,upheld,Hepburn Act (Interstate Commerce),59-337,6/29/06,96,59,Economic,1.0,1.0,1,1,1.0,0.0,1,1,0
+United States v. Holte,2/1/15,1915,1910,upheld,White Slave Traffic Act,61-277,6/25/10,55,61,Federalism,1.0,1.0,1,1,1.0,0.0,1,2,0
+Brolan v. United States,2/23/15,1915,1910,upheld,Narcotic Drugs Import and Export Act,60-222,2/9/09,73,60,Federalism,1.0,1.0,1,1,0.0,0.0,1,0,0
+Meeker v. Lehigh Valley Railroad Company,2/23/15,1915,1910,upheld,Hepburn Act (Interstate Commerce),59-337,6/29/06,104,59,Due Process,1.0,1.0,0,0,1.0,0.0,0,0,0
+United States v. Hvoslef,3/22/15,1915,1910,struck down on face,War Revenue Act,,6/13/1898,202,55,Economic,1.0,0.0,1,1,0.0,1.0,1,0,0
+Thames & Mersey Marine Insurance Company v. United States,4/5/15,1915,1910,struck down as applied,War Revenue Act,,6/13/1898,202,55,Economic,1.0,0.0,1,1,1.0,1.0,1,0,0
+Mackenzie v. Hare,12/6/15,1915,1910,upheld,Citizenship Acts,59-193,3/2/07,105,59,Substantive Rights,1.0,1.0,0,0,0.0,0.0,0,1,0
+Weber v. Freed,12/13/15,1915,1910,upheld,Prize-Fight Films Act,62-246,7/31/12,40,62,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,1
+Williams v. Johnson,12/20/15,1915,1910,upheld,Lieu Lands Act (Indian Reservations),58-125,4/21/04,140,58,Economic,0.0,0.0,0,0,0.0,0.0,0,0,0
+Seven Cases of Eckman's Alterative v. United States,1/10/16,1916,1910,upheld,Federal Food and Drugs Act of 1906 (Wiley Act),59-384,6/30/06,114,59,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,0
+Brushaber v. Union Pacific Railroad Company,1/24/16,1916,1910,upheld,Underwood Tariff Act of 1913,63-16,10/3/13,28,63,Economic,1.0,1.0,1,0,0.0,0.0,0,0,1
+Stanton v. Baltic Mining Company,2/21/16,1916,1910,upheld,Underwood Tariff Act of 1913,63-16,10/3/13,29,63,Economic,1.0,0.0,1,0,0.0,0.0,0,0,1
+Badders v. United States,3/6/16,1916,1910,upheld,Judicial Code,61-475,3/3/11,60,61,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Willink v. United States,4/3/16,1916,1910,upheld,Rivers and Harbors Appropriations Act of 1888,,8/11/1888,332,50,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+Texas & Pacific Railway Company v. Rigsby,4/17/16,1916,1910,upheld,Safety Appliance Acts (Railroads),,3/2/1893,278,52,Federalism,1.0,1.0,0,0,0.0,0.0,0,0,1
+United States v. Nice,6/12/16,1916,1910,upheld,Intoxicating Drinks to Indians Act,,1/30/1897,232,54,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+Louisville Bridge Co. v. United States,1/8/17,1917,1910,upheld,"Bridge Across the Ohio at Steubenville, Bridge Made a Post Road",,2/17/1865,622,38,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Wilson v. New,3/19/17,1917,1910,upheld,Eight-Hour Workday Law (Adamson Act),54-252,9/3/16,7,64,Federalism,1.0,1.0,1,0,1.0,0.0,1,4,1
+First National Bank of Bay City v. Fellows,6/11/17,1917,1910,upheld,Federal Reserve Act,63-43,12/23/13,41,63,Economic,1.0,1.0,1,0,1.0,0.0,0,2,1
+Santa Fe Pacific Railroad Company v. Lane,6/11/17,1917,1910,upheld,Railway Land Grant Act,,7/27/1866,610,39,Economic,0.0,0.0,1,0,1.0,0.0,1,0,0
+Arver v. United States (Selective Draft Law Cases),1/7/18,1918,1910,upheld,Army Emergency Increase Act (Selective Draft Act),65-50,5/18/17,7,65,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,0,1
+Ruthenberg v. United States,1/14/18,1918,1910,upheld,Army Emergency Increase Act (Selective Draft Act),65-12,5/18/17,7,65,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,1
+Virginia v. West Virginia,4/22/18,1918,1910,upheld,Judiciary Act of 1789,1-20,9/24/1789,1553,1,Federalism,1.0,0.0,0,0,0.0,0.0,0,0,1
+Brader v. James,3/4/18,1918,1910,upheld,Five Civilized Tribes Act (Curtis Act),59-129,4/26/06,142,59,Economic,0.0,0.0,1,0,0.0,0.0,0,0,0
+William E. Peck & Company v. Lowe,5/20/18,1918,1910,upheld,Underwood Tariff Act of 1913,63-16,10/3/13,56,63,Economic,1.0,0.0,1,0,0.0,0.0,1,0,1
+Hammer v. Dagenheart,6/3/18,1918,1910,struck down on face,Child Labor Law (Keating-Owen Act),64-249,9/1/16,21,64,Federalism,1.0,1.0,1,0,0.0,1.0,1,4,1
+Cox v. Wood,5/6/18,1918,1910,upheld,Army Emergency Increase Act (Selective Draft Act),65-12,5/18/17,11,65,Federalism,1.0,0.0,1,0,0.0,0.0,1,0,1
+Ruddy v. Rossi,12/9/18,1918,1910,upheld,Homestead Act,,5/20/1862,678,37,Economic,1.0,0.0,0,0,1.0,0.0,0,1,0
+Missouri Pacific Railway Company v. Kansas,1/7/19,1919,1910,upheld,Webb-Kenyon Act (Intoxicating Liquors),62-398,3/1/13,70,62,Separation of Powers,1.0,1.0,0,0,0.0,0.0,0,0,1
+United States v. Hill,1/13/19,1919,1910,upheld,Reed Amendment (Post-Office Appropriation Act),64-380,3/3/17,22,64,Federalism,0.0,0.0,1,0,1.0,0.0,1,2,1
+Frohwerk v. United States,3/10/19,1919,1910,upheld,Espionage Act,65-107,6/15/17,20,65,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,0,1
+McKinley v. United States,4/14/19,1919,1910,upheld,Army Emergency Increase Act,65-12,5/18/17,22,65,Separation of Powers,1.0,0.0,1,0,0.0,0.0,1,0,1
+Schenck v. United States,3/3/19,1919,1910,upheld,Espionage Act,65-107,6/15/17,20,65,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,0,1
+United States v. Doremus,3/3/19,1919,1910,upheld,Harrison Narcotic Drug Act,63-223,12/17/14,50,63,Federalism,0.0,0.0,1,0,1.0,0.0,1,4,1
+"Dakota Central Telephone Company v. South Dakota, ex rel. Payne",6/2/19,1919,1910,upheld,Federal Control of Telegraphs and Telephone Act,Pub-res 38,7/16/18,10,65,Separation of Powers,0.0,0.0,1,0,1.0,0.0,0,1,1
+United States v. Ferger,6/2/19,1919,1910,upheld,Bill of Lading Act,64-239,8/29/16,33,64,Federalism,0.0,0.0,1,0,1.0,0.0,1,1,1
+Capital Trust Company v. Calhoun,6/2/19,1919,1910,upheld,Omnibus Claims Act,63-289,3/4/15,51,63,Economic,0.0,0.0,0,0,1.0,0.0,0,0,1
+Stilson v. United States,11/10/19,1919,1910,upheld,Espionage Act,65-107,6/15/17,28,65,Due Process,1.0,0.0,1,0,0.0,0.0,1,2,1
+Hamilton v. Kentucky Distilleries & Warehouse Company,12/15/19,1919,1910,upheld,War-time Prohibition Act,65-243,11/21/18,13,65,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+Ruppert v. Caffey,1/5/20,1920,1920,upheld,National Prohibition Acts (Volstead Act),66-66,10/28/19,2,66,Due Process,1.0,1.0,1,0,0.0,0.0,1,4,0
+Eisner v. Macomber,3/8/20,1920,1920,struck down as applied,Revenue Act of 1916,64-271,9/8/16,42,64,Economic,1.0,0.0,1,0,0.0,1.0,1,4,1
+Missouri v. Holland,4/19/20,1920,1920,upheld,Migratory Bird Treaty Act,65-186,7/3/18,22,65,Federalism,1.0,1.0,1,0,0.0,0.0,1,2,1
+Knickerbocker Ice Co. v. Stewart,5/17/20,1920,1920,struck down on face,"Judicial Code, State Workmen's Compensation Laws (Johnson Act)",65-82,10/6/17,32,65,Separation of Powers,0.0,0.0,0,0,1.0,1.0,0,4,1
+Calhoun v. Massie,5/17/20,1920,1920,upheld,Omnibus Claims Act (Crawford Amendment),63-289,3/4/15,63,63,Due Process,0.0,0.0,0,1,0.0,0.0,0,4,1
+Evans v. Gore,6/1/20,1920,1920,struck down as applied,Revenue Act of 1918,65-254,2/24/19,15,65,Due Process,0.0,0.0,1,0,1.0,1.0,1,2,1
+National Prohibition Cases,6/7/20,1920,1920,upheld,"Eighteenth Amendment (Prohibition), National Prohibition Acts (Volstead Act)",66-66,10/28/19,7,66,Federalism,1.0,1.0,1,0,1.0,0.0,1,2,0
+United States v. Wheeler,12/13/20,1920,1920,struck down as applied,Penal Law Codification of 1909,60-350,3/4/09,141,60,Federalism,1.0,0.0,1,0,0.0,0.0,1,1,0
+"J.W. Goldsmith, Jr.-Grant Co. v. United States",1/17/21,1921,1920,upheld,Internal Revenue Act of 1866,,7/13/1866,655,39,Economic,0.0,0.0,1,0,0.0,0.0,1,1,0
+Central Union Trust Co. v. Garvan,1/24/21,1921,1920,upheld,40 Stat. 425,65-91,10/6/17,39,65,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,1
+Kahn v. Anderson,1/31/21,1921,1920,upheld,Army Emergency Increase Act,65-12,5/18/17,40,65,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,1
+"Weeds, Inc. v. United States",2/28/21,1921,1920,struck down on face,"Lever Act (Food Control), District of Columbia Rents and Food Act (Ball Act)",66-63,10/22/19,16,66,Due Process,0.0,0.0,1,0,1.0,1.0,1,0,0
+Smith v. Kansas City Title & Trust Co.,2/28/21,1921,1920,upheld,Federal Farm Loan Act; Farm Loan Bonds Act,64-158,1/18/18,37,65,Economic,0.0,0.0,1,0,0.0,0.0,0,2,1
+Baender v. Barnett,2/28/21,1921,1920,upheld,Criminal Code (Conspiracy Act),60-350,3/4/09,24,60,Due Process,1.0,0.0,1,0,0.0,0.0,0,0,0
+Stoehr v. Wallace,2/28/21,1921,1920,upheld,Trading With the Enemy Act,65-91,10/6/17,41,65,Economic,1.0,1.0,1,0,0.0,0.0,1,0,1
+Winton v. Amos,3/7/21,1921,1920,upheld,Five Civilized Tribes Act (Curtis Act),59-129,4/26/06,179,59,Due Process,0.0,0.0,1,0,1.0,0.0,0,0,0
+Hollis v. Kutz,3/21/21,1921,1920,upheld,District of Columbia Public Utility Act,62-435,3/4/13,97,62,Due Process,0.0,0.0,0,0,0.0,0.0,1,0,1
+Merchants' Loan & Trust Co. v. Smietanka,3/28/21,1921,1920,upheld,War Revenue Act of 1916,65-50,10/3/17,42,65,Economic,1.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. L. Cohen Grocery Co.,2/28/21,1921,1920,struck down on face,"Lever Act (Food Control), District of Columbia Rents and Food Act (Ball Act)",66-63,10/22/19,16,66,Due Process,0.0,0.0,1,0,0.0,1.0,1,0,0
+Block v. Hirsh,4/18/21,1921,1920,upheld,District of Columbia Rents and Food Act (Ball Act),66-63,10/22/19,18,66,Due Process,0.0,0.0,1,0,1.0,0.0,0,4,0
+Newberry v. United States,5/2/21,1921,1920,struck down as applied,Federal Corrupt Practices Acts,62-32,8/19/11,116,62,Federalism,0.0,0.0,1,0,1.0,1.0,1,1,1
+New York Trust Co. v. Eisner,5/16/21,1921,1920,upheld,Revenue Act of 1916 (Estate Tax Acts),64-271,9/8/16,57,64,Federalism,1.0,1.0,1,0,0.0,0.0,0,0,1
+Dillon v. Gloss,5/16/21,1921,1920,upheld,Eighteenth Amendment (Prohibition),,12/19/17,41,65,Separation of Powers,1.0,1.0,1,0,0.0,0.0,1,0,1
+La Belle Iron Works v. United States,5/16/21,1921,1920,upheld,War Revenue Act of 1916,65-50,10/3/17,44,65,Economic,1.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Yuginovich,6/1/21,1921,1920,struck down as applied,Tariff Act of 1872,,6/6/1872,588,42,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+District of Columbia v. R.P. Andrews Paper Co.,6/1/21,1921,1920,upheld,District of Columbia Appropriations Act,64-250,9/1/16,57,64,Due Process,0.0,0.0,0,1,1.0,0.0,1,0,1
+"Rafferty v. Smith, Bell & Co.",12/5/21,1921,1920,upheld,Third Deficiency Appropriation Act,66-264,6/5/20,18,66,Federalism,0.0,0.0,0,1,1.0,0.0,1,0,0
+New York v. United States,2/27/22,1922,1920,upheld,Transportation Act of 1920 (Esch-Cummings Act),66-152,2/28/20,24,66,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Alaska v. Troy,2/27/22,1922,1920,upheld,Merchant Marine Act,66-261,6/5/20,21,66,Federalism,1.0,0.0,1,0,0.0,0.0,1,0,0
+Leser v. Garnett,2/27/22,1922,1920,upheld,Nineteenth Amendment (Women's Suffrage),,8/26/20,18,66,Federalism,1.0,1.0,1,1,0.0,0.0,0,0,0
+Leach v. Carlile,2/27/22,1922,1920,upheld,17 Stat. 283,,6/8/1872,596,42,Due Process,0.0,0.0,1,0,0.0,0.0,1,2,0
+United States v. Balint,3/27/22,1922,1920,upheld,Harrison Narcotic Drug Act,63-223,12/17/14,87,63,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,1
+Greiner v. Lewellyn,4/10/22,1922,1920,upheld,Revenue Act of 1916 (Estate Tax Acts),64-271,9/8/16,67,64,Federalism,1.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Moreland,4/17/22,1922,1920,struck down on face,"District of Columbia, Abandonment of Wife or Child",59-66,3/23/06,193,59,Due Process,0.0,0.0,1,1,0.0,1.0,1,3,0
+United Shoe Machinery Corp. v. United States,4/17/22,1922,1920,upheld,Clayton Anti-Trust Act,63-212,10/15/14,91,63,Economic,1.0,1.0,1,0,0.0,0.0,1,1,1
+Stafford v. Wallace,5/1/22,1922,1920,upheld,Packers and Stockyards Act,67-51,8/15/21,9,67,Economic,1.0,1.0,1,0,0.0,0.0,1,1,0
+Heald v. District of Columbia,5/15/22,1922,1920,upheld,"Appropriations, District of Columbia",64-378,3/3/17,62,64,Economic,0.0,0.0,0,0,0.0,0.0,1,0,1
+Child Labor Tax Case,5/15/22,1922,1920,struck down on face,Revenue Act of 1918 (Child Labor Tax Acts),65-254,2/24/19,38,65,Economic,0.0,0.0,1,0,0.0,1.0,1,1,1
+Ng Fung Ho v. White,5/29/22,1922,1920,struck down as applied,Immigration Act of 1917,64-301,2/5/17,63,64,Due Process,1.0,1.0,1,1,1.0,0.0,1,0,1
+United Mine Workers v. Coronado Coal Co.,6/5/22,1922,1920,struck down as applied,Sherman Anti-Trust Act,,7/2/1890,383,51,Economic,1.0,1.0,0,0,1.0,0.0,0,0,0
+Hill v. Wallace,5/15/22,1922,1920,struck down on face,Future Trading Act,67-66,8/24/21,8,67,Economic,1.0,1.0,1,0,1.0,1.0,1,0,0
+Lipke v. Lederer,6/5/22,1922,1920,struck down as applied,National Prohibition Acts (Volstead Act),66-66,10/28/19,31,66,Economic,1.0,0.0,1,0,1.0,0.0,1,2,0
+Walker v. Gish,1/2/23,1923,1920,upheld,District of Columbia (Building Regulations),,6/14/1878,535,45,Due Process,0.0,0.0,0,0,0.0,0.0,0,0,1
+New England Div. Case,2/19/23,1923,1920,upheld,Transportation Act of 1920 (Esch-Cummings Act),66-152,2/28/20,36,66,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Keller v. Potomac Electric Power Co.,4/9/23,1923,1920,struck down on face,District of Columbia Public Utility Act,62-435,3/4/13,121,62,Separation of Powers,0.0,0.0,0,0,0.0,1.0,1,0,1
+Omnia Commercial Co. v. United States,4/9/23,1923,1920,upheld,Emergency Shipping Fund Act,65-23,6/15/17,70,65,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+Adkins v. Children's Hosp.,4/9/23,1923,1920,struck down on face,District of Columbia Minimum Wage Act,65-215,9/19/18,54,65,Substantive Rights,0.0,0.0,0,0,0.0,1.0,1,3,1
+Pennsylvania R. Co. v. United States R. Labor Board,2/19/23,1923,1920,upheld,Transportation Act of 1920 (Esch-Cummings Act),66-152,2/28/20,36,66,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Board of Trade v. Olsen,4/16/23,1923,1920,upheld,Grain Futures Act (Capper-Tincher Act),67-331,9/21/22,7,67,Economic,1.0,1.0,1,0,0.0,0.0,1,2,0
+A.G. Spalding & Bros. v. Edwards,4/23/23,1923,1920,struck down as applied,War Revenue Act of 1916,65-50,10/3/17,69,65,Economic,1.0,0.0,1,0,1.0,0.0,1,0,1
+Brown v. United States,11/12/23,1923,1920,upheld,Sundry Civil Act,66-389,3/4/21,32,66,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Dayton-Goose C.R. Co. v. United States,1/7/24,1924,1920,upheld,Transportation Act of 1920 (Esch-Cummings Act),66-152,2/28/20,46,66,Economic,1.0,1.0,0,0,0.0,0.0,1,0,0
+Washington v. W.C. Dawson & Co.,2/25/24,1924,1920,struck down as applied,Workmen's Compensation Jurisdiction Act,67-239,6/10/22,21,67,Federalism,0.0,0.0,0,0,0.0,1.0,0,1,0
+FTC v. American Tobacco Co.,3/17/24,1924,1920,struck down as applied,Federal Trade Commission Act,63-203,9/26/14,114,63,Due Process,1.0,1.0,1,0,0.0,0.0,1,0,1
+Mahler v. Eby,2/18/24,1924,1920,upheld,Deportation Act,66-197,5/10/20,46,66,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,0
+Panama R. Co. v. Johnson,4/7/24,1924,1920,upheld,"Seamen's Act (LaFollette Act), Merchant Marine Act of 1920",63-302,6/5/20,46,66,Due Process,1.0,0.0,0,0,0.0,0.0,0,0,0
+Chastleton Corp. v. Sinclair,4/21/24,1924,1920,struck down as applied,District of Columbia Rents Act,67-222,5/22/22,23,67,Economic,0.0,0.0,0,0,1.0,0.0,1,0,0
+Cook v. Tait,5/5/24,1924,1920,upheld,Revenue Act of 1921,67-98,11/23/21,29,67,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+James Everard's Breweries v. Day,6/9/24,1924,1920,upheld,National Prohibition Act Supplemental (Willis-Campbell Act),66-66,11/23/21,30,67,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+National Paper & Type Co. v. Bowers,12/14/24,1924,1920,upheld,Revenue Act of 1921,67-98,11/23/21,36,67,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Michaelson v. United States,10/20/24,1924,1920,upheld,Clayton Anti-Trust Act,63-212,10/15/14,121,63,Economic,1.0,1.0,0,1,1.0,0.0,1,0,1
+Barclay & Co. v. Edwards,12/15/24,1924,1920,upheld,Revenue Act of 1918,65-254,2/24/19,69,65,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+Carroll v. United States,3/2/25,1925,1920,upheld,National Prohibition Acts (Volstead Act),66-66,10/28/19,63,66,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,0
+Brooks v. United States,3/9/25,1925,1920,upheld,National Motor Vehicle Theft Act (Dyer Act),66-70,10/29/19,63,66,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Yee Hem v. United States,4/27/25,1925,1920,upheld,Harrison Narcotic Drug Act,63-223,1/17/14,135,63,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,1
+Selzman v. United States,6/1/25,1925,1920,upheld,National Prohibition Acts (Volstead Act),66-66,10/28/19,67,66,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Linder v. United States,4/13/25,1925,1920,struck down as applied,Harrison Narcotic Drug Act,63-223,12/17/14,123,63,Economic,0.0,0.0,1,1,1.0,0.0,1,0,1
+Miles v. Graham,6/1/25,1925,1920,struck down as applied,Revenue Act of 1918,65-254,2/24/19,75,65,Separation of Powers,0.0,0.0,1,0,0.0,1.0,1,1,1
+Burk-Waggoner Oil Assn. v. Hopkins,11/16/25,1925,1920,upheld,Revenue Act of 1918,65-254,2/24/19,81,65,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. New York & Cuba Mail S.S. Co.,12/14/25,1925,1920,upheld,"Alien Seamen, Hospital Treatment",66-289,12/26/20,59,66,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,0
+Druggan v. Anderson,10/19/25,1925,1920,upheld,National Prohibition Acts (Volstead Act),66-66,10/28/19,72,66,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Old Dominion Land Co. v. United States,11/16/25,1925,1920,upheld,"Army, Real Estate Purchases",67-169,3/8/22,45,67,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Trusler v. Crooks,1/11/26,1926,1920,struck down on face,Future Trading Act,67-66,8/24/21,52,67,Economic,1.0,1.0,1,0,1.0,1.0,1,0,0
+Metcalf & Eddy v. Mitchell,1/11/26,1926,1920,upheld,War Revenue Act of 1917,65-50,10/3/17,106,65,Economic,1.0,0.0,1,0,0.0,0.0,0,0,1
+White v. United States,3/1/26,1926,1920,upheld,War Risk Insurance Act Amendments (Sweet Act),66-104,12/24/19,74,66,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Missouri P.R. Co. v. Boone,3/22/26,1926,1920,upheld,Transportation Act of 1920 (Esch-Cummings Act),66-152,2/28/20,73,66,Federalism,1.0,1.0,0,1,0.0,0.0,0,0,0
+"United States v. Holt State Bank, et al.",2/1/26,1926,1920,struck down as applied,Nelson Act,,1/14/1889,445,51,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+Tutun v. United States,4/12/26,1926,1920,upheld,Naturalization of Aliens Act,59-338,6/29/06,237,59,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,0
+Colorado v. United States,5/3/26,1926,1920,upheld,Transportation Act of 1920 (Esch-Cummings Act),66-152,2/28/20,74,66,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,0
+Thornton v. United States,6/1/26,1926,1920,upheld,Animal Industry Act,,5/29/1884,504,48,Federalism,1.0,1.0,1,1,0.0,0.0,1,0,1
+"United States v. Chemical Foundation, Inc.",10/11/26,1926,1920,upheld,Trading With the Enemy Act,65-91,10/6/17,108,65,Economic,1.0,1.0,1,0,0.0,0.0,1,0,1
+Myers v. United States,10/25/26,1926,1920,struck down on face,Postal Service Appropriations Act,,7/12/1876,604,44,Separation of Powers,0.0,0.0,1,0,0.0,1.0,1,3,1
+Lambert v. Yellowley,11/29/26,1926,1920,upheld,National Prohibition Acts (Volstead Act),66-66,10/28/19,85,66,Economic,1.0,0.0,1,0,0.0,0.0,1,4,0
+Albrecht v. United States,1/3/27,1927,1920,upheld,National Prohibition Acts (Volstead Act),66-66,10/28/19,86,66,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,0
+Florida v. Mellon,1/3/27,1927,1920,upheld,Revenue Act of 1926,69-20,2/26/26,10,69,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Liggett & Myers Tobacco Co. v. United States,5/2/27,1927,1920,upheld,"Naval Service Appropriations Act, Urgent Deficiencies Appropriations Act",65-23,6/15/17,118,65,Economic,0.0,0.0,1,1,1.0,0.0,1,0,1
+Westfall v. United States,5/16/27,1927,1920,upheld,"Federal Reserve Act, Federal Reserve Act Amendments",65-25,6/21/1917,119,65,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Sullivan,5/16/27,1927,1920,upheld,Revenue Act of 1921,67-98,11/23/21,66,67,Economic,0.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Alford,5/16/27,1927,1920,upheld,"Indians, Miscellaneous Provisions",61-313,6/25/10,191,61,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+Alston v. United States,5/16/27,1927,1920,upheld,Harrison Narcotic Drug Act,63-223,12/17/14,149,63,Economic,0.0,0.0,1,0,0.0,0.0,1,0,1
+Phelps v. United States,5/16/27,1927,1920,upheld,Federal Possession and Control Act (Railroads in War),64-242,8/29/16,129,64,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,1
+Nichols v. Coolidge,5/31/27,1927,1920,struck down as applied,Revenue Act of 1918,65-254,2/24/19,99,65,Due Process,0.0,0.0,1,0,0.0,1.0,1,0,1
+Blodgett v. Holden,11/21/27,1927,1920,struck down as applied,Revenue Act of 1924 (Gift Tax Acts),68-176,6/2/24,42,68,Due Process,1.0,0.0,1,0,0.0,0.0,1,0,0
+Richmond Screw Anchor Co. v. United States,3/3/28,1928,1920,struck down as applied,Frauds Act of 1853,,2/26/1853,901,32,Economic,0.0,0.0,1,1,1.0,0.0,1,0,1
+Nigro v. United States,4/9/28,1928,1920,upheld,"Anti-Narcotic Act (Harrison Act), Revenue Act of 1918",65-254,2/24/19,109,65,Economic,0.0,0.0,1,0,0.0,0.0,1,3,1
+J.W. Hampton Jr. & Co. v. United States,4/9/28,1928,1920,upheld,Tariff Act of 1922 (Fordney-McCumber Act),67-318,9/21/22,66,67,Separation of Powers,1.0,1.0,1,1,0.0,0.0,1,0,0
+Casey v. United States,4/9/28,1928,1920,upheld,"Anti-Narcotic Act (Harrison Act), Revenue Act of 1918",65-254,2/24/19,109,65,Economic,0.0,0.0,1,1,0.0,0.0,1,4,1
+Untermyer v. Anderson,4/9/28,1928,1920,struck down as applied,Revenue Act of 1924 (Gift Tax Acts),68-176,6/2/24,46,68,Economic,1.0,0.0,1,1,1.0,1.0,1,0,0
+National Life Insurance Co. v. United States,6/4/28,1928,1920,struck down as applied,Revenue Act of 1921,67-98,11/23/21,78,67,Economic,0.0,0.0,1,1,1.0,1.0,1,3,0
+Chase National Bank v. United States,1/2/29,1929,1920,upheld,Revenue Act of 1921,67-98,11/23/21,85,67,Economic,0.0,0.0,1,0,0.0,0.0,1,2,0
+Wisconsin v. Illinois,1/14/29,1929,1920,upheld,Rivers and Harbors Appropriations Act of 1899,,3/3/1899,358,55,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,0
+Arlington Hotel Co. v. Fant,2/18/29,1929,1920,upheld,"Hot Springs Reservation, Arkansas, Jurisdiction Accepted",58-124,4/20/04,298,58,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,0
+Taft v. Bowers,2/18/29,1929,1920,upheld,Revenue Act of 1921,67-98,11/23/21,87,67,Economic,0.0,0.0,1,1,0.0,0.0,1,0,0
+Highland v. Russell Car & Snow Plow Co.,4/8/29,1929,1920,upheld,Lever Act (Food Control),65-41,8/10/17,140,65,Economic,1.0,1.0,0,1,0.0,0.0,0,0,1
+Sinclair v. United States,4/8/29,1929,1920,upheld,National Defense Act Amendments,66-242,6/4/20,106,66,Due Process,0.0,0.0,0,0,0.0,0.0,1,0,0
+Ex Parte Worcester County National Bank,5/13/29,1929,1920,upheld,McFadden Act (Branch Banks),69-369,2/25/27,26,69,Federalism,0.0,0.0,0,0,0.0,0.0,0,0,0
+United States v. Schwimmer,5/27/29,1929,1920,upheld,Naturalization of Aliens Act,59-338,6/29/06,275,59,Due Process,1.0,0.0,1,1,1.0,0.0,1,3,0
+Pocket Veto Cases,5/27/29,1929,1920,struck down on face,Indian Claims Act (Senate Bill 3185),69-228,6/24/26,35,69,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,0,0
+Old Colony Trust Co. v. Commissioner,6/3/29,1929,1920,upheld,"Revenue Act of 1924, Revenue Act of 1926",68-176,2/26/26,45,69,Economic,1.0,0.0,1,0,0.0,0.0,1,1,0
+County of Spokane v. United States,4/8/29,1929,1920,upheld,Duties Act of 1799,5-18,3/2/1799,1559,5,Economic,0.0,0.0,1,1,0.0,0.0,1,0,1
+Bromley v. McCaughn,11/25/29,1929,1920,upheld,"Revenue Act of 1924, Revenue Act of 1926",68-176,2/26/26,45,69,Economic,1.0,0.0,1,0,0.0,0.0,1,3,0
+United States v. Jackson,1/6/30,1930,1930,upheld,34 Stat. 326,59-258,6/21/06,283,59,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Clarke v. Haberle Crystal Springs Brewing Co.,1/27/30,1930,1930,upheld,Revenue Act of 1918,65-254,2/24/19,131,65,Economic,0.0,0.0,1,1,1.0,0.0,1,0,1
+United States v. Wurzbach,2/24/30,1930,1930,upheld,Federal Corrupt Practices Acts,68-506,2/28/25,60,68,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+Tagg Brothers & Moorhead v. United States,2/24/30,1930,1930,upheld,Packers and Stockyards Act,67-51,8/15/21,102,67,Economic,1.0,1.0,1,0,0.0,0.0,1,0,0
+Corliss v. Bowers,4/28/30,1930,1930,upheld,Revenue Act of 1924,68-176,6/2/24,70,68,Economic,1.0,0.0,1,1,0.0,0.0,1,0,0
+Tyler v. United States,5/19/30,1930,1930,upheld,Revenue Act of 1916,64-271,9/8/16,164,64,Economic,1.0,0.0,1,1,1.0,0.0,1,0,1
+Texas & New Orleans Railroad Company et al. v. Brotherhood of Railway & Steamship Clerks et al.,5/26/30,1930,1930,upheld,Railway Labor Act,69-257,5/20/26,48,69,Federalism,1.0,0.0,0,1,0.0,0.0,0,0,0
+Ann Arbor Railroad Company v. United States,6/2/30,1930,1930,struck down as applied,Hoch-Smith Resolution,68-352,1/30/25,64,68,Economic,0.0,0.0,1,0,1.0,0.0,1,0,0
+Willcuts v. Bunn,1/5/31,1931,1930,upheld,Revenue Act of 1924,68-176,6/2/24,79,68,Federalism,1.0,0.0,1,1,1.0,0.0,1,0,0
+Graham & Foster v. Goodcell,1/26/31,1931,1930,upheld,Revenue Act of 1928,70-562,5/29/28,32,70,Economic,0.0,0.0,1,1,0.0,0.0,1,0,0
+Russian Volunteer Fleet v. United States,2/24/31,1931,1930,struck down as applied,Emergency Shipping Fund Act,65-23,6/15/17,164,65,Economic,0.0,0.0,1,1,1.0,0.0,1,0,1
+United States v. Sprague,2/24/31,1931,1930,upheld,National Prohibition Act,66-66,10/28/19,136,66,Separation of Powers,1.0,1.0,1,0,1.0,0.0,1,0,0
+Milliken v. United States,3/2/31,1931,1930,upheld,Revenue Act of 1918,65-254,2/24/19,145,65,Due Process,0.0,0.0,1,1,0.0,0.0,1,0,1
+Group No. 1 Oil Corp. v. Bass,4/13/31,1931,1930,upheld,Revenue Act of 1928,70-562,5/29/28,35,70,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,0
+Indian Motorcycle Co. v. United States,5/25/31,1931,1930,struck down as applied,War Revenue Act of 1916,65-50,10/3/17,164,65,Economic,1.0,0.0,1,0,,,1,2,1
+Phillips v. Commissioner,5/25/31,1931,1930,upheld,Revenue Act of 1925,69-20,2/26/26,63,69,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,0
+United States v. Macintosh,5/25/31,1931,1930,upheld,Naturalization of Aliens Act,59-338,6/29/06,299,59,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,4,0
+Louisiana Public Service Commission v. Texas & New Orleans Railroad Co.,11/23/31,1931,1930,upheld,Interstate Commerce Act,,2/4/1887,537,49,Federalism,1.0,1.0,1,0,0.0,0.0,0,0,1
+Phillips v. Dime Trust & Safe Deposit Co.,11/23/31,1931,1930,upheld,Revenue Act of 1924,68-176,6/2/24,89,68,Economic,1.0,0.0,1,1,1.0,0.0,1,0,0
+"Chicago, Rock Island, and Pacific Railway Co. v. United States",11/23/31,1931,1930,struck down as applied,Transportation Act of 1920,66-152,2/28/20,141,66,Economic,1.0,0.0,1,0,1.0,0.0,1,3,0
+"Atchison, Topeka & Sante Fe Railroad Co. v. United States",1/4/32,1932,1930,struck down as applied,Hoch-Smith Resolution,68-352,1/30/25,83,68,Economic,0.0,0.0,1,0,1.0,0.0,1,0,0
+Marine Transit Corp. v. Dreyfus,1/4/32,1932,1930,upheld,United States Arbitration Act,68-401,2/12/25,83,68,Separation of Powers,0.0,0.0,0,1,0.0,0.0,0,0,0
+Blackmer v. United States,2/15/32,1932,1930,upheld,Walsh Act,69-483,7/3/26,67,69,Due Process,0.0,0.0,0,1,0.0,0.0,1,0,0
+Burnet v. Leininger,3/14/32,1932,1930,upheld,Revenue Act of 1918,65-254,2/24/19,155,65,Economic,0.0,0.0,1,1,0.0,0.0,1,0,1
+Heiner v. Donnan,3/21/32,1932,1930,struck down on face,Revenue Act of 1925,69-20,2/26/26,73,69,Economic,1.0,0.0,1,0,0.0,1.0,1,2,0
+Burnet v. Coronado Oil & Gas Co.,4/11/32,1932,1930,struck down as applied,Revenue Act of 1918,65-254,2/24/19,158,65,Federalism,0.0,0.0,1,1,0.0,0.0,1,4,1
+Crowell v. Benson,2/23/32,1932,1930,upheld,Longshortmen's and Harbor Workers' Compensation Act,69-803,3/4/27,59,69,Economic,0.0,0.0,1,1,0.0,0.0,1,0,0
+MacLaughlin v. Alliance Insurance Co.,5/16/32,1932,1930,upheld,Revenue Act of 1928,70-562,5/29/28,48,70,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+"Atlantic Cleaners & Dyers, Inc. v. United States",5/23/32,1932,1930,upheld,Sherman Anti-Trust Act,,7/2/1890,502,51,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Edwards v. United States,5/31/32,1932,1930,upheld,An Act for Relief of Thomas C. Edwards,,3/5/31,14,71,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,0
+Colorado v. Symes,5/31/32,1932,1930,struck down as applied,39 Stat. 532,64-231,8/23/16,189,64,Federalism,0.0,0.0,1,0,0.0,0.0,1,2,1
+New York Central Securities Corp. v. United States,11/7/32,1932,1930,upheld,Transportation Act of 1920,66-152,2/28/20,153,66,Separation of Powers,1.0,0.0,1,0,0.0,0.0,1,0,0
+Grau v. United States,11/7/32,1932,1930,struck down as applied,National Prohibition Act,66-66,10/28/19,157,66,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,0
+Norfolk & Western Railway Co. v. United States,11/7/32,1932,1930,upheld,Transportation Act of 1920,66-152,2/28/20,153,66,Economic,1.0,0.0,1,0,0.0,0.0,1,0,0
+Sgro v. United States,12/5/32,1932,1930,struck down as applied,National Prohibition Act,66-66,10/28/19,158,66,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,0
+Gwinn v. Commissioner,12/5/32,1932,1930,upheld,Revenue Act of 1924,68-176,6/2/24,102,68,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,0
+Reichelderfer v. Quinn,12/5/32,1932,1930,upheld,45 Stat. 667,70-457,5/21/28,55,70,Economic,0.0,0.0,0,1,1.0,0.0,0,0,0
+Lloyd Sabaudo Societa Anonima Per Azioni v. Elting,12/5/32,1932,1930,upheld,Immigration Act of 1917,64-301,2/5/17,190,64,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,1
+United States v. Shreveport Grain & Elevator Co.,11/7/32,1932,1930,upheld,Federal Food and Drugs Act of 1906 (Wiley Act),59-384,6/30/06,317,59,Due Process,1.0,1.0,1,0,1.0,0.0,1,0,0
+Interstate Commerce Commission v. Oregon-Washington Railroad & Navigation Co.,1/9/33,1933,1930,struck down as applied,Transportation Act of 1920,66-152,2/28/20,155,66,Economic,1.0,0.0,0,0,0.0,0.0,1,3,0
+Burnet v. Brooks,3/13/33,1933,1930,upheld,Revenue Act of 1924,68-176,6/2/24,105,68,Economic,1.0,0.0,1,1,1.0,0.0,1,1,0
+Porter v. Commissioner of Internal Revenue,3/13/33,1933,1930,upheld,Revenue Act of 1925,69-20,2/26/26,83,69,Economic,1.0,0.0,1,1,0.0,0.0,1,0,0
+United States v. Flores,4/10/33,1933,1930,upheld,Penal Law Codification of 1909,60-350,3/4/09,289,60,Federalism,1.0,0.0,1,0,1.0,0.0,1,0,0
+Reinecke v. Smith,4/10/33,1933,1930,upheld,Revenue Act of 1924,68-176,6/2/24,106,68,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,0
+Federal Radio Commission v. Nelson Brothers Bond & Mortgage Co.,5/8/33,1933,1930,upheld,Radio Act of 1927,70-195,3/28/28,62,70,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+George More Ice Cream Co. v. Rose,5/8/33,1933,1930,upheld,Revenue Act of 1924,68-176,6/2/24,107,68,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,0
+Board of Trustees of the University of Illinois v. United States,3/20/33,1933,1930,upheld,Tariff Act of 1922,67-318,9/21/22,126,67,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,0
+O'Donoghue v. United States,5/29/33,1933,1930,upheld,Economy Act of 1932,72-212,6/30/32,11,72,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,3,1
+Williams v. United States,5/29/33,1933,1930,upheld,Economy Act of 1932,72-212,6/30/32,11,72,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,1
+Burnet v. Wells,5/29/33,1933,1930,upheld,Revenue Act of 1924,68-176,6/2/24,107,68,Economic,1.0,0.0,1,1,1.0,0.0,1,4,0
+Nathanson v. United States,11/6/33,1933,1930,struck down as applied,Tariff Act of 1930,71-361,6/17/30,41,71,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,0
+Burroughs v. United States,1/8/34,1934,1930,upheld,Federal Corrupt Practices Acts,68-506,2/28/25,107,68,Federalism,1.0,0.0,1,1,0.0,0.0,1,1,0
+United States v. Chambers,2/5/34,1934,1930,struck down as applied,National Prohibition Act,66-66,10/28/19,172,66,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,0
+Booth v. United States,2/5/34,1934,1930,struck down on face,Independent Offices Appropriation Act of 1933,73-78,6/16/33,8,73,Separation of Powers,0.0,0.0,1,0,0.0,1.0,1,0,1
+United States v. Jefferson Electrical Manufacturing Co.,2/12/34,1934,1930,upheld,Revenue Act of 1928,70-562,5/29/28,67,70,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Illinois,3/5/34,1934,1930,upheld,43 Stat. 360,68-185,6/3/24,117,68,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,0
+Helvering v. Independent Life Insurance Co.,5/21/34,1934,1930,upheld,Revenue Act of 1921,67-98,11/23/21,150,67,Economic,0.0,0.0,1,1,1.0,0.0,1,1,0
+Woodson v. Deutsche Gold and Silber Scheideanstalt Vormals Roessler,5/28/34,1934,1930,upheld,Independent Offices Appropriation Act of 1935,73-141,3/28/34,2,73,Economic,1.0,0.0,1,1,1.0,0.0,1,0,1
+Lynch v. United States,6/4/34,1934,1930,struck down on face,Economy Act of 1933,73-2,3/20/33,15,73,Economic,1.0,0.0,1,1,1.0,1.0,1,0,1
+Detroit Trust Co. v. The Thomas Barlum,11/5/34,1934,1930,upheld,Merchant Marine Act of 1920,66-261,6/5/20,173,66,Federalism,1.0,0.0,0,1,1.0,0.0,0,0,0
+Helvering v. Powers,12/3/34,1934,1930,upheld,"Revenue Acts, sect. 212",69-20,2/26/26,106,69,Federalism,1.0,0.0,1,1,1.0,0.0,1,0,0
+Panama Refining Co. v. Ryan,1/7/35,1935,1930,struck down on face,National Industrial Recovery Act,73-67,6/16/33,19,73,Separation of Powers,1.0,1.0,1,1,1.0,1.0,1,1,1
+Norman v. Baltimore & Ohio Railroad Co.,2/18/35,1935,1930,upheld,Gold Repeal Joint Resolution,73-29,6/3/33,20,73,Economic,1.0,1.0,1,1,0.0,0.0,1,4,1
+Perry v. United States,2/18/35,1935,1930,struck down on face,Gold Repeal Joint Resolution,73-29,6/3/33,20,73,Economic,1.0,1.0,1,0,0.0,1.0,1,4,1
+"Continental Illinois National Bank & Trust Co. v. Chicago, Rock Island, and Pacific Railroad Co.",4/1/35,1935,1930,upheld,Bankruptcy Act of 1898 Amendments,72-420,3/3/33,25,72,Economic,0.0,0.0,1,1,0.0,0.0,0,0,1
+Railroad Retirement Board v. Alton Railroad Co.,5/6/35,1935,1930,struck down on face,Railroad Retirement Act,73-485,6/27/34,11,73,Economic,0.0,0.0,1,1,0.0,1.0,0,4,1
+Stewart v. Keyes,5/20/35,1935,1930,struck down as applied,44 Stat. 239,69-98,4/10/26,109,69,Economic,0.0,0.0,0,0,0.0,0.0,0,0,0
+A.L.A. Schechter Poultry Corp. v. United States,5/27/35,1935,1930,struck down on face,National Industrial Recovery Act,73-67,6/16/33,23,73,Separation of Powers,1.0,1.0,1,1,1.0,1.0,1,0,1
+Louisvile Joint Stock Land Bank v. Radford,5/27/35,1935,1930,struck down on face,Frazier-Lemke Act,73-486,6/28/34,11,73,Economic,0.0,0.0,0,1,1.0,1.0,0,0,1
+Humphrey's Executor v. United States,5/27/35,1935,1930,upheld,Federal Trade Commission Act,63-203,9/26/14,248,63,Separation of Powers,1.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Constantine,12/9/35,1935,1930,struck down on face,Revenue Act of 1924,68-176,6/2/26,114,68,Federalism,1.0,0.0,1,1,0.0,1.0,1,3,0
+Hopkins Federal Savings & Loan Association v. Cleary,12/9/35,1935,1930,struck down on face,49 Stat. 297,74-76,5/28/35,7,74,Federalism,0.0,0.0,1,1,0.0,1.0,0,0,1
+Becker Steel Co. v. Cummings,11/11/35,1935,1930,struck down as applied,Winslow Act,67-536,3/4/23,152,67,Economic,0.0,0.0,1,1,1.0,0.0,1,2,0
+Helvering v. City Bank Farmers Trust Co.,11/11/35,1935,1930,upheld,Revenue Act of 1925,69-20,2/26/26,117,69,Economic,1.0,0.0,1,1,1.0,0.0,1,4,0
+Helvering v. Helmholz,11/11/35,1935,1930,struck down as applied,Revenue Act of 1925,69-20,2/26/26,117,69,Economic,1.0,0.0,1,1,0.0,0.0,1,0,0
+United States v. Butler,1/9/36,1936,1930,struck down on face,Agricultural Adjustment Act,73-10,5/12/33,32,73,Federalism,1.0,1.0,1,1,0.0,1.0,1,3,1
+"Rickert Rice Mills, Inc. v. Fontenot",1/13/36,1936,1930,struck down on face,Potato Control Act,74-320,8/24/35,5,74,Federalism,0.0,0.0,1,1,0.0,1.0,1,0,1
+United States v. California,2/3/36,1936,1930,upheld,29 Stat. 85,,4/1/1896,479,54,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+Ashwander v. Tennessee Valley Authority,2/17/36,1936,1930,upheld,Tennessee Valley Authority Act of 1933,74-412,8/31/35,7,74,Federalism,0.0,0.0,1,1,0.0,0.0,1,1,1
+Whitfield v. Ohio,3/2/36,1936,1930,upheld,45 Stat. 1084,70-670,1/19/29,86,70,Federalism,0.0,0.0,0,1,0.0,0.0,0,0,0
+United States v. Safety Car Heating & Lighting Co.,1/6/36,1936,1930,upheld,Revenue Act of 1925,69-20,2/26/26,119,69,Economic,1.0,0.0,1,1,1.0,0.0,1,3,0
+Carter v. Carter Coal Co.,5/18/36,1936,1930,struck down on face,Bituminous Coal Act of 1935,74-402,8/30/35,9,74,Federalism,1.0,1.0,1,1,1.0,1.0,0,4,1
+Baltimore & Ohio Railroad Company v. United States,5/18/36,1936,1930,struck down as applied,Interstate Commerce Act,,2/4/1887,591,49,Due Process,1.0,1.0,1,0,0.0,0.0,1,0,1
+Ashton v. Cameron County Water Improvement District,5/25/36,1936,1930,struck down on face,Bankruptcy Act of 1898 Amendments,73-251,5/24/34,24,73,Federalism,0.0,0.0,1,1,1.0,1.0,0,4,1
+United States v. Wood,12/7/36,1936,1930,upheld,49 Stat. 682,74-301,8/22/35,16,74,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,1
+United States v. Curtiss-Wright Export Corp.,12/21/36,1936,1930,upheld,Gold Repeal Joint Resolution,73-263,5/28/34,31,73,Separation of Powers,0.0,0.0,1,0,1.0,0.0,1,1,1
+Kentucky Whig & Collar Co. v. Illinois Central Railroad Co.,1/4/37,1937,1930,upheld,49 Stat. 494,74-215,7/24/35,18,74,Federalism,0.0,0.0,1,1,0.0,0.0,0,0,1
+New York ex rel. Rogers v. Graves,1/4/37,1937,1930,upheld,Spooner Act,57-183,6/28/02,415,57,Federalism,1.0,0.0,0,0,1.0,0.0,0,0,0
+Keuhner v. Irving Trust Co.,1/4/37,1937,1930,upheld,Bankruptcy Act of 1898 Amendments,73-296,6/7/34,31,73,Economic,0.0,0.0,0,1,0.0,0.0,0,0,1
+United States v. Hudson,1/11/37,1937,1930,upheld,Silver Purchase Act of 1934,73-438,6/19/34,31,73,Economic,1.0,1.0,1,1,1.0,0.0,1,0,1
+Hill v. United States ex rel. Weiner,2/1/37,1937,1930,upheld,Clayton Anti-Trust Act,63-212,10/15/14,268,63,Economic,1.0,0.0,1,1,1.0,0.0,1,0,1
+Cummings v. Deutsche Bank and Disconto-Gesellschaft,2/1/37,1937,1930,upheld,Settlement of War Claims Act of 1928 Amendments,73-53,6/27/34,32,73,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,1
+Holyoke Water Power Co. v. American Writing Paper Co.,3/1/37,1937,1930,upheld,Gold Repeal Joint Resolution,73-29,6/5/33,45,73,Economic,1.0,1.0,1,1,0.0,0.0,0,4,1
+Wright v. Vinton Branch of Mountain Trust Bank,3/29/37,1937,1930,upheld,Bankruptcy Act of 1898 Amendments,74-384,8/28/35,19,74,Economic,1.0,1.0,0,1,1.0,0.0,0,0,1
+Sonzinsky v. United States,3/29/37,1937,1930,upheld,National Firearms Act,73-474,6/26/34,33,73,Economic,0.0,0.0,1,1,0.0,0.0,1,0,1
+Virginian Railway Co. v. System Federation,3/29/37,1937,1930,upheld,Railway Labor Act,73-442,6/21/34,33,73,Federalism,0.0,0.0,1,1,0.0,0.0,0,0,1
+National Labor Relations Board v. Jones & Laughlin Steel Corp.,4/12/37,1937,1930,upheld,National Labor Relations Act,74-198,7/5/35,21,74,Federalism,1.0,1.0,1,1,1.0,0.0,1,4,1
+Associated Press v. National Labor Relations Board,4/12/37,1937,1930,upheld,National Labor Relations Act,74-198,7/5/35,21,74,Federalism,1.0,0.0,1,1,0.0,0.0,1,4,1
+Cincinnati Soap Co. v. United States,5/3/37,1937,1930,upheld,Revenue Act of 1934,73-216,5/10/34,36,73,Economic,0.0,0.0,1,1,0.0,0.0,1,0,1
+Anniston Manufacturing Corp. v. Davis,5/17/37,1937,1930,upheld,Revenue Act of 1936,74-740,6/22/36,11,74,Due Process,0.0,0.0,1,1,0.0,0.0,1,1,1
+Steward Machine Co. v. Davis,5/24/37,1937,1930,upheld,Social Security Act,74-271,8/14/35,21,74,Economic,1.0,1.0,1,1,0.0,0.0,1,4,1
+Helvering v. Davis,5/24/37,1937,1930,upheld,Social Security Act,74-271,8/14/35,21,74,Federalism,1.0,1.0,1,1,1.0,0.0,1,6,1
+McNair v. Knott,12/13/37,1937,1930,upheld,46 Stat. 809,71-433,6/25/30,90,71,Economic,0.0,0.0,0,1,0.0,0.0,0,0,0
+United States v. Stevens,1/17/38,1938,1930,upheld,36 Stat. 736,61-266,6/25/10,331,61,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+Kay v. United States,1/31/38,1938,1930,upheld,Home Owners' Loan Act of 1933 Amendments,73-178,4/27/34,45,73,Economic,0.0,0.0,1,1,0.0,0.0,1,0,1
+Helvering v. Therrell,2/28/38,1938,1930,upheld,35 Stat. 403,60-146,5/27/08,357,60,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+Helvering v. Mountain Producers Corp.,3/7/38,1938,1930,upheld,Revenue Act of 1925,69-20,2/26/26,145,69,Federalism,1.0,0.0,1,1,1.0,0.0,1,2,0
+Helvering v. Mitchell,3/7/38,1938,1930,upheld,Revenue Act of 1928,70-562,5/29/28,118,70,Due Process,0.0,0.0,1,1,1.0,0.0,1,1,0
+Myers v. Bethlehem Shipbuilding Corp.,1/31/38,1938,1930,upheld,National Labor Relations Act,74-198,7/5/35,30,74,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,1
+Electric Bond & Share Co. v. Securities & Exchange Commission,3/28/38,1938,1930,upheld,Public Utility Act of 1935,74-333,8/26/35,31,74,Federalism,1.0,0.0,1,1,0.0,0.0,1,1,1
+Santa Cruz Fruit Packing Co. v. National Labor Relations Board,3/28/38,1938,1930,upheld,National Labor Relations Act,74-198,7/5/35,32,74,Federalism,1.0,1.0,1,1,0.0,0.0,1,2,1
+United States v. Carolene Products Co.,4/25/38,1938,1930,upheld,Filled Milk Act,67-513,3/4/23,181,67,Federalism,0.0,0.0,1,0,1.0,0.0,1,1,0
+United States v. Bekins,4/25/38,1938,1930,upheld,Bankruptcy Act of 1898 Amendments,75-302,8/16/37,8,75,Economic,0.0,0.0,1,0,1.0,0.0,1,2,1
+Helvering v. National Grocery Co.,5/16/38,1938,1930,upheld,Revenue Act of 1928,70-562,5/29/28,120,70,Federalism,0.0,0.0,1,1,1.0,0.0,1,2,0
+National Labor Relations Board v. Mackay Radio & Telegraph Co.,5/16/38,1938,1930,upheld,National Labor Relations Act,74-198,7/5/35,34,74,Economic,1.0,0.0,1,1,1.0,0.0,1,0,1
+Helvering v. Gerhardt,5/23/38,1938,1930,upheld,Revenue Act of 1932,72-154,6/6/32,71,72,Federalism,0.0,0.0,1,1,1.0,0.0,1,2,1
+Allen v. Regents of the University of Georgia,5/23/38,1938,1930,upheld,Revenue Act of 1932,72-154,6/6/32,71,72,Federalism,0.0,0.0,1,1,1.0,0.0,1,5,1
+In re NLRB,5/31/38,1938,1930,upheld,National Labor Relations Act,74-198,7/5/35,34,74,Due Process,1.0,0.0,1,0,0.0,0.0,1,2,1
+Wright v. Union Central Life Insurance Co.,5/31/38,1938,1930,upheld,Bankruptcy Act of 1898 Amendments,74-384,8/28/35,33,74,Economic,1.0,0.0,0,1,1.0,0.0,0,0,1
+Collins v. Yosemite Park & Curry Co.,5/31/38,1938,1930,upheld,41 Stat. 731,66-235,6/2/20,215,66,Federalism,0.0,0.0,1,0,1.0,0.0,0,0,0
+Consolidated Edison Co. v. National Labor Relations Board,12/5/38,1938,1930,upheld,National Labor Relations Act,74-198,7/5/35,41,74,Federalism,1.0,1.0,1,1,0.0,0.0,1,2,1
+Inter-Island Steam Navigatoin Co. v. Hawaii,12/5/38,1938,1930,upheld,Shipping Act of 1916,64-260,9/7/16,267,64,Federalism,1.0,0.0,0,1,0.0,0.0,0,0,1
+Hines v. Lowrey,11/7/38,1938,1930,upheld,World War Veterans' Act of 1924,68-242,6/7/24,173,68,Federalism,1.0,0.0,0,1,0.0,0.0,1,0,0
+Currin v. Wallace,1/30/39,1939,1930,upheld,Tobacco Inspections Act,74-314,8/23/35,41,74,Federalism,0.0,0.0,1,1,0.0,0.0,1,2,0
+NLRB v. Fansteel Metallurgical Corp.,2/27/39,1939,1930,struck down as applied,National Labor Relation Act,74-198,7/5/35,43,74,Economic,1.0,0.0,1,1,0.0,0.0,1,2,0
+United States v. Jacobs,2/27/39,1939,1930,upheld,Revenue Act of 1924,68-176,6/2/24,176,68,Economic,1.0,0.0,1,1,1.0,0.0,1,3,1
+Graves v. New York ex rel. O'Keefe,3/27/39,1939,1930,upheld,Federal Fram Loan Act,64-158,7/17/16,272,64,Federalism,1.0,0.0,1,1,1.0,0.0,0,2,0
+National Labor Relations Board v. Fainblatt,4/17/39,1939,1930,upheld,National Labor Relation Act,74-198,7/5/35,45,74,Federalism,1.0,1.0,1,1,1.0,0.0,1,2,0
+United States v. Miller,3/20/39,1939,1930,upheld,National Firearms Act,73-474,6/26/34,57,73,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+United States v. Miller,5/15/39,1939,1930,upheld,National Firearms Act,73-474,6/26/34,59,73,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,0
+United States v. Powers,5/15/39,1939,1930,upheld,15 U.S.C. 715,74-14,6/14/37,22,75,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,0
+Guaranty Trust Co. v. Henwood,5/22/39,1939,1930,upheld,Gold Repeal Joint Resolution,73-29,6/3/33,71,73,Economic,1.0,1.0,1,1,0.0,0.0,0,4,0
+O'Malley v. Woodrough,5/22/39,1939,1930,upheld,Revenue Act of 1932,72-154,6/6/36,35,72,Separation of Powers,0.0,0.0,1,0,1.0,0.0,1,1,0
+Mulford v. Smith,4/17/39,1939,1930,upheld,52 Stat. 120,75-453,3/28/38,13,75,Federalism,0.0,0.0,1,0,0.0,0.0,0,2,0
+"United States v. Rock Royal Co-operative, Inc.",6/5/39,1939,1930,upheld,Agricultural Marketing Adjustment Act of 1937,75-137,6/3/37,24,75,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,4,0
+Pittman v. Home Owners' Loan Corp.,11/6/39,1939,1930,upheld,Home Owners' Loan Act of 1933 Amendments,73-43,6/13/33,77,73,Federalism,1.0,0.0,1,1,0.0,0.0,0,0,0
+United States v. Lowden,12/4/39,1939,1930,upheld,Transportation Act of 1920,66-152,2/28/20,238,66,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,1
+United States v. Sponenbarger,12/4/39,1939,1930,upheld,45 Stat. 534,70-391,5/15/28,139,70,Economic,1.0,1.0,1,1,1.0,0.0,1,0,1
+Weiss v. United States,12/11/39,1939,1930,upheld,Communications Act of 1934,73-416,6/19/34,66,73,Federalism,1.0,0.0,1,1,1.0,0.0,1,0,0
+Treinies v. Sunshine Mining Co.,11/6/39,1939,1930,upheld,Federal Interpleader Act of 1936,74-422,1/20/36,46,74,Separation of Powers,0.0,0.0,0,1,0.0,0.0,0,0,0
+Carpenter v. Wabash Railroad Co.,1/29/40,1940,1940,upheld,Bankruptcy Act of 1898 Amendments,76-386,8/11/39,5,76,Economic,0.0,0.0,0,1,0.0,0.0,0,0,0
+Paramino Lumber Co. v. Marshall,3/11/40,1940,1940,upheld,Relief of John T. Clark,74-445 private,4/10/36,47,74,Economic,0.0,0.0,1,0,0.0,0.0,1,1,0
+McGoldrick v. Gulf Oil Corp.,3/25/40,1940,1940,upheld,Tariff Act of 1930,71-361,6/17/30,117,71,Economic,1.0,0.0,0,1,0.0,0.0,0,0,1
+Helvering v. Bruun,3/25/40,1940,1940,upheld,Revenue Act of 1932,72-154,6/6/32,93,72,Economic,0.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. County of San Francisco,4/22/40,1940,1940,upheld,38 Stat. 242,63-41,12/19/13,316,63,Federalism,0.0,0.0,1,1,1.0,0.0,1,1,0
+Sunshine Anthracite Coal Co. v. Adkins,5/20/40,1940,1940,upheld,Bituminous Coal Act of 1937,75-48,4/26/37,37,75,Economic,1.0,1.0,1,0,0.0,0.0,1,1,0
+United States v. Applachian Electrical Power Co.,12/16/40,1940,1940,upheld,Public Utility Act of 1935,74-333,8/26/35,64,74,Federalism,1.0,0.0,1,1,1.0,0.0,1,2,0
+Helvering v. Northwest Steel Rolling Mills Inc.,11/12/40,1940,1940,upheld,Revenue Act of 1936,74-740,6/22/36,53,74,Economic,0.0,0.0,1,1,1.0,0.0,1,0,0
+Z. & F. Assets Realization Corp. v. Hull,1/6/41,1941,1940,upheld,Settlement of War Claims Act of 1928,70-122,3/10/28,154,70,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,0,1
+Sibbach v. Wilson & Co.,1/13/41,1941,1940,upheld,Communications Act of 1934,73-416,6/19/34,79,73,Separation of Powers,0.0,0.0,0,1,1.0,0.0,0,4,0
+United States v. Darby,2/3/41,1941,1940,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,32,75,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+"Opp Cotton Mills, Inc. v. Administrator of Wage & Hour Division",2/3/41,1941,1940,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,32,75,Separation of Powers,1.0,1.0,1,1,0.0,0.0,1,0,0
+Gorin v. United States,1/13/41,1941,1940,upheld,40 Stat. 217,65-24,6/15/17,283,65,Due Process,1.0,1.0,1,1,0.0,0.0,1,0,0
+"United States v. Chicago, Milwaukee, Saint Paul & Pacific Railroad Co.",3/31/41,1941,1940,upheld,46 Stat. 927,71-520,7/3/30,128,71,Economic,0.0,0.0,1,1,1.0,0.0,1,0,1
+Pittsburgh Plate Glass Co. v. National Labor Relations Board,4/28/41,1941,1940,upheld,National Labor Relations Act,74-198,7/5/35,69,74,Separation of Powers,1.0,0.0,1,1,0.0,0.0,1,3,0
+Phelps Dodge Corp. v. National Labor Relations Board,4/28/41,1941,1940,upheld,National Labor Relations Act,74-198,7/5/35,69,74,Economic,1.0,0.0,1,1,0.0,0.0,1,5,0
+United States v. Classic,5/26/41,1941,1940,upheld,Penal Law Codification of 1909,60-350,3/4/09,386,60,Federalism,1.0,0.0,1,0,1.0,0.0,1,3,1
+Oklahoma ex rel. Phillips v. Guy F. Atkinson Co.,6/2/41,1941,1940,upheld,52 Stat. 1215,75-761,6/28/38,35,75,Federalism,0.0,0.0,1,0,0.0,0.0,0,0,0
+Helvering v. Lerner Stores Corp.,12/22/41,1941,1940,upheld,Revenue Act of 1925,74-407,8/30/35,76,74,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,0
+National Labor Relations Board v. Virginia Electric and Power Co.,12/22/41,1941,1940,upheld,National Labor Relations Act,74-198,7/5/35,77,74,Substantive Rights,1.0,1.0,1,1,1.0,0.0,1,0,0
+Federal Land Bank v. Bismark Lumber Co.,11/10/41,1941,1940,upheld,Federal Farm Loan Act,64-158,7/17/16,304,64,Federalism,1.0,0.0,1,1,1.0,0.0,0,0,0
+United States v. Ragen,1/5/42,1942,1940,upheld,Revenue Act of 1932,72-154,6/6/32,115,72,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Wrightwood Dairy Co.,2/2/42,1942,1940,upheld,Agricultural Marketing Agreement Act of 1937,75-137,6/3/37,56,75,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+Federal Power Commission v. Natural Gas Pipeline,3/16/42,1942,1940,upheld,Natural Gas Act,75-688,6/21/38,44,75,Federalism,1.0,1.0,1,1,1.0,0.0,1,0,0
+A.B. Kirschbaum Co. v. Walling,6/1/42,1942,1940,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,47,75,Federalism,1.0,0.0,1,1,0.0,0.0,1,1,0
+Overnight Motor Transportation Co. v. Missel,6/8/42,1942,1940,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,47,75,Federalism,1.0,0.0,1,1,0.0,0.0,0,1,0
+Ex Parte Quirin,10/29/42,1942,1940,upheld,National Defense Act Amendments,66-242,6/4/20,268,66,Due Process,0.0,0.0,1,1,0.0,0.0,1,0,1
+Wickard v. Filburn,10/13/42,1942,1940,upheld,Agricultural Adjustment Act of 1938 Amendments,77-74,5/26/41,17,77,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+Detroit Bank v. United States,1/4/43,1943,1940,upheld,Revenue Act of 1925,69-20,2/26/26,203,69,Economic,1.0,0.0,1,1,0.0,0.0,1,0,1
+Harrison v. Northern Trust,1/11/43,1943,1940,upheld,Revenue Act of 1932,72-154,6/6/32,127,72,Economic,0.0,0.0,1,1,1.0,0.0,1,0,0
+Endicott Johnson Corp. v. Perkins,1/11/43,1943,1940,upheld,49 Stat. 2036,74-846,6/30/35,91,74,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,0
+United States ex rel. Marcus v. Hess,1/18/43,1943,1940,upheld,12 Stat. 1696,,3/2/1863,958,37,Due Process,0.0,0.0,1,1,1.0,0.0,1,1,1
+Reconstruction Finance Corp. v. Bankers Trust Co.,2/8/43,1943,1940,upheld,Bankruptcy Act of 1898 Amendments,72-420,3/3/33,119,72,Economic,0.0,0.0,1,1,1.0,0.0,0,0,0
+Maricopa County v. Valley National Bank,3/1/43,1943,1940,upheld,49 Stat. 1185,74-483,3/20/36,83,74,Federalism,0.0,0.0,1,1,0.0,0.0,0,0,0
+O'Donnell v. Great Lakes Dredge & Dock Co.,2/1/43,1943,1940,upheld,Merchant Marine Act of 1920,66-261,6/5/20,272,66,Federalism,1.0,0.0,0,1,1.0,0.0,0,0,1
+Ecker v. Western Pacific Railroad Corp.,3/15/43,1943,1940,upheld,Bankruptcy Act of 1898 Amendments,72-420,3/3/33,120,72,Due Process,0.0,0.0,1,1,1.0,0.0,0,0,0
+Board of County Commissioners v. Seber,4/19/43,1943,1940,upheld,50 Stat. 188,75-96,5/19/37,71,75,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,0
+Lockerty v. Phillips,5/10/43,1943,1940,upheld,Emergency Price Control Act of 1942,77-421,1/30/42,16,77,Separation of Powers,1.0,0.0,1,0,0.0,0.0,1,0,0
+National Broadcasting Co. v. United States,5/10/43,1943,1940,upheld,Communications Act of 1934,73-416,6/10/34,107,73,Separation of Powers,1.0,1.0,1,0,0.0,0.0,1,2,0
+Mayo v. United States,6/1/43,1943,1940,upheld,Department of Agriculture Appropriation Act of 1943,77-674,7/22/42,11,77,Federalism,0.0,0.0,1,0,0.0,0.0,1,0,0
+Tot v. United States,6/7/43,1943,1940,struck down as applied,Federal Firearms Act,75-785,6/30/38,59,75,Due Process,0.0,0.0,1,1,1.0,1.0,1,0,0
+Schneiderman v. United States,6/21/43,1943,1940,struck down as applied,Naturalization of Aliens Act,59-338,6/29/06,444,59,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,3,1
+Hirabayashi v. United States,6/21/43,1943,1940,upheld,56 Stat. 173,77-503,3/21/42,15,77,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,0,0
+Federal Power Commission v. Hope Natural Gas Co.,1/3/44,1944,1940,upheld,Natural Gas Act,75-688,6/21/38,67,75,Economic,1.0,1.0,1,1,1.0,0.0,1,3,0
+Northwestern Electric Co. v. Federal Power Commission,1/31/44,1944,1940,upheld,Public Utility Act of 1935,74-333,8/26/35,101,74,Economic,1.0,0.0,1,1,0.0,0.0,1,0,0
+Yakus v. United States,3/27/44,1944,1940,upheld,Emergency Price Control Act of 1942,77-421,1/30/42,26,77,Separation of Powers,1.0,1.0,1,1,0.0,0.0,1,3,0
+Bowles v. Willingham,3/27/44,1944,1940,upheld,Emergency Price Control Act of 1942,77-421,1/30/42,26,77,Economic,1.0,1.0,1,0,1.0,0.0,1,1,0
+L.P.Steuart & Brothers v. Bowles,5/22/44,1944,1940,upheld,56 Stat. 178,77-503,3/27/42,26,77,Separation of Powers,1.0,1.0,1,1,0.0,0.0,1,1,0
+United States v. South-Eastern Underwriters Association,6/5/44,1944,1940,upheld,Sherman Anti-Trust Act,,7/2/1890,647,51,Federalism,1.0,1.0,1,0,1.0,0.0,1,3,1
+Polish National Alliance v. NLRB,6/5/44,1944,1940,upheld,National Labor Relations Act,74-198,7/5/35,107,74,Federalism,1.0,1.0,1,1,0.0,0.0,1,0,0
+United States v. Ballard,4/24/44,1944,1940,struck down as applied,Mail Fraud Act,60-350,3/5/09,421,60,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,4,1
+Pope v. United States,11/6/44,1944,1940,upheld,Communications Act of 1934 Amendment,77-850,2/27/42,33,77,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,0
+Carolene Products Co. v. United States,11/6/44,1944,1940,upheld,Filled Milk Act,67-513,3/4/23,260,67,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,1
+Steele v. Louisville & Nashville Railroad Co.,12/18/44,1944,1940,struck down as applied,Railway Labor Act,73-442,6/21/34,126,73,Equality,0.0,0.0,1,1,1.0,0.0,0,0,0
+Korematsu v. United States,12/18/44,1944,1940,upheld,56 Stat. 173,77-503,3/21/42,33,77,Equality,0.0,0.0,1,1,0.0,0.0,1,3,0
+Ex Parte Mitsuye Endo,12/18/44,1944,1940,struck down as applied,56 Stat. 173,77-503,3/21/42,33,77,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,0
+"United States v. Frankfort Distilleries, Inc.",3/5/45,1945,1940,upheld,District of Columbia Revenue Act of 1937,75-314,8/17/37,92,75,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Commodore Park,3/26/45,1945,1940,upheld,53 Stat. 772,76-90,5/25/39,70,76,Economic,0.0,0.0,1,1,1.0,0.0,1,1,0
+Screws v. United States,5/7/45,1945,1940,upheld,Penal Law Codification of 1909,60-350,3/4/09,434,60,Due Process,1.0,1.0,1,1,1.0,0.0,1,4,1
+Associated Press v. United States,6/18/45,1945,1940,upheld,Sherman Anti-Trust Act,,7/2/1890,659,51,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,3,1
+Bridges v. Wixon,6/18/45,1945,1940,struck down as applied,Alien Registration Act of 1940,76-670,6/28/40,60,76,Substantive Rights,1.0,1.0,1,1,1.0,0.0,1,3,0
+Fernandez v. Wiener,12/10/45,1945,1940,upheld,Revenue Act of 1942,77-753,10/21/42,38,77,Economic,1.0,0.0,1,0,1.0,0.0,1,0,0
+New York v. United States,1/14/46,1946,1940,upheld,Revenue Act of 1932,72-154,6/6/32,163,72,Federalism,0.0,0.0,1,1,0.0,0.0,1,2,0
+In Re Yamashita,2/4/46,1946,1940,upheld,National Defense Act Amendments,66-242,6/4/20,308,66,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,2,1
+Hannegan v. Esquire,2/4/46,1946,1940,struck down as applied,48 Stat. 928,73-303,6/11/34,140,73,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,0,0
+Mabee v. White Plains Publishing Co.,2/11/46,1946,1940,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,92,75,Federalism,1.0,1.0,1,1,1.0,0.0,0,1,0
+Oklahoma Press Publishing Co. v. Walling,2/11/46,1946,1940,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,92,75,Due Process,1.0,0.0,1,1,0.0,0.0,1,1,0
+Duncan v. Kahanamoku,2/25/46,1946,1940,struck down as applied,Hawaiian Organic Act,,4/30/00,550,56,Due Process,1.0,0.0,1,1,1.0,0.0,0,2,1
+North American Company v. SEC,4/1/46,1946,1940,upheld,Public Utility Act of 1935,74-333,8/26/35,128,74,Federalism,1.0,1.0,1,1,0.0,0.0,1,0,0
+Case v. Bowles,2/4/46,1946,1940,upheld,59 Stat. 306,79-108,6/30/45,8,79,Federalism,0.0,0.0,1,1,0.0,0.0,1,1,0
+United States v. Causby,5/27/46,1946,1940,struck down as applied,Civil Aeronautics Act of 1938,75-706,6/23/38,95,75,Economic,1.0,0.0,1,1,1.0,0.0,1,2,0
+United States v. Lovett,6/3/46,1946,1940,struck down on face,Urgent Deficiency Appropriation Act of 1943,78-132,7/12/43,35,78,Separation of Powers,0.0,0.0,1,1,0.0,1.0,1,0,0
+Prudential Insurance Co. v. Benjamin,6/3/46,1946,1940,upheld,59 Stat. 33,79-15,3/9/45,15,79,Economic,1.0,1.0,0,0,0.0,0.0,0,0,0
+Davis v. United States,6/10/46,1946,1940,upheld,56 Stat. 177,77-503,3/27/42,51,77,Economic,1.0,0.0,1,1,0.0,0.0,1,3,0
+Knauer v. United States,6/10/46,1946,1940,upheld,Nationality Act of 1940,76-853,10/14/40,68,76,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,2,0
+United States v. Anderson,6/10/46,1946,1940,upheld,Selective Training and Service Act of 1940,76-783,9/16/40,69,76,Due Process,1.0,0.0,1,0,1.0,0.0,1,0,0
+American Tobacco Co. v. United States,6/10/46,1946,1940,upheld,Sherman Anti-Trust Act,,7/2/1890,671,51,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,1
+Cleveland v. United States,11/18/46,1946,1940,upheld,White Slave Traffic Act,61-277,6/25/10,437,61,Federalism,1.0,1.0,1,1,0.0,0.0,1,3,1
+United States v. Carmack,12/9/46,1946,1940,upheld,53 Stat. 1427,76-400,4/25/39,92,76,Economic,0.0,0.0,1,1,1.0,0.0,1,0,0
+Champlin Refining Co. v. United States,11/18/46,1946,1940,upheld,Communications Act of 1934,73-416,6/10/34,149,73,Federalism,0.0,0.0,1,0,0.0,0.0,1,4,0
+American Power & Light Company v. SEC,11/25/46,1946,1940,upheld,Public Utility Act of 1935,74-333,8/26/35,135,74,Federalism,1.0,0.0,1,1,0.0,0.0,1,2,0
+Board of Governors of Federal Reserve System v. Agnew,1/6/47,1947,1940,upheld,Banking Act of 1935,74-305,8/23/35,137,74,Separation of Powers,1.0,0.0,1,1,1.0,0.0,1,0,0
+Gardner v. New Jersey,1/20/47,1947,1940,upheld,Bankruptcy Act of 1898 Amendments,74-381,8/27/35,137,74,Federalism,0.0,0.0,0,1,1.0,0.0,1,0,0
+Oklahoma v. United States Civil Service Commission,2/10/47,1947,1940,upheld,Hatch Act,76-252,8/2/39,91,75,Federalism,1.0,1.0,1,1,0.0,0.0,1,3,0
+Testa v. Katt,3/10/47,1947,1940,upheld,Emergency Price Control Act of 1942,77-421,1/30/42,62,77,Federalism,1.0,0.0,1,1,1.0,0.0,0,0,0
+United Public Workers v. Mitchell,2/10/47,1947,1940,upheld,Hatch Act,76-252,8/2/39,91,76,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,3,0
+Fleming v. Rhodes,4/28/47,1947,1940,upheld,Price Control Extension Act of 1946,79-548,7/25/46,9,79,Economic,0.0,0.0,1,0,1.0,0.0,1,1,0
+United States v. Walsh,5/19/47,1947,1940,upheld,"Federal Food, Drug, and Cosmetic Act",75-717,6/25/38,107,75,Federalism,1.0,1.0,1,0,1.0,0.0,1,1,0
+United States v. Petrillo,6/23/47,1947,1940,upheld,60 stat. 89,79-344,4/16/46,14,79,Due Process,0.0,0.0,1,0,1.0,0.0,1,3,0
+Fahey v. Mallonee,6/23/47,1947,1940,upheld,Home Owners' Loan Act of 1933,73-43,6/13/33,168,73,Separation of Powers,1.0,0.0,1,0,1.0,0.0,1,0,0
+United States v. Sullivan,1/19/48,1948,1940,upheld,"Federal Food, Drug, and Cosmetic Act",75-717,6/25/38,114,75,Federalism,1.0,1.0,1,1,1.0,0.0,1,3,0
+Woods v. Cloyd W. Miller Co.,2/16/48,1948,1940,upheld,Housing and Rent Act of 1947,80-129,6/30/47,8,80,Federalism,0.0,0.0,1,0,1.0,0.0,1,0,1
+United States v. Baltimore & O. R. Co.,3/8/48,1948,1940,upheld,Interstate Commerce Act,,2/4/1887,733,49,Economic,1.0,1.0,1,0,1.0,0.0,1,1,0
+"Donaldson v. Read Magazine, Inc.",3/8/48,1948,1940,upheld,28 Stat. 964,,3/2/1895,636,53,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,2,0
+Lichter v. United States,6/14/48,1948,1940,upheld,Sixth Supplemental National Defense Appropriation Act of 1942,77-528,4/28/42,74,77,Economic,0.0,0.0,1,1,0.0,0.0,1,2,0
+Shapiro v. United States,6/21/48,1948,1940,upheld,Emergency Price Control Act of 1942,77-421,1/30/42,77,77,Due Process,1.0,0.0,1,1,0.0,0.0,1,4,0
+United States v. Congress of Industrial Organizations,6/21/48,1948,1940,struck down as applied,Taft-Hartley Act,80-101,6/23/47,12,80,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,0,1
+Ludecke v. Watkins,6/21/48,1948,1940,upheld,1 Stat. 577,5-53,7/6/1798,1811,5,Due Process,1.0,1.0,1,1,0.0,0.0,1,4,1
+Vermilya-Brown Co. v. Connell,12/6/48,1948,1940,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,126,75,Economic,1.0,1.0,1,1,0.0,0.0,0,4,0
+NLRB v. Stowe Spinning Co.,2/28/49,1949,1940,upheld,National Labor Relations Act,74-198,7/5/35,163,74,Economic,1.0,1.0,1,1,1.0,0.0,1,3,0
+"FCC v. WJR, Goodwill Station",6/6/49,1949,1940,upheld,Communications Act of 1934,73-416,6/19/34,180,73,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Cors,6/13/49,1949,1940,upheld,Merchant Marine Act of 1936,74-835,6/29/36,156,74,Economic,1.0,0.0,1,1,1.0,0.0,1,4,0
+National Mutual Insurance Co. v. Tidewater Transfer Co.,6/20/49,1949,1940,upheld,54 Stat. 143,76-464,4/20/40,110,76,Separation of Powers,0.0,0.0,1,1,1.0,0.0,0,4,0
+Graham v. Brotherhood of Locomotive Firemen & Enginemen,11/71/1949,1949,1940,upheld,54 Stat. 143,76-464,4/20/40,115,76,Separation of Powers,0.0,0.0,1,1,1.0,0.0,0,0,0
+Wilmette Park District v. Campbell,12/12/49,1949,1940,upheld,Revenue Act of 1932,72-154,6/6/32,210,72,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,0
+United States ex rel. Knauff v. Shaughnessy,1/16/50,1950,1950,upheld,Alien Visa Act,77-114,6/21/41,103,77,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,3,0
+Secretary of Agriculture v. Central Roig Refining Co.,2/6/50,1950,1950,upheld,Sugar Act of 1948,80-388,8/8/47,30,80,Economic,0.0,0.0,1,1,1.0,0.0,1,1,1
+United States v. Morton Salt Co.,2/6/50,1950,1950,upheld,Federal Trade Commission Act,63-203,9/26/14,425,63,Due Process,1.0,1.0,1,1,1.0,0.0,1,0,0
+Wong Yang Sung v. McGrath,2/20/50,1950,1950,struck down as applied,Immigration Act of 1917,64-301,2/5/17,396,64,Due Process,1.0,0.0,1,1,1.0,0.0,1,1,0
+American Communications Association v. Douds,5/8/50,1950,1950,upheld,Taft-Hartley Act,80-101,6/23/47,35,80,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,3,1
+"Ewing v. Mytinger & Casselberry, Inc.",5/29/50,1950,1950,upheld,"Federal Food, Drug, and Cosmetic Act",75-717,6/25/38,143,75,Due Process,1.0,0.0,1,0,1.0,0.0,1,2,0
+United States v. Texas,6/5/50,1950,1950,upheld,5 Stat. 797,,3/1/1845,1263,28,Economic,1.0,0.0,1,0,0.0,0.0,1,3,0
+Whelchel v. McDonald,12/4/50,1950,1950,upheld,Federal Possession and Control Act (Railroads in War),64-242,8/29/16,411,64,Due Process,0.0,0.0,1,1,0.0,0.0,1,0,0
+United States v. Rock Island Motor Transit Co.,2/26/51,1951,1950,upheld,Interstate Commerce Act Amendment,74-255,8/9/35,186,74,Economic,1.0,0.0,1,0,1.0,0.0,1,4,0
+Joint Anti-Fascist Refugee Committee v. McGrath,4/30/51,1951,1950,struck down as applied,Hatch Act,76-252,8/2/39,140,76,Due Process,1.0,0.0,1,1,1.0,0.0,1,3,0
+Tenney v. Brandhove,5/21/51,1951,1950,struck down as applied,Civil Rights Act of 1871,,4/20/1871,961,42,Federalism,1.0,1.0,0,1,1.0,0.0,0,1,1
+Dennis v. United States,6/4/51,1951,1950,upheld,Alien Registration Act of 1940,76-670,6/28/40,132,76,Substantive Rights,1.0,1.0,1,1,0.0,0.0,1,2,0
+Collins v. Handyman,6/4/51,1951,1950,struck down as applied,Civil Rights Act of 1871,,4/20/1871,961,42,Federalism,1.0,1.0,0,1,1.0,0.0,0,3,1
+International Brotherhood of Electrical Workers et al. v. National Labor Relations Board,6/4/51,1951,1950,upheld,Taft-Hartley Act,80-101,6/23/47,48,80,Substantive Rights,1.0,1.0,1,1,0.0,0.0,1,3,1
+Williams v. United States,4/23/51,1951,1950,upheld,Penal Law Codification of 1909,60-350,3/4/09,505,60,Due Process,1.0,1.0,1,1,0.0,0.0,1,4,1
+Lorain Journal Co. v. United States,12/11/51,1951,1950,upheld,Sherman Anti-Trust Act,,7/2/1890,737,51,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,1
+Guessefeldt v. McGrath,1/28/52,1952,1950,struck down as applied,War Claims Act of 1948,80-896,7/3/48,42,80,Economic,0.0,0.0,1,1,1.0,0.0,1,3,1
+Cities Service Co. v. McGrath,1/28/52,1952,1950,upheld,First War Powers Act of 1941,77-354,12/18/41,121,77,Economic,1.0,0.0,1,1,0.0,0.0,1,0,0
+Carson v. Landon,3/10/52,1952,1950,upheld,Internal Security Act of 1950,81-831,9/23/50,18,81,Separation of Powers,1.0,0.0,1,0,0.0,0.0,1,4,0
+Harisiades v. Shaughnessy,3/10/52,1952,1950,upheld,Alien Registration Act of 1940,76-670,6/28/40,141,76,Substantive Rights,1.0,0.0,1,1,0.0,0.0,1,2,0
+United States v. Spector,4/7/52,1952,1950,upheld,Internal Security Act of 1950,81-831,9/23/50,19,81,Due Process,1.0,0.0,1,0,1.0,0.0,1,3,0
+United States v. Cardiff,12/8/52,1952,1950,struck down on face,"Federal Food, Drug, and Cosmetic Act",75-717,6/25/38,174,75,Due Process,1.0,0.0,1,1,0.0,1.0,1,1,0
+American Trucking Association v. United States,1/12/53,1953,1950,upheld,Interstate Commerce Act Amendment,74-255,8/9/35,89,74,Economic,1.0,0.0,1,0,0.0,0.0,1,2,0
+Kwong Hai Chew v. Colding,2/9/53,1953,1950,struck down as applied,Alien Visa Act,77-114,6/21/41,140,77,Due Process,0.0,0.0,1,1,1.0,0.0,1,1,0
+Baltimore & Ohio Railroad Company v. United States,3/16/53,1953,1950,upheld,Transportation Act of 1920,66-152,2/28/20,277,66,Economic,1.0,1.0,1,0,0.0,0.0,1,2,1
+Shaughnessy v. United States,3/16/53,1953,1950,upheld,Alien Visa Act,77-114,6/14/41,141,77,Due Process,0.0,0.0,1,1,1.0,0.0,1,4,0
+United States v. Kahriger,3/9/53,1953,1950,upheld,Revenue Act of 1951,82-183,10/20/51,17,82,Federalism,0.0,0.0,1,0,1.0,0.0,1,3,0
+Dameron v. Brodhead,4/6/53,1953,1950,upheld,Soldiers' and Sailors' Civil Relief Act Amendment,78-415,7/3/44,105,78,Federalism,0.0,0.0,1,1,1.0,0.0,0,2,0
+United States v. Certain Parcels of Land,4/6/53,1953,1950,upheld,55 Stat. 361,77-137,6/28/41,142,77,Economic,0.0,0.0,1,1,1.0,0.0,1,2,0
+United States v. Nugent,6/8/53,1953,1950,upheld,Selective Training and Service Act of 1940,76-783,9/16/40,153,76,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,0
+District of Columbia v. John R. Thompson Co.,6/8/53,1953,1950,upheld,20 Stat. 102,,6/11/1878,900,45,Federalism,1.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Five Gambling Devices,12/7/53,1953,1950,struck down as applied,Gambling Devices Transportation Act,81-906,1/2/51,35,81,Federalism,0.0,0.0,1,0,0.0,0.0,1,7,0
+Adams v. Maryland,3/8/54,1954,1950,upheld,Attendance of Witnesses Before Congress Act,,1/24/1857,1166,34,Federalism,0.0,0.0,0,1,1.0,0.0,0,0,1
+Alabama v. Texas,3/15/54,1954,1950,upheld,67 Stat. 29,83-30,5/22/53,10,83,Federalism,1.0,1.0,1,0,0.0,0.0,0,2,1
+Bolling v. Sharpe,5/17/54,1954,1950,struck down on face,18 Stat. 281,,6/22/1874,899,43,Equality,0.0,0.0,1,1,0.0,1.0,1,0,1
+Galvan v. Press,5/24/54,1954,1950,upheld,Internal Security Act of 1950,81-831,9/23/50,44,81,Due Process,1.0,0.0,1,1,0.0,0.0,1,2,0
+United States v. Harriss,6/7/54,1954,1950,upheld,Legislative Reorganization Act of 1946,79-601,8/2/46,94,79,Due Process,1.0,1.0,1,0,1.0,0.0,1,3,0
+Moore v. Mead's Fine Bread Co.,12/6/54,1954,1950,upheld,Antitrust Act of 1914 Amendment,74-692,6/19/36,222,74,Federalism,1.0,1.0,0,1,1.0,0.0,0,0,0
+Berman v. Parker,11/22/54,1954,1950,upheld,District of Columbia Redevelopment Act of 1945,79-592,8/2/46,99,79,Economic,0.0,0.0,1,0,0.0,0.0,1,0,0
+Tee-Hit-Ton Indians v. United States,2/7/55,1955,1950,upheld,61 Stat. 920,80-384,8/8/47,90,80,Economic,0.0,0.0,1,1,0.0,0.0,1,3,1
+Lewis v. United States,3/14/55,1955,1950,upheld,Revenue Act of 1951,82-183,10/20/51,41,82,Economic,0.0,0.0,1,1,0.0,0.0,1,3,0
+Association of Westinghouse Salaried Employees v. Westinghouse Electric Corp.,3/28/55,1955,1950,struck down as applied,Taft-Hartley Act,80-101,6/23/47,93,80,Separation of Powers,1.0,0.0,0,1,0.0,0.0,0,2,1
+Quinn v. United States,5/23/55,1955,1950,struck down as applied,52 Stat. 942,75-700,6/22/38,203,75,Due Process,0.0,0.0,1,1,1.0,0.0,1,2,0
+Emspak v. United States,5/23/55,1955,1950,struck down as applied,52 Stat. 942,75-700,6/22/38,203,75,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,0
+Marcello v. Bonds,5/31/55,1955,1950,upheld,Immigration and Nationality Act,82-414,6/27/52,35,82,Due Process,1.0,1.0,1,1,0.0,0.0,1,3,0
+Federal Power Commission v. Oregon,6/6/55,1955,1950,upheld,Public Utility Act of 1935,74-333,8/26/35,298,74,Federalism,1.0,0.0,1,1,1.0,0.0,1,1,0
+United States ex rel. Toth v. Quarles,11/7/55,1955,1950,struck down on face,Uniform Code of Military Justice,81-506,5/5/50,66,81,Due Process,0.0,0.0,1,1,1.0,1.0,1,3,0
+Rex Trailer Co. v. United States,1/9/56,1956,1950,upheld,Surplus Property Act of 1944,78-457,10/3/44,135,78,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,0
+Bernhardt v. Polygraphic Co. of America,1/16/56,1956,1950,struck down as applied,Federal Arbitration Act of 1947,80-281,7/20/47,102,80,Federalism,0.0,0.0,0,1,1.0,0.0,0,1,1
+Greenwood v. United States,3/5/56,1956,1950,upheld,63 Stat. 686,81-285,9/7/49,78,81,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,0
+Cammer v. United States,3/12/56,1956,1950,struck down as applied,Conspiracy Act of 1948,80-772,6/25/48,93,80,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,1
+United States v. Green,3/26/56,1956,1950,upheld,60 Stat. 420,79-486,7/3/46,152,79,Federalism,0.0,0.0,1,0,1.0,0.0,1,3,0
+Ullman v. United States,3/26/56,1956,1950,upheld,68 Stat. 745,83-599,8/20/54,55,83,Due Process,0.0,0.0,1,1,0.0,0.0,1,3,1
+Railway Employees' Department v. Hanson,5/21/56,1956,1950,upheld,Railway Labor Act Amendment,81-914,1/20/51,64,81,Economic,0.0,0.0,0,0,1.0,0.0,0,0,0
+Kinsella v. Krueger,6/11/56,1956,1950,upheld,Uniform Code of Military Justice,81-506,5/5/50,73,81,Due Process,0.0,0.0,1,1,0.0,0.0,1,3,0
+United States v. Witkovich,4/29/57,1957,1950,struck down as applied,Immigration and Nationality Act,82-414,6/27/52,58,82,Due Process,1.0,0.0,1,0,0.0,0.0,1,2,0
+Textile Workers Union v. Lincoln Mills of Alabama,6/3/57,1957,1950,upheld,Taft-Hartley Act,80-101,6/23/47,120,80,Federalism,1.0,0.0,1,1,1.0,0.0,0,1,1
+California v. Taylor,6/3/57,1957,1950,upheld,Railway Labor Act,73-442,6/21/34,276,73,Federalism,0.0,0.0,1,1,0.0,0.0,0,0,0
+Lehmann v. United States,6/3/57,1957,1950,upheld,Federal-Aid Highway Act of 1952,82-413,6/27/52,60,82,Due Process,1.0,1.0,0,1,1.0,0.0,1,2,0
+Reid v. Covert,2/27/57,1957,1950,struck down on face,Uniform Code of Military Justice,81-506,5/5/50,81,81,Due Process,0.0,0.0,1,0,1.0,1.0,1,2,0
+Watkins v. United States,6/17/57,1957,1950,struck down as applied,Legislative Reorganization Act of 1946,79-601,8/2/46,130,79,Due Process,1.0,0.0,1,1,1.0,0.0,1,1,0
+Yates v. United States,6/17/57,1957,1950,struck down as applied,Alien Registration Act of 1940,76-670,6/28/40,204,76,Substantive Rights,1.0,1.0,1,1,1.0,0.0,1,3,0
+Roth v. United States,6/24/57,1957,1950,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,108,80,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,3,1
+United States v. Sharpnack,1/13/58,1958,1950,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,115,80,Separation of Powers,0.0,0.0,1,0,1.0,0.0,1,2,1
+Green v. United States,3/31/58,1958,1950,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,117,80,Due Process,0.0,0.0,1,1,0.0,0.0,1,4,1
+Perez v. Brownell,3/31/58,1958,1950,upheld,Nationality Act of 1940 Amendment,78-431,9/27/44,162,78,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,0
+Trop v. Dulles,3/31/58,1958,1950,struck down on face,Nationality Act of 1940 Amendment,78-221,1/20/44,170,78,Substantive Rights,0.0,0.0,1,1,1.0,1.0,1,4,0
+Kent v. Dulles,6/16/58,1958,1950,struck down as applied,Immigration and Nationality Act,82-414,6/27/52,72,82,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,4,0
+Ivanhoe Irrigation District v. McCracken,6/23/58,1958,1950,upheld,70 Stat. 524,84-691,7/11/56,23,84,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+Gore v. United States,6/30/58,1958,1950,upheld,65 Stat. 767,82-255,11/2/51,79,82,Due Process,0.0,0.0,1,1,0.0,0.0,1,4,0
+"Federal Housing Administration v. Darlington, Inc.",11/24/58,1958,1950,upheld,Housing Act of 1954,83-560,8/2/54,51,83,Economic,1.0,0.0,1,0,1.0,0.0,1,3,1
+Lee v. Madigan,1/12/59,1959,1950,struck down as applied,Uniform Code of Military Justice,81-506,5/5/50,104,81,Due Process,0.0,0.0,1,1,0.0,0.0,1,2,0
+Cammarano v. United States,2/24/59,1959,1950,upheld,Revenue Act of 1939,76-155,6/29/39,236,76,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,0,0
+Barenblatt v. United States,6/8/59,1959,1950,upheld,52 Stat. 942,75-700,6/22/38,252,75,Due Process,0.0,0.0,1,1,1.0,0.0,1,4,0
+National Labor Relations Board v. Cabot Carbon Co.,6/8/59,1959,1950,upheld,Taft-Hartley Act,80-101,6/23/47,144,80,Substantive Rights,1.0,0.0,1,1,0.0,0.0,1,0,1
+Palermo v. United States,6/22/59,1959,1950,upheld,71 stat. 595,85-269,9/2/57,21,85,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,0,0
+Pennsylvania Railroad Co. v. Day,6/29/59,1959,1950,upheld,Railway Labor Act,73-442,6/21/34,300,73,Due Process,0.0,0.0,0,1,1.0,0.0,1,3,0
+Braen v. Pfeifer Oil Transportation Co.,12/14/59,1959,1950,upheld,Merchant Marine Act of 1920,66-261,6/5/20,462,66,Federalism,1.0,0.0,0,1,1.0,0.0,0,3,1
+United Steelworkers of America v. United States,11/7/59,1959,1950,upheld,Taft-Hartley Act,80-101,6/23/47,149,80,Separation of Powers,1.0,1.0,1,1,0.0,0.0,1,0,1
+Kinsella v. United States,1/18/60,1960,1960,struck down as applied,Revision of Code relating to Armed Services,84-1028,8/10/56,41,84,Due Process,0.0,0.0,1,1,1.0,1.0,1,2,0
+Grisham v. Hagan,1/18/60,1960,1960,struck down as applied,Revision of Code relating to Armed Services,84-1028,8/10/56,41,84,Due Process,0.0,0.0,1,1,1.0,1.0,1,2,0
+McElroy v. United States,1/18/60,1960,1960,struck down as applied,Revision of Code relating to Armed Services,84-1028,8/10/56,41,84,Due Process,0.0,0.0,1,0,0.0,1.0,1,4,0
+United States v. Raines,2/29/60,1960,1960,upheld,Civil Rights Act of 1957,85-315,9/9/57,29,85,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+United States v. Manufacturers National Bank,6/13/60,1960,1960,upheld,Revenue Act of 1942,77-753,10/21/42,212,77,Due Process,1.0,0.0,1,0,1.0,0.0,1,0,0
+Hannah v. Larche,6/20/60,1960,1960,upheld,Civil Rights Act of 1957,85-315,9/9/57,33,85,Due Process,1.0,1.0,1,0,1.0,0.0,1,2,0
+Flemming v. Nestor,6/20/60,1960,1960,upheld,Social Security Amendments of 1954,83-761,9/1/54,69,83,Due Process,0.0,0.0,1,0,1.0,0.0,1,4,1
+Reina v. United States,12/19/60,1960,1960,upheld,Narcotic Control Act of 1956,84-728,7/18/56,53,84,Federalism,1.0,0.0,1,1,0.0,0.0,1,2,0
+Gonzales v. United States,6/27/60,1960,1960,upheld,Selective Service Act of 1948,80-759,6/24/48,144,80,Due Process,0.0,0.0,1,1,0.0,0.0,1,4,1
+Travis v. United States,1/16/61,1961,1960,struck down as applied,Crimes and Criminal Procedure Act,80-772,6/25/48,151,80,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,1
+Eastern Railroad Presidents Conference v. Noerr Motor Freight Inc.,2/20/61,1961,1960,struck down as applied,Sherman Anti-Trust Act,,7/2/1890,847,51,Substantive Rights,1.0,1.0,0,1,1.0,0.0,0,0,1
+Wilkinson v. United States,2/27/61,1961,1960,upheld,52 Stat. 942,75-700,6/22/38,356,75,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,0
+Braden v. United States,2/27/61,1961,1960,upheld,52 Stat. 942,75-700,6/22/38,356,75,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,0
+United States v. Oregon,5/29/61,1961,1960,upheld,36 Stat. 736,61-266,6/25/10,731,61,Federalism,0.0,0.0,1,1,1.0,0.0,1,2,1
+Communist Party of United States v. Subversive Activities Control Board,6/5/61,1961,1960,upheld,Internal Security Act of 1950,81-831,9/23/50,129,81,Due Process,1.0,1.0,1,1,0.0,0.0,1,4,0
+Scales v. United States,6/5/61,1961,1960,upheld,Internal Security Act of 1950,81-831,9/23/50,129,81,Due Process,1.0,0.0,1,1,0.0,0.0,1,4,0
+International Association of Machinists v. Street,6/19/61,1961,1960,struck down as applied,Railway Labor Act Amendment,81-914,1/10/51,125,81,Substantive Rights,0.0,0.0,1,0,1.0,0.0,0,4,0
+Cafeteria & Restaurant Workers Union v. McElroy,6/19/61,1961,1960,upheld,12 Stat. 565,,7/14/1862,1187,37,Due Process,0.0,0.0,1,1,0.0,0.0,1,4,1
+Killian v. United States,10/10/61,1961,1960,upheld,Taft-Hartley Act,80-101,6/23/47,172,80,Substantive Rights,1.0,1.0,1,1,0.0,0.0,1,4,1
+Hutcheson v. United States,5/14/62,1962,1960,upheld,52 Stat. 942,75-700,6/22/38,287,75,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,2,0
+Free v. Bland,5/21/62,1962,1960,upheld,Gold Reserve Act of 1934,73-87,1/30/34,340,73,Federalism,0.0,0.0,1,1,1.0,0.0,0,0,0
+Lynch v. Overholser,5/21/62,1962,1960,struck down as applied,59 Stat. 311,79-111,7/2/45,202,79,Due Process,0.0,0.0,1,1,1.0,0.0,1,1,0
+State Board of Insurance v. Todd Shipyards Corp.,6/25/62,1962,1960,upheld,59 Stat. 33,79-15,3/9/45,207,79,Federalism,1.0,1.0,1,1,1.0,0.0,0,1,0
+"Manual Enterprises, Inc. v. Day",6/25/62,1962,1960,struck down as applied,69 Stat. 183,84-95,6/28/55,84,84,Substantive Rights,0.0,0.0,0,1,0.0,0.0,1,1,0
+Glidden Co. v. Zdanok,6/25/62,1962,1960,upheld,70 Stat. 532,84-703,7/14/56,71,84,Due Process,0.0,0.0,1,1,0.0,0.0,0,2,0
+Kennedy v. Mendoza-Martinez,2/18/63,1963,1960,struck down on face,Immigration and Nationality Act,82-414,6/27/52,128,82,Due Process,1.0,0.0,1,0,1.0,1.0,1,4,0
+United States v. National Dairy Products Corpt.,2/18/63,1963,1960,upheld,Antitrust Act of 1914 Amendment,74-692,6/19/36,356,74,Due Process,1.0,1.0,1,0,0.0,0.0,1,3,0
+Sperry v. Florida,5/27/63,1963,1960,upheld,66 Stat. 795,82-593,7/19/52,130,82,Federalism,0.0,0.0,1,1,0.0,0.0,0,0,0
+Arizona v. California,6/3/63,1963,1960,upheld,45 Stat. 1057,70-642,12/21/28,414,70,Federalism,1.0,0.0,1,0,0.0,0.0,0,3,1
+Reisman v. Caplin,1/20/64,1964,1960,upheld,Renegotiation Act Extension,83-746,8/16/54,113,83,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,1
+United States v. Barnett,4/6/64,1964,1960,upheld,Clayton Anti-Trust Act,63-212,10/15/14,594,63,Due Process,1.0,1.0,1,0,0.0,0.0,1,4,0
+Schneider v. Rusk,5/18/64,1964,1960,struck down on face,Immigration and Nationality Act,82-414,6/27/52,143,82,Due Process,1.0,0.0,0,1,1.0,1.0,1,3,0
+Parden v. Terminal Railway of the Alabama State Docks Department,5/18/64,1964,1960,upheld,Employers' Liability Act of 1908 (Railroads),60-100,4/22/08,673,60,Federalism,1.0,1.0,1,0,1.0,0.0,0,4,1
+Aptheker v. Secretary of State,6/22/64,1964,1960,struck down on face,Internal Security Act of 1950,81-831,9/23/50,165,81,Substantive Rights,1.0,1.0,1,0,1.0,1.0,1,3,0
+Schlagenhauf v. Holder,11/24/64,1964,1960,upheld,Communications Act of 1934,73-416,6/19/34,365,73,Substantive Rights,0.0,0.0,0,1,0.0,0.0,0,4,0
+"Heart of Atlanta Motel, Inc. v. United States",12/14/64,1964,1960,upheld,Civil Rights Act of 1964,88-352,7/2/64,5,88,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+Katzenbach v. McClung,12/14/64,1964,1960,upheld,Civil Rights Act of 1964,88-352,7/2/64,5,88,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,0
+United States v. Mississippi,3/8/65,1965,1960,upheld,Civil Rights Act of 1960,86-449,5/6/60,58,86,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,0
+Singer v. United States,3/1/65,1965,1960,upheld,54 Stat. 688,76-675,6/29/40,297,76,Due Process,0.0,0.0,1,1,0.0,0.0,1,0,0
+Hanna v. Plumer,4/26/65,1965,1960,upheld,Judiciary and Judicial Procedure Act,80-773,6/25/48,202,80,Federalism,0.0,0.0,0,1,1.0,0.0,0,0,1
+United States v. Gainey,3/1/65,1965,1960,upheld,Excise Tax Technical Changes Act of 1958,85-859,9/2/58,78,85,Due Process,0.0,0.0,1,1,1.0,0.0,1,2,0
+Zemel v. Rusk,5/3/65,1965,1960,upheld,Walsh Act,69-493,7/3/26,466,69,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,3,1
+United States v. Atlas Life Insurance Co.,5/17/65,1965,1960,upheld,Life Insurance Company Income Tax Act of 1959,86-69,6/25/59,71,86,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,0
+Lamont v. Postmaster General,5/24/65,1965,1960,struck down on face,Postal Service and Federal Employees Salary Act of 1962,87-793,10/11/62,31,87,Substantive Rights,0.0,0.0,1,0,0.0,1.0,1,0,0
+United States v. Brown,6/7/65,1965,1960,struck down on face,Labor-Management Reporting and Disclosure Act,86-257,9/14/59,69,86,Separation of Powers,1.0,0.0,1,1,0.0,1.0,1,4,0
+United States v. Romano,11/22/65,1965,1960,struck down as applied,Excise Tax Technical Changes Act of 1958,85-859,9/2/58,86,85,Due Process,0.0,0.0,1,1,0.0,1.0,1,0,0
+Albertson v. Subversive Activities Control Board,11/15/65,1965,1960,struck down as applied,Internal Security Act of 1950,81-831,9/23/50,182,81,Due Process,1.0,1.0,1,1,1.0,1.0,1,0,0
+Katchen v. Landy,1/17/66,1966,1960,upheld,Bankruptcy Act of 1898 Amendments,75-696,6/22/38,331,75,Due Process,1.0,0.0,0,1,0.0,0.0,0,2,0
+United States v. Johnson,2/24/66,1966,1960,struck down as applied,58 Stat. 752,78-439,9/27/44,257,78,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,3,0
+South Carolina v. Katzenbach,2/24/66,1966,1960,upheld,Voting Rights Act of 1965,89-110,8/6/65,6,89,Federalism,0.0,0.0,1,0,0.0,0.0,1,1,0
+Ginzburg v. United States,3/21/66,1966,1960,upheld,69 Stat. 183,84-95,6/28/55,129,84,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,0
+United States v. Guest,3/28/66,1966,1960,upheld,Enforcement Act of 1870,,5/31/1870,1150,41,Due Process,1.0,1.0,1,0,1.0,0.0,1,4,1
+Cheff v. Schnackenberg,6/6/66,1966,1960,upheld,Clayton Anti-Trust Act,63-212,10/15/14,620,63,Due Process,1.0,1.0,1,1,0.0,0.0,1,2,0
+Katzenbach v. Morgan,6/13/66,1966,1960,upheld,Voting Rights Act of 1965,89-110,8/6/65,9,89,Federalism,1.0,1.0,0,0,1.0,0.0,1,2,0
+Dennis v. United States,6/20/66,1966,1960,upheld,58 Stat. 752,78-439,9/27/44,261,78,Due Process,0.0,0.0,1,1,1.0,0.0,1,2,0
+State Farm Fire & Casualty Co. v. Tashire,4/10/67,1967,1960,upheld,Federal Interpleader Act of 1936,74-422,1/20/36,375,74,Separation of Powers,0.0,0.0,0,1,1.0,0.0,0,1,0
+Boutilier v. INS,5/22/67,1967,1960,upheld,Immigration and Nationality Act,82-414,6/27/52,179,82,Due Process,1.0,1.0,1,1,0.0,0.0,1,3,0
+Afroyim v. Rusk,5/29/67,1967,1960,struck down on face,Immigration and Nationality Act,82-414,6/27/52,179,82,Substantive Rights,1.0,0.0,1,1,1.0,1.0,1,4,0
+Prima Paint Corp. v. Flood & Conklin Manufacturing Co.,6/12/67,1967,1960,upheld,68 Stat. 1233,83-779,9/3/54,153,83,Federalism,0.0,0.0,0,1,0.0,0.0,0,3,1
+United States v. Robel,12/11/67,1967,1960,struck down on face,Internal Security Act of 1950,81-831,9/23/50,195,81,Substantive Rights,1.0,1.0,1,0,0.0,1.0,1,2,0
+Schneider v. Smith,1/16/68,1968,1960,struck down as applied,Magnuson Act,81-679,8/9/50,209,81,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,0,0
+Marchetti v. United States,1/29/68,1968,1960,struck down on face,Renegotiation Act Extension,83-746,8/16/54,161,83,Due Process,1.0,0.0,1,1,1.0,1.0,1,1,1
+United States v. Jackson,4/8/68,1968,1960,struck down on face,Crimes and Criminal Procedure Act,80-772,6/25/48,238,80,Due Process,0.0,0.0,1,0,1.0,1.0,1,2,1
+Grosso v. United States,1/29/68,1968,1960,struck down on face,Renegotiation Act Extension,83-746,8/16/54,161,83,Due Process,1.0,0.0,1,1,1.0,1.0,1,1,1
+Permian Basin Area Rate Cases,5/1/68,1968,1960,upheld,Natural Gas Act,75-688,6/21/38,359,75,Economic,1.0,1.0,1,1,1.0,0.0,1,1,0
+Haynes v. United States,1/29/68,1968,1960,struck down on face,National Firearms Act,73-474,6/29/34,403,73,Due Process,0.0,0.0,1,1,1.0,1.0,1,1,0
+United States v. O'Brien,5/27/68,1968,1960,upheld,79 Stat. 586,89-152,8/28/65,33,89,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,1,0
+Maryland v. Wirtz,6/10/68,1968,1960,upheld,Fair Labor Standards Amendments of 1966,89-601,9/23/66,21,89,Federalism,1.0,0.0,1,0,0.0,0.0,1,2,0
+Jones v. Alfred H. Mayer Co.,6/17/68,1968,1960,upheld,Enforcement Act of 1870,,5/31/1870,1177,41,Federalism,1.0,1.0,1,1,1.0,0.0,0,2,1
+Clark v. Gabriel,12/16/68,1968,1960,upheld,Universal Military Training and Service Act Amendments,90-40,6/30/67,18,90,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,0
+Thorpe v. Housing Authority of the City of Durham,1/13/69,1969,1960,upheld,United States Housing Act of 1937,75-412,9/1/37,376,75,Economic,1.0,0.0,0,1,1.0,0.0,0,0,0
+Shapiro v. Thompson,4/21/69,1969,1960,struck down on face,Social Security Act Amendments of 1950,81-734,8/26/50,224,81,Substantive Rights,1.0,0.0,0,0,0.0,1.0,0,3,0
+Watts v. United States,4/21/69,1969,1960,struck down as applied,Crimes and Criminal Procedure Act,80-772,6/25/48,250,80,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,3,1
+Frank v. United States,5/19/69,1969,1960,upheld,55 Stat. 779,77-316,11/21/41,330,77,Due Process,0.0,0.0,1,1,0.0,0.0,1,3,0
+O'Callahan v. Parker,6/2/69,1969,1960,struck down as applied,Uniform Code of Military Justice,81-506,5/5/50,229,81,Due Process,0.0,0.0,1,1,1.0,1.0,1,3,0
+Red Lion Broadcasting Co. v. FCC,6/9/69,1969,1960,upheld,Communications Act Amendment,86-274,9/14/59,117,86,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,0,0
+National Labor Relations Board v. Gissel Packing Co.,6/16/69,1969,1960,upheld,National Labor Relations Act,74-198,7/5/35,419,74,Substantive Rights,1.0,1.0,1,1,1.0,0.0,1,0,0
+Leary v. United States,5/19/69,1969,1960,struck down on face,Narcotic Control Act of 1956,84-728,7/18/56,154,84,Due Process,1.0,0.0,1,1,1.0,1.0,1,0,0
+Bryson v. United States,12/8/69,1969,1960,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,258,80,Due Process,0.0,0.0,1,1,0.0,0.0,1,2,1
+Minor v. United States,12/8/69,1969,1960,upheld,Renegotiation Act Extension,83-746,8/16/54,184,83,Due Process,1.0,0.0,1,1,0.0,0.0,1,2,1
+Turner v. United States,1/20/70,1970,1970,struck down on face,Narcotic Control Act of 1956,84-728,7/18/56,162,84,Due Process,1.0,0.0,1,1,1.0,1.0,1,2,0
+Rowan v. United States Post Office Department,5/4/70,1970,1970,upheld,Postal Revenue and Federal Salary Act of 1967,90-206,12/16/67,29,90,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,0,0
+Welsh v. United States,6/15/70,1970,1970,struck down as applied,Selective Service Act of 1948,80-759,6/24/48,264,80,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,3,1
+Schacht v. United States,5/25/70,1970,1970,struck down on face,Revision of Code relating to Armed Services,84-1028,8/10/56,165,84,Substantive Rights,0.0,0.0,1,1,1.0,1.0,1,0,0
+Oregon v. Mitchell,12/21/70,1970,1970,struck down on face,Voting Rights Act Amendments of 1970,91-285,6/22/70,6,91,Federalism,1.0,1.0,1,0,0.0,1.0,1,8,0
+United States v. Maryland Savings-Share Insurance Corp.,10/19/70,1970,1970,upheld,74 Stat. 54,86-428,4/22/60,114,86,Economic,0.0,0.0,0,0,1.0,0.0,1,0,0
+Blount v. Rizzi,1/14/71,1971,1970,struck down on face,82 Stat. 1153,90-591,10/17/68,27,90,Substantive Rights,0.0,0.0,1,0,0.0,1.0,1,0,0
+"Relford v. Commandant, U.S. Disciplinary Barracks",2/24/71,1971,1970,upheld,Uniform Code of Military Justice,81-506,5/5/50,249,81,Due Process,0.0,0.0,1,1,0.0,0.0,1,0,0
+Gillette v. United States,3/8/71,1971,1970,upheld,Universal Military Training and Service Act Amendments,90-40,6/30/67,45,90,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,1,0
+United States v. Freed,4/5/71,1971,1970,upheld,Gun Control Act of 1968,90-618,10/22/68,30,90,Due Process,1.0,0.0,1,0,1.0,0.0,1,0,0
+United States v. United States Coin & Currency,4/5/71,1971,1970,struck down on face,Renegotiation Act Extension,83-746,8/16/54,176,83,Due Process,1.0,0.0,1,0,1.0,1.0,1,4,1
+Rogers v. Bellei,4/5/71,1971,1970,upheld,Immigration and Nationality Act,82-414,6/27/52,226,82,Substantive Rights,1.0,0.0,1,1,0.0,0.0,1,4,0
+Perez v. United States,4/26/71,1971,1970,upheld,Consumer Credit Protection Act,90-321,5/29/68,35,90,Federalism,1.0,0.0,1,1,0.0,0.0,1,1,0
+United States v. Reidel,5/3/71,1971,1970,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,359,80,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,2,1
+United States v. Thirty-Seven Photographs,5/3/71,1971,1970,upheld,Tariff Act of 1930,71-361,6/17/30,491,71,Substantive Rights,1.0,0.0,1,0,1.0,0.0,1,3,1
+Richardson v. Perales,5/3/71,1971,1970,upheld,Social Security Act,74-271,8/14/35,429,74,Due Process,1.0,0.0,1,0,1.0,0.0,1,3,0
+United States v. Vuitch,4/21/71,1971,1970,upheld,District of Columbia Law Enforcement Act of 1953,83-85,6/29/53,214,83,Due Process,0.0,0.0,1,0,1.0,0.0,1,6,1
+Graham v. Richardson,6/14/71,1971,1970,struck down as applied,Social Security Act Amendments of 1950,81-734,8/8/50,250,81,Equality,1.0,0.0,0,0,0.0,0.0,1,0,0
+Tilton v. Richardson,6/28/71,1971,1970,struck down on face,Higher Education Facilities Act of 1963,88-204,12/16/63,90,88,Substantive Rights,0.0,0.0,1,0,0.0,1.0,1,4,0
+Griffin v. Breckenridge,6/7/71,1971,1970,upheld,17 Stat. 13,,4/20/1871,1202,42,Federalism,1.0,1.0,1,1,1.0,0.0,0,0,1
+Richardson v. Belcher,11/22/71,1971,1970,upheld,Social Security Amendments of 1965,89-97,7/30/65,76,89,Due Process,0.0,0.0,1,0,1.0,0.0,1,3,0
+California Motor Transport Co. v. Trucking Unlimited,1/13/72,1972,1970,upheld,Clayton Anti-Trust Act,63-212,10/15/14,687,63,Substantive Rights,1.0,1.0,0,1,0.0,0.0,0,0,0
+United States v. Biswell,5/15/72,1972,1970,upheld,Gun Control Act of 1968,90-618,10/21/68,43,90,Due Process,1.0,0.0,1,1,1.0,0.0,1,1,0
+Kastigar v. United States,5/22/72,1972,1970,upheld,Organized Crime Control Act of 1970,91-452,10/15/70,19,91,Due Process,1.0,1.0,1,1,0.0,0.0,1,2,0
+Flower v. United States,6/12/72,1972,1970,struck down as applied,Crimes and Criminal Procedure Act,80-772,6/25/48,288,80,Substantive Rights,0.0,0.0,0,1,1.0,0.0,1,3,1
+United States v. Brewster,6/29/72,1972,1970,upheld,84 Stat. 853,91-405,9/22/70,21,91,Substantive Rights,1.0,0.0,1,0,1.0,0.0,1,3,0
+Kleindienst v. Mandel,6/29/72,1972,1970,upheld,Immigration and Nationality Act,82-414,6/27/52,240,82,Substantive Rights,1.0,1.0,1,0,1.0,0.0,1,3,0
+Richardson v. Davis,12/11/72,1972,1970,struck down on face,Social Security Amendments of 1967,90-248,1/2/68,47,90,Equality,0.0,0.0,0,0,0.0,1.0,1,0,0
+United States v. Jim,11/20/72,1972,1970,upheld,82 Stat. 121,90-306,5/17/68,54,90,Economic,0.0,0.0,0,0,1.0,0.0,1,1,0
+Chief of Capitol Police v. Jeannette Rankin Brigade,11/6/72,1972,1970,struck down on face,Capitol Grounds Act,79-570,7/31/46,316,79,Substantive Rights,0.0,0.0,0,0,0.0,1.0,1,0,0
+United States v. Kras,1/10/73,1973,1970,upheld,Bankruptcy Act of 1898 Amendments,79-464,6/28/46,319,79,Due Process,0.0,0.0,1,0,1.0,0.0,1,4,1
+Hurtado v. United States,3/5/73,1973,1970,upheld,Jury Selection and Service Act of 1968,90-274,3/27/68,60,90,Economic,0.0,0.0,1,1,0.0,0.0,1,2,1
+"Mourning v. Family Publications Service, Inc.",4/24/73,1973,1970,upheld,Consumer Credit Protection Act,90-321,5/29/68,59,90,Economic,1.0,1.0,1,1,1.0,0.0,0,3,1
+Palmore v. United States,4/24/73,1973,1970,upheld,District of Columbia Court Reform and Criminal Procedure Act of 1970,91-358,7/29/70,33,91,Due Process,1.0,0.0,1,0,0.0,0.0,1,1,1
+Frontiero v. Richardson,5/14/73,1973,1970,struck down on face,76 Stat. 469,87-649,9/7/62,128,87,Equality,0.0,0.0,1,0,1.0,1.0,1,1,1
+Barnes v. United States,6/18/73,1973,1970,upheld,53 Stat. 1257,76-332,8/7/39,406,76,Due Process,0.0,0.0,1,1,0.0,0.0,1,3,0
+"Columbia Broadcasting System, Inc. v. Democratic National Committee",5/29/73,1973,1970,upheld,Communications Act of 1934,73-416,6/19/34,467,73,Substantive Rights,1.0,0.0,1,1,1.0,0.0,0,2,1
+United States v. 12 200-Foot Reels of Super 8mm Film,6/21/73,1973,1970,upheld,Tariff Act of 1930,71-361,6/17/30,516,71,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,4,0
+United States v. Orito,6/21/73,1973,1970,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,300,80,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,4,0
+Almeida-Sanchez v. United States,6/21/73,1973,1970,struck down as applied,Immigration and Nationality Act,82-414,6/27/52,252,82,Due Process,1.0,0.0,1,0,0.0,0.0,1,4,1
+United States Department of Agriculture v. Murry,6/25/73,1973,1970,struck down on face,Food Stamp Act of 1964 Amendments,91-671,1/11/71,29,91,Due Process,1.0,0.0,1,0,0.0,1.0,1,4,1
+United States Department of Agriculture v. Moreno,6/25/73,1973,1970,struck down on face,Food Stamp Act of 1964 Amendments,91-671,1/11/71,29,91,Due Process,1.0,0.0,1,0,0.0,1.0,1,2,1
+United States Civil Service Commission v. National Association of Letter Carriers,6/25/73,1973,1970,upheld,80 Stat. 378,89-554,9/6/66,93,89,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,3,1
+Marshall v. United States,1/9/74,1974,1970,upheld,Public Health Service Act Amendment,90-574,10/15/68,63,90,Due Process,0.0,0.0,1,1,0.0,0.0,1,3,1
+Curtis v. Loether,2/20/74,1974,1970,struck down as applied,Fair Housing Act,90-284,4/11/68,70,90,Due Process,1.0,0.0,1,1,0.0,0.0,0,0,1
+National Cable Television Association v. United States,3/4/74,1974,1970,struck down on face,Independent Offices Appropriation Act of 1952,82-137,8/31/51,271,82,Economic,0.0,0.0,1,0,1.0,0.0,1,2,1
+Johnson v. Robison,3/4/74,1974,1970,upheld,Veterans Hospitalization and Medical Services Modernization Amendments of 1966,89-785,11/7/66,88,89,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,1,1
+Arnett v. Kennedy,4/16/74,1974,1970,upheld,37 Stat. 555,62-336,8/24/12,740,62,Due Process,0.0,0.0,1,0,1.0,0.0,1,4,1
+California Bankers Association v. Schultz,4/1/74,1974,1970,upheld,Federal Deposit Insurance Act Amendments,91-508,10/26/70,42,91,Due Process,0.0,0.0,1,0,1.0,0.0,1,3,1
+Pernell v. Southall Realty,4/24/74,1974,1970,struck down as applied,District of Columbia Court Reform and Criminal Procedure Act of 1970,91-358,7/29/70,45,91,Due Process,1.0,0.0,0,1,1.0,0.0,0,0,1
+Morton v. Mancari,6/17/74,1974,1970,upheld,48 Stat. 984,73-383,6/18/34,480,73,Equality,0.0,0.0,1,0,1.0,0.0,1,0,1
+Jimenez v. Weinberger,6/19/74,1974,1970,struck down on face,Social Security Amendments of 1965,89-97,7/30/65,107,89,Equality,0.0,0.0,1,0,0.0,1.0,1,1,1
+Parker v. Levy,6/19/74,1974,1970,upheld,Uniform Code of Military Justice,81-506,5/5/50,289,81,Due Process,0.0,0.0,1,0,1.0,0.0,1,3,1
+Hamling v. United States,6/24/74,1974,1970,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,312,80,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,0
+Regional Rail Reorganization Act Cases,12/16/74,1974,1970,struck down on face,Regional Rail Reorganization Act of 1973,93-236,1/2/74,11,93,Economic,1.0,0.0,1,0,1.0,0.0,1,2,1
+Schlesinger v. Ballard,1/15/75,1975,1970,upheld,Revision of Code relating to Armed Services,84-1028,8/10/56,221,84,Equality,0.0,0.0,1,0,1.0,0.0,1,4,1
+United States v. Mazurie,1/21/75,1975,1970,upheld,67 Stat. 586,83-277,8/15/53,257,83,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Wilson,2/25/75,1975,1970,upheld,Omnibus Crime Control Act of 1970,91-644,1/2/71,49,91,Due Process,0.0,0.0,1,1,1.0,0.0,1,2,1
+Serfass v. United States,3/3/75,1975,1970,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,321,80,Due Process,0.0,0.0,1,1,0.0,0.0,1,1,0
+United States v. Maine,3/17/75,1975,1970,upheld,First Independent Offices Appropration Act of 1954,83-176,5/22/53,262,83,Federalism,1.0,1.0,1,0,0.0,0.0,1,0,0
+Weinberger v. Wiesenfeld,3/19/75,1975,1970,struck down on face,Social Security Act Amendments,76-379,8/10/39,427,76,Equality,1.0,0.0,1,0,0.0,1.0,1,0,1
+Fry v. United States,5/27/75,1975,1970,upheld,Defense Production Act of 1950 Amendment,91-379,8/15/70,57,91,Federalism,0.0,0.0,1,1,0.0,0.0,1,1,1
+Muniz v. Hoffman,6/25/75,1975,1970,upheld,Taft-Hartley Act,80-101,6/23/47,336,80,Due Process,1.0,0.0,1,1,0.0,0.0,1,4,0
+Weinberger v. Salfi,6/26/75,1975,1970,upheld,Social Security Act Amendments of 1950,81-734,8/28/50,298,81,Due Process,1.0,0.0,1,0,1.0,0.0,1,3,1
+United States v. Brignoni-Ponce,6/30/75,1975,1970,struck down as applied,Immigration and Nationality Act,82-414,6/27/52,276,82,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,1
+United States v. Ortiz,6/30/75,1975,1970,struck down as applied,Immigration and Nationality Act,82-414,6/27/52,276,82,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,1
+United States v. Powell,12/2/75,1975,1970,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,330,80,Due Process,0.0,0.0,1,1,1.0,0.0,1,1,0
+United States v. Watson,1/26/76,1976,1970,upheld,82 Stat. 998,90-561,10/12/68,87,90,Due Process,0.0,0.0,1,1,1.0,0.0,1,2,1
+Buckley v. Valeo,1/30/76,1976,1970,struck down on face,Federal Election Campaign Act of 1971,92-225,2/7/72,47,92,Substantive Rights,1.0,1.0,1,0,1.0,1.0,0,5,1
+Mathews v. Eldridge,2/24/76,1976,1970,upheld,70 Stat. 815,85-880,8/1/56,234,85,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,1
+Middendorf v. Henry,3/24/76,1976,1970,upheld,Uniform Code of Military Justice,81-506,5/5/50,310,81,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,1
+United States v. Miller,4/21/76,1976,1970,upheld,Federal Deposit Insurance Act Amendments,91-508,10/26/70,66,91,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,1
+United States v. MacCollom,6/10/76,1976,1970,upheld,Judiciary and Judicial Procedure Act,80-773,6/25/48,336,80,Due Process,0.0,0.0,1,1,1.0,0.0,1,4,0
+Kleppe v. New Mexico,6/17/76,1976,1970,upheld,85 Stat. 649,92-195,12/15/71,54,92,Federalism,0.0,0.0,1,1,1.0,0.0,1,0,1
+"Federal Energy Administration v. Algonquin SNG, Inc.",6/17/76,1976,1970,upheld,Trade Act of 1974,93-618,1/3/75,17,93,Separation of Powers,1.0,1.0,1,0,1.0,0.0,1,0,1
+Mathews v. Diaz,6/1/76,1976,1970,upheld,Social Security Amendments of 1965,89-97,7/30/65,131,89,Substantive Rights,1.0,0.0,1,0,1.0,0.0,1,0,1
+National League of Cities v. Usery,6/24/76,1976,1970,struck down on face,Fair Labor Standards Amendments of 1974,93-259,4/8/74,26,93,Federalism,0.0,0.0,1,0,1.0,1.0,1,4,1
+Runyon v. McCrary,6/25/76,1976,1970,upheld,14 Stat. 27,,4/9/1866,1322,39,Substantive Rights,1.0,1.0,1,1,0.0,0.0,0,2,0
+Fitzpatrick v. Bitzer,6/28/76,1976,1970,upheld,Equal Employment Opportunity Act of 1972,92-261,3/24/72,51,92,Federalism,0.0,0.0,1,1,1.0,0.0,0,0,1
+Mathews v. Lucas,6/29/76,1976,1970,upheld,Social Security Act,74-271,8/14/35,490,74,Equality,1.0,0.0,1,0,1.0,0.0,1,3,1
+Usery v. Turner Elkhorn Mining Co.,7/1/76,1976,1970,upheld,Black Lung Benefit Act of 1972,92-303,5/19/72,50,92,Due Process,0.0,0.0,1,0,1.0,0.0,1,2,1
+United States v. Martinez-Fuerte,7/6/76,1976,1970,upheld,Immigration and Nationality Act,82-414,6/27/52,289,82,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,1
+Mathews v. De Castro,12/13/76,1976,1970,upheld,Social Security Act,74-271,8/14/35,496,74,Equality,1.0,0.0,1,0,1.0,0.0,1,0,1
+"International Union of Electrical, Radio & Machine Workers v. Robbins & Myers, Inc.",12/20/76,1976,1970,upheld,Equal Employment Opportunity Act of 1972,92-261,3/24/72,57,92,Due Process,0.0,0.0,1,1,1.0,0.0,0,0,1
+Moody v. Daggett,11/15/76,1976,1970,upheld,Parole Commission and Reorganization Act,94-233,3/15/76,8,94,Due Process,0.0,0.0,1,1,0.0,0.0,1,2,1
+Knebel v. Hein,1/11/77,1977,1970,upheld,The Food Stamp Act of 1964,88-525,8/31/64,149,88,Due Process,1.0,1.0,1,0,1.0,0.0,1,0,1
+G.M. Leasing Corp. v. United States,1/12/77,1977,1970,struck down as applied,Renegotiation Act Extension,83-746,8/16/54,269,83,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,0
+"United Jewish Organizations, Inc. v. Carey",3/1/77,1977,1970,upheld,Voting Rights Act of 1965,89-110,8/6/65,139,89,Equality,1.0,1.0,1,1,0.0,0.0,0,1,1
+Califano v. Goldfarb,3/2/77,1977,1970,struck down on face,Social Security Act Amendments of 1950,81-734,8/28/50,319,81,Equality,1.0,0.0,1,0,0.0,1.0,1,4,1
+Califano v. Webster,3/21/77,1977,1970,upheld,Social Security Act Amendments of 1950,81-734,8/28/50,139,81,Equality,1.0,0.0,0,0,1.0,0.0,1,0,1
+Swain v. Pressley,3/22/77,1977,1970,upheld,District of Columbia Court Reform and Criminal Procedure Act of 1970,91-358,7/29/50,320,91,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,1
+Atlas Roofing Co. v. Occupational Safety & Health Review Commission,3/23/77,1977,1970,upheld,Occupational Safety and Health Act of 1970,91-596,12/29/70,75,91,Due Process,1.0,1.0,1,1,0.0,0.0,1,0,1
+Alexander v. Fioto,4/4/77,1977,1970,upheld,Army and Air Force Vitalization and Retirement Equalization Act of 1948,80-810,6/29/48,346,80,Equality,0.0,0.0,1,0,1.0,0.0,1,0,0
+United States v. Antelope,4/19/77,1977,1970,upheld,Major Crime Act,,3/3/1885,1105,48,Equality,0.0,0.0,1,1,1.0,0.0,1,0,1
+Delaware Tribal Business Committee v. Weeks,2/23/77,1977,1970,upheld,86 Stat. 762,92-456,10/3/72,52,92,Economic,0.0,0.0,1,0,1.0,0.0,1,1,1
+Fiallo v. Bell,4/26/77,1977,1970,upheld,Immigration and Nationality Act,82-414,6/27/52,298,82,Equality,1.0,0.0,1,0,0.0,0.0,1,3,1
+Califano v. Silbowitz,3/21/77,1977,1970,struck down on face,Social Security Act Amendments of 1950,81-734,8/28/50,319,81,Equality,1.0,0.0,0,1,0.0,1.0,1,0,1
+Guam v. Olsen,5/23/77,1977,1970,struck down as applied,Organic Act of Guam,81-630,8/2/50,321,81,Due Process,1.0,0.0,0,1,0.0,0.0,1,4,1
+Smith v. United States,5/23/77,1977,1970,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,347,80,Federalism,0.0,0.0,1,1,0.0,0.0,1,4,0
+United States v. Ramsey,6/6/77,1977,1970,upheld,14 Stat. 178,,7/18/1866,1331,39,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,0
+Railroad Retirement Board v. Kalina,5/16/77,1977,1970,struck down on face,Railroad Retirement Act of 1937 Amendment,93-445,10/16/74,31,93,Equality,0.0,0.0,0,0,0.0,1.0,1,0,1
+Briscoe v. Bell,6/20/77,1977,1970,upheld,Voting Rights Act of 1965,89-110,8/6/65,142,89,Federalism,1.0,0.0,1,1,0.0,0.0,1,0,1
+Nixon v. Administrator of General Services,6/28/77,1977,1970,upheld,Presidential Recordings and Materials Preservation Act,93-526,12/19/74,30,93,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,2,1
+Califano v. Jobst,11/8/77,1977,1970,upheld,Social Security Act Amendments of 1958,85-840,8/28/58,231,85,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,1
+Califano v. Torres,2/27/78,1978,1970,upheld,Social Security Amendments of 1972,92-603,10/30/72,64,92,Substantive Rights,0.0,0.0,0,0,1.0,0.0,1,0,1
+Cleland v. National College of Business,3/20/78,1978,1970,upheld,Veterans' Education and Employment Assistance Act of 1976,94-502,10/15/76,17,94,Economic,0.0,0.0,0,0,1.0,0.0,1,0,1
+Massachusetts v. United States,3/29/78,1978,1970,upheld,84 Stat. 236,91-258,5/21/70,94,91,Federalism,1.0,1.0,1,1,0.0,0.0,1,2,1
+Marshall v. Barlow's,5/23/78,1978,1970,struck down on face,Occupational Safety and Health Act of 1970,91-596,12/29/70,89,91,Due Process,1.0,1.0,1,0,0.0,1.0,1,3,1
+Federal Communications Commission v. National Citizens Committee for Broadcasting,6/12/78,1978,1970,upheld,Communications Act of 1934,73-416,6/19/34,528,73,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,0,1
+Duke Power Co. v. Carolina Environmental Study Group,6/26/78,1978,1970,upheld,71 Stat. 576,85-256,9/2/57,249,85,Due Process,0.0,0.0,1,0,1.0,0.0,0,0,1
+Federal Communications Commission v. Pacifica Foundation,7/3/78,1978,1970,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,361,80,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,4,0
+Califano v. Aznavorian,12/11/78,1978,1970,upheld,Social Security Amendments of 1972,92-603,10/30/72,74,92,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,0,1
+National Labor Relations Board v. Catholic Bishops of Chicago,3/21/79,1979,1970,struck down as applied,National Labor Relations Act Amendments,93-360,7/26/74,56,93,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,1
+Vance v. Bradley,2/22/79,1979,1970,upheld,Foreign Service Act of 1946,79-724,8/13/46,450,79,Equality,0.0,0.0,1,0,1.0,0.0,1,1,1
+Arizona Public Service Co. v. Snead,4/18/79,1979,1970,upheld,Tax Reform Act of 1976,94-455,10/4/76,30,94,Federalism,1.0,0.0,1,1,0.0,0.0,0,0,1
+Dalia v. United States,4/18/79,1979,1970,upheld,82 Stat. 179,90-340,6/19/68,130,90,Due Process,1.0,1.0,0,0,1.0,0.0,1,4,1
+United States v. Batchelder,6/4/79,1979,1970,upheld,Omnibus Crime Control and Safe Streets Act of 1968,90-351,6/19/68,132,90,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,1
+Califano v. Boles,6/27/79,1979,1970,upheld,Social Security Act,74-271,8/14/35,526,74,Substantive Rights,1.0,0.0,1,0,1.0,0.0,1,4,1
+Califano v. Westcott,6/25/79,1979,1970,struck down on face,Social Security Amendments of 1967,90-248,1/2/68,137,90,Substantive Rights,0.0,0.0,1,0,0.0,1.0,1,4,1
+Kaiser Aetna v. United States,12/4/79,1979,1970,struck down as applied,River and Harbors Act,,3/3/1899,969,55,Economic,0.0,0.0,1,1,1.0,0.0,1,3,0
+Andrus v. Allard,11/27/79,1979,1970,upheld,54 Stat. 250,76-567,6/8/40,473,76,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+Vance v. Terrazas,1/15/80,1980,1980,upheld,Immigration and Nationality Act,82-414,6/27/52,330,82,Due Process,1.0,0.0,1,0,1.0,0.0,1,4,1
+United States v. Clark,2/26/80,1980,1980,struck down as applied,Federal Salary and Fringe Benefits Act of 1966,89-504,7/18/66,151,89,Equality,0.0,0.0,1,0,0.0,0.0,1,2,1
+Lewis v. United States,2/27/80,1980,1980,upheld,Omnibus Crime Control and Safe Streets Act of 1968,90-351,6/19/68,140,90,Due Process,1.0,0.0,1,1,0.0,0.0,1,3,1
+"California Retail Liquor Dealers Association v. Midcal Aluminum, Inc.",3/3/80,1980,1980,upheld,Consumer Goods Pricing Act of 1975,94-145,12/12/75,51,94,Federalism,0.0,0.0,1,1,0.0,0.0,0,0,1
+City of Rome v. United States,6/9/80,1980,1980,upheld,Voting Rights Act of 1965,89-110,8/6/65,178,89,Federalism,1.0,1.0,1,0,0.0,0.0,1,3,1
+"Marshall v. Jerrico, Inc.",4/28/80,1980,1980,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,502,75,Due Process,1.0,0.0,1,0,1.0,0.0,1,0,1
+Harris v. Rosario,5/27/80,1980,1980,upheld,Social Security Act,74-271,8/14/35,537,74,Economic,1.0,0.0,0,0,1.0,0.0,1,1,1
+"National Labor Relations Board v. Retail Store Employees Union, Local 1001",6/20/80,1980,1980,upheld,73 Stat. 542,86-257,9/14/59,249,86,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,3,1
+United States v. Raddatz,6/23/80,1980,1980,upheld,90 Stat. 862,94-351,7/12/76,47,94,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,4,1
+O'Bannon v Town Court Nursing Center,6/23/80,1980,1980,upheld,Social Security Act,74-271,8/14/35,538,74,Due Process,1.0,0.0,1,1,1.0,0.0,0,1,1
+Maher v. Gagne,6/25/80,1980,1980,upheld,Civil Rights Attorney's Fees Awards Act of 1976,94-559,10/19/76,44,94,Federalism,0.0,0.0,0,1,0.0,0.0,0,0,1
+United States v. Ward,6/27/80,1980,1980,upheld,Water Pollution Control Act,80-845,6/30/48,384,80,Due Process,0.0,0.0,1,1,1.0,0.0,1,1,0
+Harris v. McRae,6/30/80,1980,1980,upheld,"Departments of Labor and Health, Education, and Welfare Appropriate Act of 1977",94-439,9/30/76,45,94,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,1
+United States v. Sioux Nation of Indians,6/30/80,1980,1980,upheld,Indian Claims Commission Act Amendment,95-243,3/13/78,27,95,Separation of Powers,0.0,0.0,1,0,1.0,0.0,1,1,1
+Fullilove v. Klutznick,7/2/80,1980,1980,upheld,Public Works Employment Act of 1977,95-28,5/13/77,38,95,Equality,0.0,0.0,1,1,0.0,0.0,1,3,1
+"Industrial Union Department, AFL-CIO v. American Petroleum Institute",7/2/80,1980,1980,struck down as applied,Occupational Safety and Health Act of 1970,91-596,12/29/70,115,91,Separation of Powers,1.0,1.0,1,1,0.0,0.0,0,4,1
+United States v. Difrancesco,12/9/80,1980,1980,upheld,Organized Crime Control Act of 1970,91-452,10/15/70,122,91,Due Process,1.0,0.0,1,0,1.0,0.0,1,4,1
+United States Railroad Retirement Board v. Fritz,12/9/80,1980,1980,upheld,Railroad Retirement Act of 1937,93-445,10/16/74,74,93,Economic,0.0,0.0,1,1,1.0,0.0,1,2,1
+United States v. Will,12/15/80,1980,1980,struck down on face,"Treasury, Postal Service, and General Government Appropriations Act of 1980",96-74,10/12/79,14,96,Separation of Powers,0.0,0.0,1,0,1.0,1.0,1,0,1
+United States v. Darusmont,1/12/81,1981,1980,upheld,Tax Reform Act of 1976,94-455,10/4/76,51,94,Due Process,1.0,1.0,0,0,1.0,0.0,1,0,1
+Schweiker v. Wilson,3/4/81,1981,1980,upheld,Social Security Amendments of 1972,92-603,10/30/72,101,92,Equality,0.0,0.0,1,0,1.0,0.0,1,4,1
+Albernaz v. United States,3/9/81,1981,1980,upheld,Comprehensive Drug Abuse Prevention and Control Act of 1970,91-513,10/27/70,125,91,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,1
+Hodel v. Virginia Surface Mining and Reclamation Association,6/15/81,1981,1980,upheld,Surface Mining Control and Reclamation Act of 1977,95-87,8/3/77,46,95,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,1
+Hodel v. Indiana,6/15/81,1981,1980,upheld,Surface Mining Control and Reclamation Act of 1977,95-87,8/3/77,46,95,Federalism,1.0,1.0,1,0,1.0,0.0,1,0,1
+Donovan v. Dewey,6/17/81,1981,1980,upheld,Federal Mine Safety and Health Amendments Act of 1977,95-164,11/9/77,43,95,Due Process,0.0,0.0,1,0,1.0,0.0,1,1,1
+United States Postal Service v. Council of Greenburgh Civic Associations,6/25/81,1981,1980,upheld,Crimes and Criminal Procedure Act,80-772,6/25/48,396,80,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,2,0
+California Medical Association v. Federal Election Commission,6/26/81,1981,1980,upheld,Federal Election Campaign Act of 1971,92-225,2/7/72,112,92,Substantive Rights,1.0,0.0,0,0,0.0,0.0,1,4,1
+Haig v. Agee,6/29/81,1981,1980,upheld,Walsh Act,69-493,7/3/26,659,69,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,2,0
+CBS v. Federal Communications Commission,7/1/81,1981,1980,upheld,Federal Election Campaign Act of 1971,92-225,2/7/72,101,92,Substantive Rights,1.0,0.0,1,1,0.0,0.0,1,3,1
+Rostker v. Goldberg,6/25/81,1981,1980,upheld,Selective Services Act of 1948,80-759,6/24/48,396,80,Equality,0.0,0.0,1,0,1.0,0.0,1,3,0
+Dames & Moore v. Regan,7/2/81,1981,1980,upheld,International Emergency Economic Powers Act,95-223,12/28/77,43,95,Economic,0.0,0.0,1,1,0.0,0.0,1,1,1
+United States v. Lee,2/23/82,1982,1980,upheld,Social Security Act Amendments of 1939,76-379,8/10/39,510,76,Substantive Rights,1.0,0.0,1,0,1.0,0.0,1,0,1
+Railway Labor Executives' Association v. Gibbons,3/2/82,1982,1980,struck down on face,Staggers Rail Act of 1980,96-448,10/14/80,17,96,Economic,1.0,0.0,1,0,0.0,1.0,0,0,1
+United Transportatoin Union v. Long Island Railroad,3/24/82,1982,1980,upheld,Railway Labor Act,69-257,5/20/26,682,69,Federalism,1.0,1.0,1,1,1.0,0.0,0,0,0
+Schweiker v. McClure,3/1/82,1982,1980,upheld,Social Security Amendments of 1965,89-97,7/30/65,200,89,Due Process,1.0,0.0,1,0,1.0,0.0,1,0,1
+International Longshoremen's Association v. Allied International,4/20/82,1982,1980,upheld,Taft-Hartley Act,80-101,6/23/47,430,80,Substantive Rights,1.0,1.0,1,1,0.0,0.0,0,0,0
+Federal Energy Regulatory Commission v. Mississippi,6/1/82,1982,1980,upheld,Public Utility Regulatory Policies Act of 1978,95-617,11/9/78,43,95,Federalism,0.0,0.0,1,0,1.0,0.0,1,4,1
+Schweiker v. Hogan,6/21/82,1982,1980,upheld,Social Security Amendments of 1967,90-248,1/2/68,161,90,Equality,0.0,0.0,1,0,1.0,0.0,1,0,1
+Northern Pipeline Construction Co. v. Marathon Pipe Line Co.,6/28/82,1982,1980,struck down on face,Bankruptcy Reform Act of 1978,95-598,11/6/78,43,95,Separation of Powers,1.0,1.0,1,0,0.0,1.0,0,3,1
+Federal Election Commission v. National Right to Work Committee,12/13/82,1982,1980,upheld,Federal Election Campaign Act Amendments of 1976,94-283,5/11/76,67,94,Substantive Rights,0.0,0.0,0,1,1.0,0.0,1,0,1
+United States v. Security Industrial Bank,11/30/82,1982,1980,struck down as applied,Bankruptcy Reform Act of 1978,95-598,11/6/78,48,95,Economic,1.0,0.0,1,0,0.0,0.0,1,0,1
+Equal Employment Opportunity Commission v. Wyoming,3/2/83,1983,1980,upheld,Age Discrimination in Employment Act of 1967,90-202,12/15/67,195,90,Federalism,0.0,0.0,1,0,1.0,0.0,1,4,1
+United States v. Grace,4/20/83,1983,1980,struck down as applied,63 Stat. 617,81-250,8/18/49,404,81,Substantive Rights,0.0,0.0,1,0,0.0,1.0,1,2,1
+Block v. North Dakota,5/2/83,1983,1980,upheld,86 Stat. 1176,92-562,10/25/72,127,92,Federalism,0.0,0.0,1,1,1.0,0.0,1,1,1
+Verlinden B.V. v. Central Bank of Nigeria,5/23/83,1983,1980,upheld,Foreign Sovereign Immunities Act of 1976,94-583,10/21/76,79,94,Separation of Powers,0.0,0.0,1,1,1.0,0.0,0,0,1
+Regan v. Taxation without Representation,5/23/83,1983,1980,upheld,Renegotiation Act Extension,83-746,8/16/54,345,83,Substantive Rights,1.0,1.0,1,0,1.0,0.0,1,0,0
+Bob Jones University v. United States,5/24/83,1983,1980,upheld,Renegotiation Act Extension,83-746,8/16/54,345,83,Substantive Rights,1.0,1.0,1,1,0.0,0.0,1,1,0
+United States v. Rodgers,5/31/83,1983,1980,upheld,68A Stat. 874,83-746,8/16/54,345,92,Economic,1.0,0.0,1,1,1.0,0.0,1,4,1
+"Bill Johnson's Restaurants, Inc. v. National Labor Relations Board",5/31/83,1983,1980,struck down as applied,Taft-Hartley Act,80-101,6/23/47,431,80,Substantive Rights,1.0,0.0,1,1,0.0,0.0,1,0,0
+United States v. Villamonte-Marquez,6/17/83,1983,1980,upheld,Tariff Act of 1930,71-361,6/17/30,636,71,Due Process,1.0,0.0,1,1,1.0,0.0,1,3,0
+United States v. Ptasynski,6/6/83,1983,1980,upheld,Crude Oil Windfall Profit Tax Act of 1980,96-223,4/2/80,38,96,Economic,1.0,0.0,1,0,1.0,0.0,1,0,1
+Immigration and Nationalization Service v. Chadha,6/23/83,1983,1980,struck down on face,Immigration and Nationality Act,82-414,6/27/52,372,82,Separation of Powers,1.0,0.0,1,0,0.0,1.0,1,2,1
+Process Gas Consumers Group v. Consumer Energy Council,7/6/83,1983,1980,struck down on face,Natural Gas Policy Act of 1978,95-621,11/9/78,56,95,Separation of Powers,1.0,0.0,0,1,0.0,1.0,1,1,1
+U.S. Senate v. Federal Trade Commission,7/6/83,1983,1980,struck down on face,Federal Trade Commission Improvements Act of 1980,96-252,5/28/80,38,96,Separation of Powers,0.0,0.0,0,1,0.0,1.0,1,0,1
+Bolger v. Youngs Drug Products Corp.,6/24/83,1983,1980,struck down as applied,84 Stat. 1974,92-662,1/8/71,137,92,Substantive Rights,0.0,0.0,1,0,0.0,1.0,1,0,1
+Heckler v. Mathews,3/5/84,1984,1980,upheld,Social Security Amendments of 1977,95-216,12/20/77,75,95,Equality,0.0,0.0,1,0,1.0,0.0,1,0,1
+"Ellis v. Brotherhood of Airline and Steamship Clerks, Freight Handlers, Express and Station Employees",4/25/84,1984,1980,upheld,Railway Labor Act Amendment,81-914,1/10/51,399,81,Substantive Rights,0.0,0.0,0,1,1.0,0.0,0,1,1
+Hishon v. King & Spaulding,5/22/84,1984,1980,upheld,Civil Rights Act of 1964,88-352,7/2/64,238,88,Substantive Rights,1.0,1.0,1,1,1.0,0.0,0,0,1
+Pension Benefit Guaranty Corp. v. R.A. Gray & Co.,6/18/84,1984,1980,upheld,Multiemployer Pension Plan Amendments of 1980,96-364,9/26/80,45,96,Due Process,1.0,1.0,0,0,1.0,0.0,1,0,1
+"Securities and Exchange Commission v. Jerry T. O'Brien, Inc.",6/18/84,1984,1980,upheld,Securities Exchange Act of 1934,73-291,6/6/34,600,73,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,1
+"Sure-Tan, Inc. v. National Labor Relations Board",6/25/84,1984,1980,upheld,Taft-Hartley Act,80-101,6/23/47,444,80,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,6,0
+Ruckelshaus v. Monsanto Co.,6/26/84,1984,1980,upheld,Federal Pesticide Act of 1978,95-396,9/30/78,69,95,Economic,0.0,0.0,1,1,0.0,0.0,1,1,1
+Regan v. Wald,6/28/84,1984,1980,upheld,International Emergency Economic Powers Act,95-223,12/28/77,78,95,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,4,1
+Federal Communications Commission v. League of Women Voters,7/2/84,1984,1980,struck down on face,Omnibus Budget Reconciliation Act of 1981,97-35,8/13/81,35,97,Substantive Rights,1.0,0.0,1,0,0.0,1.0,1,4,1
+"Regan v. Time, Inc.",7/3/84,1984,1980,struck down on face,72 Stat. 1771,85-921,9/2/58,322,85,Substantive Rights,0.0,0.0,1,0,1.0,1.0,1,5,1
+Selective Service System v. Minnesota Public Interest Research Group,7/5/84,1984,1980,upheld,Department of Defense Authorization Act of 1983,97-252,9/8/82,22,97,Due Process,0.0,0.0,1,0,1.0,0.0,1,2,1
+Garcia v. San Antonio Metropolitan Transit Authority,2/19/85,1985,1980,upheld,Fair Labor Standards Amendments of 1974,93-259,4/8/74,130,93,Federalism,0.0,0.0,1,0,1.0,0.0,0,4,1
+"National Railroad Passenger Corp. v. Atchison, Topeka & Santa Fe Railway Co.",3/18/85,1985,1980,upheld,Amtrak Reorganization Act of 1979,93-73,9/29/79,66,93,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+Federal Election Commission v. National Conservative Political Action Committee,3/18/85,1985,1980,struck down on face,Revenue Act of 1971,92-178,12/10/71,159,92,Substantive Rights,1.0,0.0,0,0,1.0,1.0,1,4,1
+Tony & Susan Alamo Foundation v. Secretary of Labor,4/23/85,1985,1980,upheld,Fair Labor Standards Act of 1938,75-718,6/25/38,514,75,Substantive Rights,1.0,1.0,1,1,0.0,0.0,1,0,1
+"Harper & Rowe, Publishers, Inc. v. Nation Enterprises",5/20/85,1985,1980,upheld,Design Protection Act,94-553,10/19/76,103,94,Substantive Rights,1.0,1.0,0,1,1.0,0.0,0,3,1
+United States v. Locke,4/1/85,1985,1980,upheld,Federal Land Policy and Management Act,94-573,10/21/76,90,94,Due Process,1.0,0.0,1,0,1.0,0.0,1,3,1
+Lowe v. Securities and Exchange Commission,6/10/85,1985,1980,struck down as applied,Investment Company Act of 1940,76-768,8/22/40,538,76,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,0,1
+United States v. Abertini,6/24/85,1985,1980,upheld,Penal Law Codification of 1909,60-350,3/4/09,915,60,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,3,0
+Walters v. National Association of Radiation Survivors,6/28/85,1985,1980,upheld,13 Stat. 389,,7/4/1864,1463,38,Economic,0.0,0.0,1,0,1.0,0.0,1,3,0
+Aguilar v. Felton,7/1/85,1985,1980,struck down as applied,Elementary and Secondary Education Act of 1965,89-10,4/11/65,243,89,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,4,1
+Thomas v. Union Carbide Agricultural Products Co.,7/1/85,1985,1980,upheld,Federal Pesticide Act of 1978,95-396,9/30/78,82,95,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,1
+Connolly v. Pension Benefits Guaranty Corp.,2/26/86,1986,1980,upheld,Multiemployer Pension Plan Amendments of 1980,96-364,9/26/80,65,96,Economic,0.0,0.0,0,0,0.0,0.0,1,0,1
+Dow Chemical Co. v. United States,5/19/86,1986,1980,upheld,Clean Air Amendments of 1970,91-604,12/31/70,185,91,Due Process,1.0,1.0,1,1,0.0,0.0,1,4,1
+Bowens v. Owens,5/19/86,1986,1980,upheld,Housing and Community Development Act of 1977,95-128,12/20/77,101,95,Equality,0.0,0.0,1,0,1.0,0.0,1,3,1
+United States v. Hemme,6/3/86,1986,1980,upheld,Tax Reform Act of 1976,94-455,10/4/76,116,94,Due Process,1.0,1.0,1,0,1.0,0.0,1,0,1
+Bowen v. Roy,6/11/86,1986,1980,upheld,Deficit Reduction Act of 1984,98-369,7/18/84,23,98,Substantive Rights,0.0,0.0,1,0,0.0,0.0,1,4,1
+Bowen v. Public Agencies Opposed to Social Security Entrapment,6/19/86,1986,1980,upheld,Social Security Amendments Act,98-21,4/20/83,38,98,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+Lyng v. Castillo,6/27/86,1986,1980,upheld,Omnibus Budget Reconciliation Act of 1982,97-253,9/8/82,45,97,Equality,0.0,0.0,1,0,1.0,0.0,1,3,1
+Local 28 of Sheet Metal Workers' International Association v. Equal Employment Opportunity Commission,7/2/86,1986,1980,upheld,Civil Rights Act of 1964,88-352,7/2/64,264,88,Equality,1.0,1.0,1,1,0.0,0.0,1,4,1
+Bowsher v. Synar,7/7/86,1986,1980,struck down on face,Balanced Budget and Emergency Deficit Control Reaffirmation Act,99-177,12/12/85,7,99,Separation of Powers,1.0,0.0,0,0,0.0,1.0,1,2,1
+Commodity Futures Trading Commission v. Schor,7/7/86,1986,1980,upheld,Commodity Futures Trading Communication Act of 1974,93-463,10/23/74,141,93,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,2,1
+"Federal Election Commission v. Massachusetts Citizens for Life, Inc.",12/15/86,1986,1980,struck down as applied,Federal Election Campaign Act Amendments of 1976,94-283,5/11/76,127,94,Substantive Rights,0.0,0.0,0,0,0.0,1.0,1,4,1
+Federal Communications Commission v. Florida Power Corp.,2/25/87,1987,1980,upheld,Communications Act Amendments of 1978,95-234,2/21/78,108,95,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+United States v. Cherokee Nation of Oklahoma,3/31/87,1987,1980,upheld,60 Stat. 635,79-525,7/24/46,488,79,Economic,0.0,0.0,1,1,1.0,0.0,1,0,1
+"Brock v. Roadway Express, Inc.",4/22/87,1987,1980,struck down as applied,Surface Transportation Assistance Act of 1982,97-424,1/6/83,15,97,Due Process,1.0,0.0,1,0,1.0,0.0,1,5,1
+Tull v. United States,4/28/87,1987,1980,struck down as applied,Federal Water Pollution Control Act Amendments of 1972,92-500,10/18/72,174,92,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,1
+Meese v. Keene,4/28/87,1987,1980,upheld,52 Stat. 631,75-583,6/8/38,586,75,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,3,1
+Hodel v. Irving,5/18/87,1987,1980,struck down on face,96 Stat. 2519,97-459,1/12/83,52,97,Economic,0.0,0.0,1,0,0.0,1.0,1,0,1
+United States v. Salerno,5/26/87,1987,1980,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,31,98,Due Process,1.0,0.0,1,1,1.0,0.0,1,3,1
+Tanner v. United States,6/22/87,1987,1980,upheld,Federal Rule of Evidence,94-149,12/12/75,139,94,Due Process,0.0,0.0,1,1,0.0,0.0,1,4,1
+South Dakota v. Dole,6/23/87,1987,1980,upheld,National Minimum Drinking Age Act,98-363,7/17/84,35,98,Federalism,1.0,1.0,1,1,0.0,0.0,0,2,1
+Puerto Rico v. Branstad,6/23/87,1987,1980,upheld,Fugitive Slave Act of 1793,2-7,2/12/1793,2332,2,Federalism,1.0,0.0,0,1,1.0,0.0,0,0,1
+Corporation of Presiding Bishop of the Church of Jesus Christ of Latter-Day Saints v. Amos,6/24/87,1987,1980,upheld,Civil Rights Act of 1964,88-352,7/2/64,275,88,Substantive Rights,1.0,0.0,1,0,1.0,0.0,1,0,1
+Solorio v. United States,6/25/87,1987,1980,upheld,Uniform Code of Military Justice Act,81-506,5/5/50,445,81,Due Process,0.0,0.0,1,1,0.0,0.0,1,3,1
+San Francisco Arts & Athletics v. United States Olympic Committee,6/25/87,1987,1980,upheld,Amateur Sports Act of 1978,95-606,11/8/78,103,95,Substantive Rights,0.0,0.0,0,1,0.0,0.0,0,4,1
+Bowen v. Gilliard,6/25/87,1987,1980,upheld,Deficit Reduction Act of 1984,98-369,7/18/84,35,98,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,3,1
+Boos v. Barry,3/22/88,1988,1980,struck down on face,Pittman Embassy Picketing Act,75-79,2/15/38,589,75,Substantive Rights,0.0,0.0,1,1,1.0,1.0,0,3,1
+Lyng v. International Union,3/23/88,1988,1980,upheld,Omnibus Budget Reconciliation Act of 1981,97-35,8/13/81,67,97,Substantive Rights,1.0,1.0,1,0,1.0,0.0,1,3,1
+Lyng v. Northwest Indian Cemetery Protective Association,4/19/88,1988,1980,upheld,California Wilderness Act of 1984,98-425,9/28/84,43,98,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,3,1
+South Carolina v. Baker,4/20/88,1988,1980,upheld,Tax Equity and Fiscal Responsibility Act of 1982,97-248,9/3/82,67,97,Federalism,1.0,0.0,1,0,0.0,0.0,1,1,1
+Edward J. DeBartolo Corp. v. Florida Gulf Coast Building and Construction Trades Council,4/20/88,1988,1980,struck down as applied,Labor-Management Reporting and Disclosure Act of 1959,86-257,9/14/59,343,86,Substantive Rights,1.0,1.0,1,1,0.0,0.0,0,0,1
+Federal Deposit Insurance Corp. v. Mallen,5/31/88,1988,1980,upheld,Financial Institutions Supervisory Act of 1966,89-695,10/16/66,259,89,Due Process,0.0,0.0,1,0,1.0,0.0,1,0,1
+Bowen v. Kendrick,6/29/88,1988,1980,upheld,Omnibus Budget Reconciliation Act of 1981,97-35,8/13/81,82,97,Substantive Rights,1.0,0.0,1,0,1.0,0.0,1,4,1
+Morrison v. Olson,6/29/88,1988,1980,upheld,Ethics in Government Act of 1978,95-521,10/26/78,116,95,Separation of Powers,1.0,0.0,1,0,1.0,0.0,1,1,1
+Mistretta v. United States,1/18/89,1989,1980,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,51,98,Separation of Powers,1.0,1.0,1,1,0.0,0.0,1,1,1
+Mesa v. California,2/21/89,1989,1980,struck down as applied,Judiciary and Judicial Procedure Act,80-773,6/25/48,608,80,Federalism,0.0,0.0,1,1,0.0,0.0,0,0,0
+Coit Independence Joint Venture v. Federal Savings and Loan Insurance Corp.,3/21/89,1989,1980,struck down as applied,National Housing Act,73-479,6/27/34,657,73,Separation of Powers,1.0,0.0,1,1,1.0,0.0,1,0,1
+Skinner v. Mid-American Pipeline Co.,4/25/89,1989,1980,upheld,Consolidate Omnibus Budget Reconciliation Act of 1985,99-272,4/7/86,36,99,Separation of Powers,0.0,0.0,1,0,1.0,0.0,1,0,1
+United States v. Halper,5/15/89,1989,1980,struck down as applied,96 Stat. 978,97-258,9/13/82,80,97,Due Process,0.0,0.0,1,0,0.0,0.0,1,0,1
+Hernandez v. Commissioner,6/5/89,1989,1980,upheld,Revenue Act of 1943,78-235,2/25/44,544,78,Substantive Rights,1.0,0.0,1,1,0.0,0.0,1,2,1
+Gomez v. United States,6/12/89,1989,1980,struck down as applied,Federal Magistrates Act,90-578,10/17/68,248,90,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,1
+Pennsylvania v. Union Gas Co.,6/15/89,1989,1980,upheld,"Comprehensive Environmental Response, Compensation, and Liability Act of 1980",96-510,12/11/80,102,96,Federalism,1.0,0.0,0,1,0.0,0.0,0,4,1
+Missouri v. Jenkins,6/19/89,1989,1980,upheld,Civil Rights Attorney's Fees Awards Act of 1976,94-559,10/19/76,152,94,Federalism,0.0,0.0,0,1,0.0,0.0,0,3,1
+Public Citizen v. United States Department of Justice,6/21/89,1989,1980,struck down as applied,Federal Advisory Committee Act,92-463,10/6/72,200,92,Separation of Powers,0.0,0.0,1,0,0.0,0.0,1,0,1
+United States v. Monsanto,6/22/89,1989,1980,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,56,98,Due Process,0.0,0.0,1,1,1.0,0.0,1,4,1
+Caplin & Drysdale v. United States,6/22/89,1989,1980,upheld,Comprehensive Drug Abuse Prevention and Control Act of 1970,91-513,10/27/70,224,91,Due Process,1.0,0.0,1,1,0.0,0.0,1,4,1
+"Sable Communications of California, Inc. v. Federal Communications Commission",6/23/89,1989,1980,struck down as applied,Anti-Drug Abuse Act of 1988,100-690,11/18/88,7,100,Substantive Rights,1.0,0.0,1,0,0.0,1.0,1,3,1
+"Granfinanciera, S.A. v. Nordberg",6/23/89,1989,1980,struck down as applied,Bankruptcy Amendments and Federal Judgeship Act of 1984,98-353,7/10/84,59,98,Due Process,1.0,0.0,0,1,1.0,0.0,0,3,1
+Hoffman v. Connecticut Department of Income Maintenance,6/23/89,1989,1980,struck down as applied,Bankruptcy Reform Act of 1978,95-598,11/6/78,127,95,Federalism,1.0,0.0,1,1,0.0,0.0,0,4,1
+United States v. Sperry Corp.,11/28/89,1989,1980,upheld,Foreign Relations Authorization Act,99-93,8/16/85,51,99,Economic,0.0,0.0,1,0,1.0,0.0,1,0,1
+University of Pennsylvania v. Equal Employment Opportunity Commission,1/9/90,1990,1990,upheld,Civil Rights Act of 1964,88-352,7/2/64,305,88,Substantive Rights,1.0,0.0,1,1,0.0,0.0,1,0,1
+Federal Trade Commission v. Superior Court Trial Lawyers Association,1/22/90,1990,1990,upheld,Federal Trade Commission Act,63-203,9/26/14,904,63,Substantive Rights,1.0,1.0,1,1,1.0,0.0,1,3,1
+Preseault v. Interstate Commerce Commission,2/21/90,1990,1990,upheld,National Trails System Act Amendments,98-11,3/28/83,83,98,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,1
+"Chauffeurs, Teamsters & Helpers, Local No. 391 v. Terry",3/20/90,1990,1990,struck down as applied,Taft-Hartley Act,80-101,6/23/47,513,80,Due Process,1.0,0.0,0,1,0.0,0.0,0,3,0
+United States Department of Labor v. Triplett,3/27/90,1990,1990,upheld,Federal Coal Mine Helath and Safety Act of 1969,91-173,12/30/69,243,91,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,1
+United States v. Munoz-Flores,5/21/90,1990,1990,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,67,98,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,1
+Board of Education of Westside Community School v. Mergens,6/4/90,1990,1990,upheld,Education for Economic Security Act,98-377,8/11/84,70,98,Substantive Rights,0.0,0.0,1,1,0.0,0.0,0,1,1
+United States v. Eichman,6/11/90,1990,1990,struck down on face,Flag Protection Act of 1989,101-131,10/28/89,8,101,Substantive Rights,0.0,0.0,1,0,0.0,1.0,1,4,1
+Perpich v. Department of Defense,6/11/90,1990,1990,upheld,National Defense Authorization Act for Fiscal Year 1987,99-661,11/14/86,43,99,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,1
+Office of Personnel Management v. Richmond,6/11/90,1990,1990,upheld,80 Stat. 584,89-554,9/6/66,285,89,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,2,1
+Sullivan v. Stroop,6/14/90,1990,1990,upheld,Deficit Reduction Act of 1984,98-369,7/18/84,71,98,Equality,0.0,0.0,1,1,1.0,0.0,1,4,1
+"Metro Broadcasting, Inc. v. Federal Communications Commission",6/27/90,1990,1990,upheld,101 Stat. 1329,100-202,12/22/87,30,100,Equality,0.0,0.0,1,1,1.0,0.0,1,4,1
+Touby v. United States,5/20/91,1991,1990,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,79,98,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,0,1
+Rust v. Sullivan,5/23/91,1991,1990,upheld,Family Planning Services and Population Research Act of 1970,91-572,12/24/70,245,91,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,4,1
+Chapman v. United States,5/30/91,1991,1990,upheld,Anti-Drug Abuse Act of 1986,99-570,10/27/86,55,99,Due Process,1.0,1.0,1,1,0.0,0.0,1,2,1
+Burns v. United States,6/13/91,1991,1990,struck down as applied,Comprehensive Crime Control Act of 1984,98-473,10/12/84,80,98,Due Process,1.0,0.0,1,1,1.0,0.0,1,4,1
+Metropolitan Washington Airports Authority v. Citizens for Abatement of Aircraft Noise,6/17/91,1991,1990,struck down on face,"Agriculture, Rural Development, and Related Agencies Appropriations Act",99-591,10/30/86,56,99,Separation of Powers,0.0,0.0,1,1,0.0,1.0,0,3,1
+Gregory v. Ashcroft,6/20/91,1991,1990,struck down on face,Fair Labor Standards Amendments of 1974,93-259,4/8/74,206,93,Federalism,0.0,0.0,0,1,0.0,0.0,0,4,1
+Freytag v. Commissioner,6/27/91,1991,1990,upheld,Tax Reform Act of 1986,99-514,10/22/86,56,99,Separation of Powers,1.0,0.0,1,1,0.0,0.0,1,0,1
+Peretz v. United States,6/27/91,1991,1990,upheld,Federal Magistrates Act,90-578,10/17/68,284,90,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,4,1
+Willy v. Coastal Corp.,3/3/92,1992,1990,upheld,Judiciary and Judicial Procedure Act,80-773,6/25/48,537,80,Separation of Powers,0.0,0.0,0,1,0.0,0.0,0,0,0
+National Railroad Passenger Corp. v. Boston & Maine Corp.,3/25/92,1992,1990,upheld,Rail Passenger Service Act of 1970,91-518,10/30/70,269,91,Economic,1.0,0.0,1,1,1.0,0.0,1,3,1
+Robertson v. Seattle Audubon Society,3/25/92,1992,1990,upheld,103 Stat. 745,101-121,10/23/89,29,101,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,1
+Department of Commerce v. Montana,3/31/92,1992,1990,upheld,55 Stat. 761,77-291,11/15/41,616,77,Equality,0.0,0.0,1,1,1.0,0.0,1,0,1
+Lujan v. Defenders of Wildlife,6/12/92,1992,1990,struck down as applied,Endangered Species Act of 1973,93-205,12/28/73,234,93,Separation of Powers,1.0,0.0,1,1,1.0,0.0,1,2,1
+New York v. United States,6/19/92,1992,1990,struck down on face,Low-Level Radioactive Waste Policy Amendments Act of 1985,99-240,1/15/86,77,99,Federalism,0.0,0.0,1,1,1.0,1.0,1,3,1
+Reno v. Flores,3/23/92,1992,1990,upheld,Immigration and Nationality Act,82-414,6/27/52,477,82,Due Process,1.0,0.0,1,1,1.0,0.0,1,2,1
+Rowland v. California Men's Colony,1/12/93,1993,1990,upheld,73 Stat. 590,86-321,9/21/59,400,86,Substantive Rights,0.0,0.0,0,1,1.0,0.0,0,4,1
+Federal Communications Commission v. Beach Communications,6/1/93,1993,1990,upheld,Cable Communications Policy Act of 1984,98-549,10/30/84,104,98,Equality,1.0,0.0,1,1,1.0,0.0,1,0,1
+Concrete Pipe & Products v. Construction Laborers Pension Trust,6/14/93,1993,1990,upheld,Multiemployer Pension Plan Amendments of 1980,96-364,9/26/80,153,96,Due Process,0.0,0.0,0,1,0.0,0.0,0,0,1
+United States v. Edge Broadcasting Co.,6/25/93,1993,1990,upheld,Charity Games Advertising Clarification Act of 1988,100-625,11/7/88,55,100,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,2,1
+Alexander v. United States,6/28/93,1993,1990,upheld,Organized Crime Control Act of 1970,91-452,10/15/70,272,91,Substantive Rights,1.0,1.0,1,1,0.0,0.0,1,4,1
+Weiss v. United States,1/19/94,1994,1990,upheld,Military Justice Act of 1968,90-632,10/24/68,303,90,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,0,1
+Thunder Basin Coal Co. v. Reich,1/19/94,1994,1990,upheld,Federal Mine Safety and Health Amendments Act of 1977,95-164,11/9/77,195,95,Due Process,0.0,0.0,1,1,0.0,0.0,1,0,1
+"Posters 'N' Things, Ltd. v. United States",5/23/94,1994,1990,upheld,Anti-Drug Abuse Act of 1986,99-570,10/27/86,91,99,Due Process,1.0,1.0,1,1,0.0,0.0,1,0,1
+Nichols v. United States,6/6/94,1994,1990,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,116,98,Due Process,1.0,1.0,1,1,0.0,0.0,1,3,1
+United States v. Carlton,6/13/94,1994,1990,upheld,Omnibus Budget Reconciliation Act of 1987,100-203,12/22/87,78,100,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,1
+Reed v. Farley,6/20/94,1994,1990,upheld,Interstate Agreement on Detainers Act,91-538,12/9/70,282,91,Due Process,0.0,0.0,1,1,0.0,0.0,0,4,1
+United States v. X-Citement Video,11/29/94,1994,1990,struck down as applied,Protection of Children Against Sexual Exploitation Act,95-225,2/6/78,201,95,Due Process,0.0,0.0,1,1,1.0,0.0,1,2,1
+Lebron v. National Railroad Passenger Corp.,2/21/95,1995,1990,struck down as applied,Rail Passenger Service Act of 1970,91-518,10/30/70,304,91,Due Process,1.0,0.0,0,1,1.0,0.0,1,1,1
+United States v. National Treasury Empoloyees Union,2/22/95,1995,1990,struck down as applied,Ethics Reform Act of 1989,101-194,11/30/89,63,101,Substantive Rights,1.0,0.0,1,1,1.0,1.0,1,4,1
+Plaut v. Spendthrift Farm,4/18/95,1995,1990,struck down as applied,Federal Deposit Insurance Corporation Improvement Act of 1991,102-242,12/19/91,40,102,Separation of Powers,1.0,0.0,1,1,0.0,1.0,0,2,1
+Rubin v. Coors Brewing Co.,4/19/95,1995,1990,struck down on face,Federal Alcohol Administration Act,74-401,8/29/35,716,74,Substantive Rights,0.0,0.0,1,1,0.0,1.0,1,0,1
+United States v. Lopez,4/26/95,1995,1990,struck down on face,Violent Crime Control and Law Enforcement Act of 1994,103-322,9/13/94,7,103,Federalism,1.0,0.0,1,1,0.0,1.0,1,4,1
+Ryder v. United States,6/12/95,1995,1990,struck down as applied,Revision of Code relating to Armed Services,84-1028,8/10/56,466,84,Separation of Powers,0.0,0.0,1,1,1.0,0.0,1,0,1
+Witte v. United States,6/14/95,1995,1990,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,128,98,Due Process,1.0,0.0,1,1,0.0,0.0,1,1,1
+Wisconsin v. City of New York,3/20/96,1996,1990,upheld,Census Act,83-740,8/31/54,499,83,Equality,0.0,0.0,1,1,1.0,0.0,0,0,0
+Seminole Tribe v. Florida,3/27/96,1996,1990,struck down on face,Indian Gambling Regulatory Act,100-497,10/17/88,89,100,Federalism,0.0,0.0,1,1,0.0,1.0,0,4,1
+United Food & Commercial Workers Union Local 751 v. Brown Group,5/13/96,1996,1990,upheld,Worker Adjustment and Retraining Notification Act,100-379,8/4/88,93,100,Separation of Powers,1.0,0.0,1,1,1.0,0.0,0,0,1
+Loving v. United States,6/3/96,1996,1990,upheld,Revision of Code relating to Armed Services,84-1028,8/10/56,478,84,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,0,1
+United States v. International Business Machines,6/10/96,1996,1990,struck down as applied,Renegotiation Act Extension,83-746,8/16/54,502,83,Economic,1.0,0.0,1,1,0.0,1.0,1,2,0
+United States v. Ursery,6/24/96,1996,1990,upheld,Comprehensive Drug Abuse Prevention and Control Act of 1970,91-513,10/27/70,308,91,Due Process,1.0,0.0,1,1,1.0,0.0,1,1,1
+Colorado Republican Federal Campaign Committee v. Federal Election Commission,6/26/96,1996,1990,struck down as applied,Federal Election Campaign Act Amendments of 1976,94-283,5/11/76,241,94,Substantive Rights,0.0,0.0,1,1,0.0,1.0,1,6,1
+Felker v. Turpin,6/28/96,1996,1990,upheld,Antiterrorism and Effective Death Penalty Act of 1996,104-132,4/24/96,2,104,Separation of Powers,0.0,0.0,1,1,0.0,0.0,0,0,0
+Denver Area Educational Telecommuncations Consortium v. Federal Communications Commission,6/28/96,1996,1990,struck down on face,Cable Television Consumer Protection and Competition Act of 1992,102-385,10/5/92,44,102,Substantive Rights,1.0,1.0,1,1,1.0,1.0,1,6,1
+United States v. Watts,1/6/97,1997,1990,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,147,98,Due Process,1.0,1.0,0,1,1.0,0.0,1,2,1
+Babbitt v. Youpee,1/21/97,1997,1990,struck down on face,Indian Land Consolidation Act Amendments,98-608,10/30/84,147,98,Economic,0.0,0.0,1,1,0.0,1.0,1,1,1
+Turner Broadcasting System v. Federal Communications Commission,3/31/97,1997,1990,upheld,Cable Television Consumer Protection and Competition Act of 1992,102-385,10/5/92,53,102,Substantive Rights,1.0,1.0,1,0,0.0,0.0,1,4,1
+Edmond v. United States,5/19/97,1997,1990,upheld,Federal Aviation Act of 1958,85-726,8/23/58,465,85,Separation of Powers,1.0,0.0,1,1,0.0,0.0,1,0,1
+Glickman v. Wileman Bros. & Elliott,6/25/97,1997,1990,upheld,Agricultural Marketing Agreement Act of 1937,75-137,6/3/37,720,75,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,4,1
+City of Boerne v. Flores,6/25/97,1997,1990,struck down on face,Religious Freedom Restoration Act of 1993,103-141,11/16/93,43,103,Substantive Rights,1.0,1.0,1,1,1.0,1.0,0,3,1
+Reno v. American Civil Liberties Union,6/26/97,1997,1990,struck down on face,Telecommunications Act of 1996,104-104,2/8/96,16,104,Substantive Rights,1.0,0.0,1,0,0.0,1.0,1,2,0
+Printz v. United States,6/27/97,1997,1990,struck down on face,Brady Handgun Violence Prevention Act,103-159,11/30/93,43,103,Federalism,1.0,1.0,1,1,1.0,1.0,1,4,1
+Salinas v. United States,12/2/97,1997,1990,upheld,Organized Crime Control Act of 1970,91-452,10/15/70,326,91,Federalism,1.0,1.0,1,1,0.0,0.0,1,0,1
+Hudson v. United States,12/10/97,1997,1990,upheld,"Financial Institutions Reform, Recovery, and Enforcement Act of 1989",101-73,8/9/89,100,101,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,1
+Brogan v. United States,1/26/98,1998,1990,upheld,Criminal Code Amendments,73-394,6/18/34,775,73,Due Process,0.0,0.0,1,1,0.0,0.0,1,2,1
+Almendarez-Torres v. United States,3/24/98,1998,1990,upheld,Anti-Drug Abuse Act of 1988,100-690,11/18/88,112,100,Due Process,1.0,0.0,1,1,0.0,0.0,1,4,1
+Feltner v. Columbia Pictures TV,3/31/98,1998,1990,struck down as applied,U.S. Copyright Act of 1976,94-553,10/19/76,137,94,Due Process,1.0,0.0,0,1,1.0,1.0,0,0,1
+United States v. United States Shoe Corp.,3/31/98,1998,1990,struck down as applied,Water and Resources Development Act of 1986,99-662,11/17/86,136,99,Economic,0.0,0.0,1,1,0.0,1.0,1,0,1
+Miller v. Albright,4/22/98,1998,1990,upheld,Immigration and Nationality Act,82-414,6/27/52,550,82,Equality,1.0,0.0,1,1,0.0,0.0,1,3,1
+Federal Election Commission v. Akins,6/1/98,1998,1990,upheld,Federal Election Campaign Act of 1971,92-225,2/7/72,316,92,Separation of Powers,1.0,0.0,1,1,0.0,0.0,1,3,1
+United States v. Bajakajian,6/22/98,1998,1990,struck down as applied,Anti-Drug Abuse Act of 1986,99-570,10/27/86,140,99,Due Process,1.0,1.0,1,1,0.0,0.0,1,4,1
+Clinton v. City of New York,6/25/98,1998,1990,struck down on face,Line Item Veto Act,104-130,4/9/96,26,104,Separation of Powers,1.0,1.0,1,0,0.0,1.0,1,3,0
+Eastern Enterprises v. Apfel,6/25/98,1998,1990,struck down as applied,Energy Policy Act of 1992,102-486,10/24/92,68,102,Due Process,1.0,1.0,1,1,1.0,1.0,1,5,1
+National Endowment of the Arts v. Finley,6/25/98,1998,1990,upheld,Department of the Interior and Related Agencies Appropriations Act of 1991,101-512,11/5/90,92,101,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,1,1
+United States v. Balsys,6/25/98,1998,1990,upheld,Immigration and Nationality Act,82-414,6/27/52,552,82,Due Process,1.0,1.0,1,1,1.0,0.0,1,2,1
+Reno v. American-Arab Anti-Discrimination Committee,2/24/99,1999,1990,upheld,Omnibus Consolidated Appropriations Act of 1997,104-208,9/30/96,29,104,Due Process,1.0,1.0,1,1,0.0,0.0,1,1,0
+Saenz v. Roe,5/17/99,1999,1990,struck down as applied,Personal Responsibility and Work Opportunity Reconciliation Act of 1996,104-193,8/22/96,33,104,Substantive Rights,1.0,1.0,1,1,0.0,0.0,0,2,0
+Greater New Orleans Broadcasting Association v. United States,6/14/99,1999,1990,struck down as applied,Charity Games Advertising Clarification Act of 1988,100-625,11/7/88,127,100,Substantive Rights,0.0,0.0,1,1,1.0,1.0,1,0,1
+Florida Prepaid Postsecondary Educational Expense Board v. College Savings Bank,6/23/99,1999,1990,struck down on face,Patent and Plant Variety Protection Remedy Clarification Act,102-560,10/28/92,80,102,Federalism,0.0,0.0,1,1,1.0,1.0,0,4,1
+College Savings Bank v. Florida Prepaid Postsecondary Educational Expense Board,6/23/99,1999,1990,struck down on face,Trademark Remedy Clarification Act,102-542,10/27/92,80,102,Federalism,0.0,0.0,1,1,0.0,1.0,0,4,1
+Alden v. Maine,6/23/99,1999,1990,struck down as applied,Fair Labor Standards Amendments of 1974,93-259,4/8/74,302,93,Federalism,0.0,0.0,1,1,0.0,1.0,0,4,1
+Reno v. Condon,1/12/00,2000,2000,upheld,Violent Crime Control and Law Enforcement Act of 1994,103-322,9/13/94,64,103,Federalism,1.0,0.0,1,1,1.0,0.0,1,0,1
+Kimel v. Florida Board of Regents,1/11/00,2000,2000,struck down on face,Fair Labor Standards Amendments of 1974,93-259,4/8/74,309,93,Federalism,0.0,0.0,1,1,0.0,1.0,0,6,1
+United States v. Morrison,5/15/00,2000,2000,struck down on face,Violent Crime Control and Law Enforcement Act of 1994,103-322,9/13/94,68,103,Federalism,1.0,0.0,1,1,0.0,1.0,1,4,1
+Johnson v. United States,5/15/00,2000,2000,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,187,98,Due Process,1.0,0.0,1,1,0.0,0.0,0,1,1
+"United States v. Playboy Entertainment Group, Inc.",5/22/00,2000,2000,struck down on face,Telecommunications Act of 1996,104-104,2/8/96,51,104,Substantive Rights,1.0,0.0,1,0,0.0,1.0,0,4,0
+Jones v. United States,5/22/00,2000,2000,struck down as applied,Anti-Arson Act of 1982,97-298,10/12/82,211,97,Federalism,0.0,0.0,1,1,1.0,0.0,0,0,1
+Miller v. French,6/19/00,2000,2000,upheld,Omnibus Consolidated Rescissions and Appropriations Act of 1996,104-134,4/26/96,50,104,Separation of Powers,0.0,0.0,1,1,1.0,0.0,0,3,0
+Dickerson v. United States,6/26/00,2000,2000,struck down on face,Omnibus Crime Control and Safe Streets Act of 1968,90-351,6/19/68,384,90,Due Process,1.0,1.0,1,1,1.0,1.0,1,2,1
+Mitchell v. Helms,6/28/00,2000,2000,upheld,Omnibus Budget Reconciliation Act of 1981,97-35,8/13/81,226,97,Substantive Rights,1.0,1.0,1,1,1.0,0.0,0,3,1
+Solid Waste Agency v. United States Army Corps of Engineers,1/9/01,2001,2000,struck down as applied,Federal Water Pollution Control Act Amendments of 1972,92-500,10/18/72,363,92,Federalism,1.0,0.0,1,1,1.0,0.0,1,4,1
+Board of Trustees of the University of Alabama v. Garrett,2/21/01,2001,2000,struck down on face,Americans with Disabilities Act of 1990,101-336,7/26/90,127,101,Federalism,1.0,0.0,1,1,1.0,1.0,0,4,1
+Whitman v. American Trucking Association,2/27/01,2001,2000,upheld,Clean Air Amendments of 1970,91-604,12/31/70,362,91,Separation of Powers,1.0,1.0,1,1,1.0,0.0,1,0,1
+Legal Services Corporation v. Velazquez,2/28/01,2001,2000,struck down on face,Omnibus Consolidated Rescissions and Appropriations Act of 1996,104-134,4/26/96,58,104,Substantive Rights,0.0,0.0,1,1,0.0,1.0,1,4,0
+Bartinicki v. Vopper,5/21/01,2001,2000,struck down as applied,Omnibus Crime Control and Safe Streets Act of 1968,90-351,6/19/68,407,90,Substantive Rights,1.0,0.0,1,1,0.0,1.0,0,3,1
+United States v. Hatter,5/21/01,2001,2000,struck down as applied,Social Security Amendments of 1983,98-173,4/20/83,217,98,Separation of Powers,1.0,1.0,1,1,1.0,1.0,1,2,1
+Federal Election Commission v. Colorado Republican Federal Campaign Committee,6/25/01,2001,2000,upheld,Federal Election Campaign Act Amendments of 1976,94-283,5/11/76,289,94,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,4,1
+Immigration and Nationalization Service v. St. Cyr,6/25/01,2001,2000,struck down as applied,Antiterrorism and Effective Death Penalty Act of 1996,104-132,4/24/96,62,104,Due Process,0.0,0.0,1,1,0.0,0.0,1,4,0
+United States v. United Foods,6/25/01,2001,2000,struck down on face,"Food, Agriculture, Conservation, and Trade Act of 1990",101-624,11/28/90,127,101,Substantive Rights,1.0,0.0,1,1,0.0,1.0,1,3,1
+Tuan Anh Nguyen v. Immigration and Nationalization Service,6/11/01,2001,2000,upheld,Immigration and Nationality Act,82-414,6/27/52,588,82,Equality,1.0,0.0,1,1,0.0,0.0,1,4,1
+Zadvydas v. Immigration and Nationalization Service,6/28/01,2001,2000,struck down as applied,Omnibus Consolidated Appropriations Act of 1997,104-208,9/30/96,57,104,Due Process,1.0,1.0,1,1,0.0,0.0,1,3,0
+Dusenbery v. United States,1/8/02,2002,2000,upheld,Trade and Tariff Act of 1984,98-573,10/30/84,207,98,Due Process,1.0,0.0,1,1,0.0,0.0,1,4,1
+Department of Housing and Urban Development v. Rucker,3/26/02,2002,2000,upheld,Anti-Drug Abuse Act of 1988,100-690,11/18/88,160,100,Due Process,1.0,1.0,1,1,1.0,0.0,1,0,1
+Ashcroft v. Free Speech Coalition,4/16/02,2002,2000,struck down on face,Omnibus Consolidated Appropriations Act of 1997,104-208,9/30/96,67,104,Substantive Rights,0.0,0.0,1,1,0.0,1.0,1,3,0
+Tahoe-Sierra Preservation Council v. Tahoe Regional Planning Agency,4/23/02,2002,2000,upheld,Taho Regional Planning Compact,91-148,12/18/69,388,91,Economic,0.0,0.0,1,1,0.0,0.0,0,3,1
+Thompson v. Western States Medical Center,4/29/02,2002,2000,struck down on face,Food and Drug Administration Modernization Act of 1997,105-115,11/21/97,53,105,Substantive Rights,1.0,0.0,1,1,0.0,1.0,1,4,0
+Ashcroft v. American Civil Liberties Union,5/13/02,2002,2000,upheld,Omnibus Consolidated and Emergency Supplemental Appropriations Act of 1999,105-277,10/21/98,43,105,Substantive Rights,1.0,1.0,1,1,0.0,0.0,1,1,0
+Federal Maritime Commission v. South Carolina State Ports Authority,5/28/02,2002,2000,struck down as applied,Shipping Act of 1984,98-237,3/20/84,218,98,Federalism,1.0,0.0,1,1,0.0,0.0,1,4,1
+Utah v. Evans,6/20/02,2002,2000,upheld,Census Act,83-740,8/31/54,574,83,Economic,0.0,0.0,1,0,0.0,0.0,1,4,0
+BE & K Construction Company v. National Labor Relations Board,6/24/02,2002,2000,struck down as applied,Taft-Hartley Act,80-101,6/23/47,660,80,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,0,0
+Harris v. United States,6/24/02,2002,2000,upheld,Comprehensive Crime Control Act of 1984,98-473,10/12/84,212,98,Due Process,1.0,0.0,1,1,0.0,0.0,1,4,1
+Pierce County v. Guillern,1/14/03,2003,2000,upheld,National Highway System Designation Act of 1995,104-59,11/28/95,86,104,Federalism,1.0,0.0,1,1,1.0,0.0,0,0,0
+Eldred v. Ashcroft,1/15/03,2003,2000,upheld,Sonny Bono Copyright Extension Act,105-298,10/27/98,51,105,Economic,0.0,0.0,1,1,0.0,0.0,1,2,0
+Jinks v. Richland County,4/22/03,2003,2000,upheld,Judicial Improvements Act of 1990,101-650,12/1/90,148,101,Federalism,1.0,0.0,1,1,1.0,0.0,0,0,1
+Demore v. Hyung Joon Kim,4/29/03,2003,2000,upheld,Omnibus Consolidated Appropriations Act of 1997,104-208,9/30/96,79,104,Due Process,1.0,1.0,1,1,1.0,0.0,1,4,0
+Nevada Department of Human Resources v. Hibbs,5/27/03,2003,2000,upheld,Family and Medical Leave Act of 1993,103-3,2/5/93,123,103,Federalism,0.0,0.0,1,1,0.0,0.0,0,3,1
+Federal Election Commission v. Beaumont,6/16/03,2003,2000,upheld,Federal Election Campaign Act Amendments of 1976,94-283,5/11/76,325,94,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,2,1
+United States v. American Library Association,6/23/03,2003,2000,upheld,Consolidated Appropriations Act of 2001,106-554,12/21/00,30,106,Substantive Rights,0.0,0.0,1,0,1.0,0.0,1,3,0
+Khanh Phoung Nguyen v. United States,6/9/03,2003,2000,struck down as applied,72 Stat. 848,85-755,8/25/58,538,85,Separation of Powers,0.0,0.0,1,1,0.0,0.0,1,4,1
+McConnell v. Federal Election Commission,12/20/03,2003,2000,struck down on face,Bipartisan Campaign Reform Act,107-155,3/27/02,21,107,Substantive Rights,1.0,0.0,1,0,1.0,1.0,1,7,0
+United States v. Flores-Montano,3/30/04,2004,2000,upheld,Tariff Act of 1930,71-361,6/17/30,885,71,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Lara,4/19/04,2004,2000,upheld,105 Stat. 646,102-137,10/28/91,150,102,Federalism,0.0,0.0,1,1,1.0,0.0,1,2,1
+Tennessee Student Assistance Corporation v. Hood,5/17/04,2004,2000,upheld,Bankruptcy Reform Act of 1994,103-394,10/22/94,115,103,Federalism,0.0,0.0,0,1,0.0,0.0,0,2,1
+Tennessee v. Lane,5/17/04,2004,2000,upheld,Americans with Disabilities Act of 1990,101-336,7/26/90,166,101,Federalism,0.0,0.0,1,1,0.0,0.0,0,4,1
+Sabri v. United States,5/17/04,2004,2000,upheld,Criminal Law and Procedure Technical Amendments Act of 1986,99-646,11/10/86,90,99,Federalism,0.0,0.0,1,1,0.0,0.0,1,0,1
+Hamdi v. Rumsfeld,6/28/04,2004,2000,struck down as applied,Authorization for the Use of Military Force,107-40,9/18/01,33,107,Due Process,1.0,0.0,1,1,0.0,0.0,1,5,0
+United States v. Booker,1/12/05,2005,2000,struck down on face,Controlled Substances Penalties Amendment Act,98-473,10/12/84,243,98,Due Process,1.0,1.0,1,1,0.0,1.0,1,8,1
+Clark v. Martinez,1/12/05,2005,2000,struck down as applied,Omnibus Consolidated Appropriations Act of 1997,104-208,9/30/96,100,104,Due Process,1.0,1.0,1,1,1.0,0.0,1,2,0
+Cherokee Nation v. Leavitt,3/1/05,2005,2000,struck down as applied,Omnibus Consolidated and Emergency Supplemental Appropriations Act of 1999,105-277,10/21/98,77,105,Economic,0.0,0.0,1,1,1.0,0.0,1,0,0
+Shepard v. United States,3/7/05,2005,2000,struck down as applied,Armed Career Criminals Act,98-473,10/12/84,245,98,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,1
+Johanns v. Livestock Marketing Association,5/23/05,2005,2000,upheld,Food Security Act of 1985,99-417,12/23/85,233,99,Substantive Rights,0.0,0.0,1,1,0.0,0.0,1,3,1
+Cutter v. Wilkinson,5/31/05,2005,2000,upheld,Religious Land Use and Institutionalized Persons Act of 2000,106-274,9/22/00,56,106,Substantive Rights,0.0,0.0,1,1,1.0,0.0,0,0,0
+Gonzales v. Raich,6/6/05,2005,2000,upheld,Comprehensive Drug Abuse Prevention and Control Act of 1970,91-513,10/27/70,416,91,Federalism,1.0,0.0,1,1,0.0,0.0,1,3,1
+"Rumsfeld v. Forum for Academic and Institutional Rights, Inc.",3/6/06,2006,2000,upheld,Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005,108-375,10/28/04,17,108,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,0,0
+Central Virginia Community College v. Katz,1/23/06,2006,2000,upheld,Bankruptcy Reform Act of 1978,95-598,11/6/78,326,95,Federalism,1.0,0.0,0,1,0.0,0.0,0,4,1
+United States v. Georgia,1/10/06,2006,2000,upheld,Americans with Disabilities Act,101-336,7/26/90,185,101,Federalism,1.0,0.0,1,1,1.0,0.0,1,0,1
+Watters v. Wachovia Bank,4/17/07,2007,2000,upheld,Financial Services Modernization Act,106-102,11/12/99,90,106,Federalism,1.0,0.0,1,1,0.0,0.0,0,3,0
+Gonzales v. Carhart,4/18/07,2007,2000,upheld,Partial-Birth Abortion Ban Act,108-105,11/5/03,42,108,Substantive Rights,1.0,1.0,1,1,1.0,0.0,1,4,0
+"Federal Election Commission v. Wisconsin Right to Life, Inc.",6/25/07,2007,2000,struck down as applied,Bipartisan Campaign Reform Act,107-155,3/27/02,63,107,Substantive Rights,1.0,1.0,1,0,0.0,1.0,1,4,0
+United States v. Williams,5/19/08,2008,2000,upheld,Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act,108-21,4/30/03,60,108,Substantive Rights,0.0,0.0,1,1,1.0,0.0,1,2,0
+Boumediene v. Bush,6/12/08,2008,2000,struck down on face,Military Commissions Act,109-366,10/17/06,20,109,Substantive Rights,1.0,1.0,1,1,1.0,1.0,1,4,0
+Davis v. Federal Election Commisssion,6/26/08,2008,2000,struck down on face,Bipartisan Campaign Reform Act,107-155,3/27/02,75,107,Substantive Rights,1.0,0.0,1,0,1.0,1.0,1,4,0
+Citizens United v. Federal Election Commission,1/21/10,2010,2010,struck down on face,Bipartisan Campaign Reform Act,107-155,3/27/02,93,107,Substantive Rights,1.0,1.0,1,0,1.0,1.0,1,5,0
+"Milavetz, Gallop & Milavetz v. United States",3/8/10,2010,2010,upheld,Bankruptcy Abuse Prevention and Consumer Protection Act,109-8,4/20/05,58,109,Substantive Rights,1.0,0.0,1,1,1.0,0.0,1,0,0
+United States v. Stevens,4/20/10,2010,2010,struck down on face,To Amend Title 18,106-152,12/9/99,125,106,Substantive Rights,0.0,0.0,1,1,0.0,1.0,1,1,0
+United States v. Comstock,5/17/10,2010,2010,upheld,Adam Walsh Child Protection and Safety Act,109-248,7/27/06,46,109,Federalism,1.0,1.0,1,1,1.0,0.0,1,2,0
+Holder v. Humanitarian Law Project,6/21/10,2010,2010,upheld,Antiterrorism and Effective Death Penalty Act,104-132,4/24/96,182,104,Due Process,0.0,0.0,1,1,1.0,0.0,1,3,0
+Skilling v. United States,6/24/10,2010,2010,upheld,Anti-Drug Abuse Act,100-690,11/18/88,259,100,Due Process,1.0,0.0,1,1,1.0,0.0,1,3,1
+Free Enterprise Fund and Beckstead and Watts v. Public Company Accounting Oversight Board,6/28/10,2010,2010,struck down on face,Sarbanes-Oxley Act,107-204,7/30/02,95,107,Separation of Powers,1.0,0.0,1,1,1.0,1.0,1,4,0
+Virginia Office for Protection and Advocacy v. Stewart,4/19/11,2011,2010,upheld,Development Disabilities Assistance and Bill of Rights Act,106-402,10/30/00,128,106,Federalism,0.0,0.0,1,1,1.0,0.0,0,2,0
+Stern v. Marshall,6/23/11,2011,2010,struck down as applied,Bankruptcy Amendments and Federal Judgeship Act,98-353,7/10/84,334,98,Separation of Powers,1.0,0.0,1,1,0.0,1.0,0,4,0
+Pepper v. United States,3/2/11,2011,2010,struck down on face,Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act,108-21,4/30/03,94,108,Due Process,0.0,0.0,1,1,1.0,1.0,1,2,0
+Sossamon v. Texas,4/20/11,2011,2010,struck down as applied,Religious Land Use and Institutionalized Persons Act,106-274,9/22/00,129,106,Federalism,0.0,0.0,0,1,0.0,0.0,0,2,1
+Coleman v. Court of Appeals of Maryland,3/20/12,2012,2010,struck down as applied,Family and Medical Leave Act,103-3,2/5/93,229,103,Federalism,1.0,0.0,0,1,0.0,1.0,0,4,1
+United States v. Alvarez,6/28/12,2012,2010,struck down on face,Stolen Valor Act,109-437,12/20/06,67,109,Substantive Rights,0.0,0.0,1,1,0.0,1.0,1,3,0
+National Federation of Independent Business v. Sebelius,6/28/12,2012,2010,struck down as applied,Patient Protection and Affordable Care Act,111-148,3/23/10,26,111,Federalism,1.0,1.0,1,1,1.0,1.0,1,4,1
+Hosanna-Tabor Evangelical Lutheran Church and School v. Equal Employment Opportunity Commission,1/11/12,2012,2010,struck down as applied,Americans with Disabilities Act,101-336,7/26/90,257,101,Substantive Rights,1.0,0.0,1,1,1.0,1.0,1,0,1
+Peugh v. United States,6/10/13,2013,2010,struck down on face,Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act,108-21,4/30/03,121,108,Due Process,0.0,0.0,1,1,1.0,0.0,1,4,0
+Agency for International Development v. Alliance for Open Society International,6/20/13,2013,2010,struck down on face,United States Leadership Agaist HIV/AIDS,108-25,5/27/03,121,108,Substantive Rights,1.0,0.0,1,1,0.0,1.0,1,2,0
+United States v. Kebodeaux,6/24/13,2013,2010,upheld,Sex Offender Registration and Notification Act,109-248,7/27/06,82,109,Federalism,1.0,1.0,1,1,1.0,0.0,1,2,0
+Shelby County v. Holder,6/25/13,2013,2010,struck down as applied,Voting Rights Act Reauthorization and Amendments Act,109-246,7/27/06,82,109,Federalism,1.0,1.0,1,1,1.0,1.0,1,4,0
+United States v. Windsor,6/26/13,2013,2010,struck down on face,Defense of Marriage Act,104-199,9/21/96,201,104,Equality,0.0,0.0,1,1,0.0,1.0,1,4,0
+McCutcheon v. Federal Election Commission,4/2/14,2014,2010,struck down on face,Bipartisan Campaign Reform Act,107-155,3/27/02,144,107,Substantive Rights,1.0,1.0,1,0,1.0,1.0,1,4,0
+"Wellness International Network, Limited v. Sharif",5/26/15,2015,2010,upheld,Bankruptcy Amendments and Federal Judgeship Act,98-353,7/10/84,357,98,Separation of Powers,1.0,0.0,1,1,1.0,0.0,1,3,1
+Zivotofsky v. Kerry,6/8/15,2015,2010,struck down on face,United States Policy with Respect to Jerusalem as the Capital of Israel,107-228,9/30/02,141,107,Separation of Powers,0.0,0.0,1,1,0.0,1.0,1,4,0
+Kerry v. Din,6/15/15,2015,2010,upheld,Immigration Act of 1990,101-649,11/29/90,283,101,Due Process,1.0,0.0,1,1,1.0,0.0,1,0,1
+Johnson v. United States,6/26/15,2015,2010,struck down on face,Armed Career Criminals Act,98-473,10/12/84,365,98,Due Process,0.0,0.0,1,1,1.0,1.0,1,0,1
+Luis v. United States,3/30/16,2016,2010,struck down on face,Gun Control Act,101-647,11/29/90,304,101,Due Process,0.0,0.0,1,1,1.0,1.0,1,3,1
+Welch v. United States,4/18/16,2016,2010,struck down on face,Armed Career Criminals Act,98-473,10/12/84,375,98,Due Process,0.0,0.0,1,1,1.0,0.0,1,1,1
+Bank Markazi v. Peterson,4/20/16,2016,2010,upheld,Iran Threat Reduction and Syria Human Rights Act,112-158,8/10/12,45,112,Separation of Powers,0.0,0.0,1,1,0.0,0.0,0,2,0
+United States v. Bryant,6/13/16,2016,2010,upheld,Violence Against Women Act Reauthorization,109-162,1/5/06,126,109,Due Process,0.0,0.0,1,1,1.0,0.0,1,0,0
+Sessions v. Morales-Santana,6/12/17,2017,2010,struck down on face,Immigration and Nationality Act,82-414,6/27/52,780,82,Equality,1.0,0.0,1,1,1.0,1.0,1,0,1
+Matal v. Tam,6/19/17,2017,2010,struck down on face,Lanham Act,79-489,7/5/46,852,79,Substantive Rights,1.0,0.0,1,1,0.0,1.0,1,0,1
+Beckles v. United States,3/6/17,2017,2010,upheld,Sentencing Reform Act,98-473,10/12/84,389,98,Due Process,1.0,0.0,1,1,0.0,0.0,1,0,1
+Sessions v. Dimaya,4/17/18,2018,2010,struck down on face,Comprehensive Crime Control Act of 1984,98-473,10/12/84,511,98,Due Process,1.0,0.0,1,1,0.0,,1,4,1
+"Oil States Energy Services, LLC v. Greene's Energy Group, LLC",4/24/18,2018,2010,upheld,Leahy-Smith America Invents Act,112-29,9/16/11,79,112,Separation of Powers,1.0,0.0,1,1,0.0,,0,2,0
+Murphy v. National Collegiate Athletic Association,5/14/18,2018,2010,struck down on face,Professional and Amateur Sports Protection Act,102-559,10/28/92,415,102,Federalism,0.0,0.0,1,1,1.0,,0,3,1
+Carpenter v. United States,6/22/18,2018,2010,struck down as applied,USA PATRIOT Act,107-56,10/26/01,212,107,Due Process,1.0,0.0,1,1,1.0,,1,4,0
+Artis v. District of Columbia,1/22/18,2018,2010,upheld,Judicial Improvements Act of 1990,101-650,12/1/90,326,101,Federalism,1.0,0.0,0,1,1.0,,1,4,1
+Patchak v. Zinke,2/27/18,2018,2010,upheld,Gun Lake Act,113-179,9/26/14,41,113,Separation of Powers,,,1,1,0.0,,1,3,0
